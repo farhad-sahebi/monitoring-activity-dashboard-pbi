@@ -3,7 +3,7 @@
 A professional Power BI dashboard to track **site visit monitoring** across projects and provinces. It consolidates planned, completed, and cancelled visits, with dynamic slicers for Province, District, Project, Visit Status, Reporting Type, and Planned Field Work Period.
 
 <p align="center">
-  <img src="docs/images/page1-overview.png" alt="Monitoring Overview" width="90%">
+  <img src="images/page1-overview.png" alt="Monitoring Overview" width="90%">
 </p>
 
 ## Highlights
@@ -23,7 +23,7 @@ A professional Power BI dashboard to track **site visit monitoring** across proj
 2. **Respondents & Monitoring Staff** – gender disaggregation visuals
 
 <p align="center">
-  <img src="docs/images/page2-gender-breakdown.png" alt="Gender Disaggregation" width="90%">
+  <img src="images/page2-gender-breakdown.png" alt="Gender Disaggregation" width="90%">
 </p>
 
 ## 🛠 Data & Model
