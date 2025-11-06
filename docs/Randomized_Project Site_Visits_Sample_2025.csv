@@ -1,0 +1,1148 @@
+﻿Count,Site_Visit_ID,Project_Name,Entity_Type,Planned_Field_Work_or_Quarter,MA_Activity,Province_Name_[Auto-Filled],District_Name_[Auto-Filled],Province_verification_based_on_district,Entity.Type,Date.of.Sampling.Confirmation,Planned.Field.Work.Period.(Category).-.Duplicate,Date.of.SV.Infrastructure.Monitoring,Status.of.SV.Infrastructure.Monitoring,Date.of.SV.Soft.Component.Monitoring,Status.of.SV.Soft.Component.Monitoring,Status.of.Physical.and.Social.SV,Type.of.reporting
+1574,KNCPM45139PM1,KNC,Government Agency,8/1/2023,Site Visit,Nangarhar,Behsud,Nangarhar,Tower,7/30/2023,8/1/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1496,KNCPM45139PM2,KNC,Government Agency,8/1/2023,Site Visit,Kapisa,Tagab,Kapisa,Tower,7/31/2023,8/2/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1480,KNCPM45139PM3,KNC,Government Agency,8/1/2023,Site Visit,Kapisa,Koh Band,Kapisa,Tower,8/1/2023,8/3/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1608,KNCPM45140PM4,KNC,Government Agency,8/2/2023,Site Visit,Nangarhar,Lalpur,Nangarhar,Tower,8/2/2023,8/4/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1514,KNCPM45141PM5,KNC,Government Agency,8/3/2023,Site Visit,Kapisa,Tagab,Kapisa,Tower,8/3/2023,8/5/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1284,KNCPM45142PM6,KNC,Government Agency,8/4/2023,Site Visit,Kunduz,Imam Sahib,Kunduz,Tower,8/4/2023,8/6/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1320,KNCPM45143PM7,KNC,Government Agency,8/5/2023,Site Visit,Kunduz,Khan Abad,Kunduz,Tower,8/5/2023,8/7/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1516,KNCPM45144PM8,KNC,Government Agency,8/6/2023,Site Visit,Kapisa,Tagab,Kapisa,Tower,8/6/2023,8/8/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1257,KNCPM45145PM9,KNC,Government Agency,8/7/2023,Site Visit,Kunduz,Imam Sahib,Kunduz,Tower,8/7/2023,8/9/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1258,KNCPM45146PM10,KNC,Government Agency,8/8/2023,Site Visit,Kunduz,Imam Sahib,Kunduz,Tower,8/8/2023,8/10/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1593,KNCPM45147PM11,KNC,Government Agency,8/9/2023,Site Visit,Nangarhar,Kama,Nangarhar,Tower,8/9/2023,8/11/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1388,KNCPM45148PM12,KNC,Government Agency,9/10/2023,Site Visit,Baghlan,Burka,Baghlan,Tower,8/10/2023,8/12/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1309,KNCPM45149PM13,KNC,Government Agency,9/10/2023,Site Visit,Kunduz,Khan Abad,Kunduz,Tower,8/11/2023,8/13/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1446,KNCPM45150PM14,KNC,Government Agency,9/10/2023,Site Visit,Baghlan,Pul-e-Hisar,Baghlan,Tower,8/12/2023,8/14/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1489,KNCPM45151PM15,KNC,Government Agency,9/10/2023,Site Visit,Kapisa,Nijrab,Kapisa,Tower,8/13/2023,8/15/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1413,KNCPM45152PM16,KNC,Government Agency,9/10/2023,Site Visit,Baghlan,Nahrin,Baghlan,Tower,8/14/2023,8/16/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1624,KNCPM45153PM17,KNC,Government Agency,9/10/2023,Site Visit,Nangarhar,Muhmand Dara,Nangarhar,Tower,8/15/2023,8/17/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1248,KNCPM45154PM18,KNC,Government Agency,9/10/2023,Site Visit,Kunduz,Imam Sahib,Kunduz,Tower,8/16/2023,8/18/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1493,KNCPM45155PM19,KNC,Government Agency,9/10/2023,Site Visit,Kapisa,Tagab,Kapisa,Tower,8/17/2023,8/19/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1398,KNCPM45156PM20,KNC,Government Agency,9/10/2023,Site Visit,Baghlan,Burka,Baghlan,Tower,8/18/2023,8/20/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1426,KNCPM45157PM21,KNC,Government Agency,9/10/2023,Site Visit,Baghlan,Khwaja Hejran,Baghlan,Tower,8/19/2023,8/21/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1242,KNCPM45158PM22,KNC,Government Agency,9/10/2023,Site Visit,Kunduz,Imam Sahib,Kunduz,Tower,8/20/2023,8/22/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1249,KNCPM45159PM23,KNC,Government Agency,8/21/2024,Site Visit,Kunduz,Imam Sahib,Kunduz,Tower,8/21/2023,8/23/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1565,KNCPM45160PM24,KNC,Government Agency,8/21/2024,Site Visit,Nangarhar,Behsud,Nangarhar,Tower,8/22/2023,8/24/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1337,KNCPM45161PM25,KNC,Government Agency,8/21/2024,Site Visit,Kunduz,Khan Abad,Kunduz,Tower,8/23/2023,8/25/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1385,KNCPM45162PM26,KNC,Government Agency,8/21/2024,Site Visit,Baghlan,Burka,Baghlan,Tower,8/24/2023,8/26/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1513,KNCPM45163PM27,KNC,Government Agency,8/21/2024,Site Visit,Kapisa,Tagab,Kapisa,Tower,8/25/2023,8/27/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1445,KNCPM45164PM28,KNC,Government Agency,8/21/2024,Site Visit,Baghlan,Pul-e-Hisar,Baghlan,Tower,8/26/2023,8/28/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1271,KNCPM45165PM29,KNC,Government Agency,8/21/2024,Site Visit,Kunduz,Imam Sahib,Kunduz,Tower,8/27/2023,8/29/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1379,KNCPM45166PM30,KNC,Government Agency,8/21/2024,Site Visit,Baghlan,Burka,Baghlan,Tower,8/28/2023,8/30/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1546,KNCPM45167PM31,KNC,Government Agency,8/21/2024,Site Visit,Laghman,Mehtarlam,Laghman,Tower,8/29/2023,8/31/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1314,KNCPM45168PM32,KNC,Government Agency,8/21/2024,Site Visit,Kunduz,Khan Abad,Kunduz,Tower,8/30/2023,9/1/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1521,KNCPM45169PM33,KNC,Government Agency,8/21/2024,Site Visit,Kapisa,Tagab,Kapisa,Tower,8/31/2023,9/2/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1477,KNCPM45170PM34,KNC,Government Agency,8/21/2024,Site Visit,Kapisa,Koh Band,Kapisa,Tower,9/1/2023,9/3/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1617,KNCPM45171PM35,KNC,Government Agency,8/21/2024,Site Visit,Nangarhar,Lalpur,Nangarhar,Tower,9/2/2023,9/4/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1615,KNCPM45172PM36,KNC,Government Agency,8/21/2024,Site Visit,Nangarhar,Lalpur,Nangarhar,Tower,9/3/2023,9/5/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1327,KNCPM45173PM37,KNC,Government Agency,8/21/2024,Site Visit,Kunduz,Khan Abad,Kunduz,Tower,9/4/2023,9/6/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1606,KNCPM45174PM38,KNC,Government Agency,8/21/2024,Site Visit,Nangarhar,Goshta,Nangarhar,Tower,9/5/2023,9/7/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1538,KNCPM45175PM39,KNC,Government Agency,8/21/2024,Site Visit,Laghman,Mehtarlam,Laghman,Tower,9/6/2023,9/8/2023,,Completed,,Not applicable,Completed,Ad Hoc
+1351,KNCPM45176PM40,KNC,Government Agency,8/21/2024,Site Visit,Kunduz,Ali Abad,Kunduz,Tower,9/7/2023,9/9/2023,,Completed,,Not applicable,Completed,Ad Hoc
+5911,AIFDPM45177PM41,AIFD,Water Resource Management,9/8/2023,Site Visit,Badakhshan,Keshem,Badakhshan,CDC,9/8/2023,9/10/2023,,Not applicable,,Completed,Completed,Regular
+360,AIFDPM45178PM42,AIFD,Water Resource Management,9/8/2023,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,CDC,9/9/2023,9/11/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+10982,AIFDPM45179PM43,AIFD,Water Resource Management,9/8/2023,Site Visit,Paktika,Urgun,Paktika,Sub Project,9/10/2023,9/12/2023,,Completed,,Completed,Completed,Regular
+5876,AIFDPM45180PM44,AIFD,Water Resource Management,9/8/2023,Site Visit,Takhar,Namak Ab,Takhar,Sub-Project,9/11/2023,9/13/2023,,Completed,,Not applicable,Completed,Regular
+293,AIFDPM45181PM45,AIFD,Water Resource Management,9/8/2023,Site Visit,Takhar,Baharak,Takhar,CDC,9/12/2023,9/14/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3299,AIFDPM45182PM46,AIFD,Water Resource Management,9/8/2023,Site Visit,Nuristan,Duab,Nuristan,CDC,9/13/2023,9/15/2023,,Not applicable,10/24/2023,Completed,Completed,Regular
+222,AIFDPM45183PM47,AIFD,Water Resource Management,9/8/2023,Site Visit,Nimroz,Khashrod,Nimroz,CDC,9/14/2023,9/16/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+5816,AIFDPM45184PM48,AIFD,Water Resource Management,9/8/2023,Site Visit,Badakhshan,Warduj,Badakhshan,Sub-Project,9/15/2023,9/17/2023,,Completed,,Not applicable,Completed,Regular
+3077,AIFDPM45185PM49,AIFD,Water Resource Management,9/8/2023,Site Visit,Samangan,Aybak,Samangan,Sub-Project,9/16/2023,9/18/2023,,Completed,10/26/2023,Not applicable,Completed,Regular
+3127,AIFDPM45186PM50,AIFD,Water Resource Management,9/8/2023,Site Visit,Kandahar,Panjwayi,Kandahar,Sub-Project,9/17/2023,9/19/2023,,Completed,11/6/2023,Not applicable,Completed,Regular
+5765,AIFDPM45187PM51,AIFD,Water Resource Management,9/8/2023,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sub-Project,9/18/2023,9/20/2023,,Completed,,Not applicable,Completed,Regular
+45,AIFDPM45188PM52,AIFD,Water Resource Management,9/8/2023,Site Visit,Badakhshan,Argo,Badakhshan,CDC,9/19/2023,9/21/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+267,AIFDPM45189PM53,AIFD,Water Resource Management,9/8/2023,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,CDC,9/20/2023,9/22/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+11123,AIFDPM45190PM54,AIFD,Water Resource Management,9/8/2023,Site Visit,Ghazni,Nawur,Ghazni,Sub Project,9/21/2023,9/23/2023,,Not applicable,,Completed,Completed,Regular
+242,AIFDPM45191PM55,AIFD,Water Resource Management,9/8/2023,Site Visit,Parwan,Sayed Khel,Parwan,CDC,9/22/2023,9/24/2023,,Not applicable,3/26/2023,Completed,Completed,Ad Hoc
+5949,AIFDPM45192PM56,AIFD,Water Resource Management,9/8/2023,Site Visit,Kandahar,Shah Wali Kot,Kandahar,CDC,9/23/2023,9/25/2023,,Not applicable,,Completed,Completed,Regular
+3272,AIFDPM45193PM57,AIFD,Water Resource Management,9/8/2023,Site Visit,Laghman,Alishang,Laghman,CDC,9/24/2023,9/26/2023,,Not applicable,10/18/2023,Completed,Completed,Regular
+10854,AIFDPM45194PM58,AIFD,Water Resource Management,9/8/2023,Site Visit,Kunar,Chawkay,Kunar,Sub Project,9/25/2023,9/27/2023,,Completed,,Completed,Completed,Regular
+3188,AIFDPM45195PM59,AIFD,Water Resource Management,9/8/2023,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,CDC,9/26/2023,9/28/2023,,Not applicable,11/7/2023,Completed,Completed,Regular
+11112,AIFDPM45196PM60,AIFD,Water Resource Management,9/8/2023,Site Visit,Ghazni,Nawur,Ghazni,Sub Project,9/27/2023,9/29/2023,,Not applicable,,Cancelled,Cancelled,Regular
+6129,AIFDPM45197PM61,AIFD,Water Resource Management,9/8/2023,Site Visit,Nangarhar,Jalalabad,Nangarhar,CDC,9/28/2023,9/30/2023,,Not applicable,,Completed,Completed,Regular
+5778,AIFDPM45198PM62,AIFD,Water Resource Management,9/8/2023,Site Visit,Takhar,Bangi,Takhar,Sub-Project,9/29/2023,10/1/2023,,Completed,,Not applicable,Completed,Regular
+8,AIFDPM45199PM63,AIFD,Water Resource Management,9/8/2023,Site Visit,Kunduz,Kunduz,Kunduz,Sub-Project,9/30/2023,10/2/2023,3/6/2023,Completed,,Not applicable,Completed,Regular
+337,AIFDPM45200PM64,AIFD,Water Resource Management,9/8/2023,Site Visit,Uruzgan,Chora,Uruzgan,CDC,10/1/2023,10/3/2023,,Not applicable,3/26/2023,Completed,Completed,Ad Hoc
+6052,AIFDPM45201PM65,AIFD,Water Resource Management,9/8/2023,Site Visit,Paktika,Yosuf Khel,Paktika,CDC,10/2/2023,10/4/2023,,Not applicable,,Completed,Completed,Regular
+88,AIFDPM45202PM66,AIFD,Water Resource Management,9/8/2023,Site Visit,Baghlan,Andarab,Baghlan,CDC,10/3/2023,10/5/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+5882,AIFDPM45203PM67,AIFD,Water Resource Management,9/8/2023,Site Visit,Nangarhar,Pachir Wa Agam,Nangarhar,Sub-Project,10/4/2023,10/6/2023,,Completed,,Not applicable,Completed,Regular
+11154,AIFDPM45204PM68,AIFD,Water Resource Management,10/5/2023,Site Visit,Paktya,Gardez,Paktya,Sub Project,10/5/2023,10/7/2023,,Not applicable,,Completed,Completed,Regular
+6004,AIFDPM45205PM69,AIFD,Water Resource Management,10/5/2023,Site Visit,Sar-e-Pul,Gosfandi,Sar-e-Pul,CDC,10/6/2023,10/8/2023,,Not applicable,,Completed,Completed,Regular
+5958,AIFDPM45206PM70,AIFD,Water Resource Management,10/5/2023,Site Visit,Nimroz,Zaranj,Nimroz,CDC,10/7/2023,10/9/2023,,Not applicable,,Completed,Completed,Regular
+6085,AIFDPM45207PM71,AIFD,Water Resource Management,10/5/2023,Site Visit,Kunar,Nari,Kunar,CDC,10/8/2023,10/10/2023,,Not applicable,,Completed,Completed,Regular
+10893,AIFDPM45208PM72,AIFD,Water Resource Management,10/5/2023,Site Visit,Nangarhar,Muhmand Dara,Nangarhar,Sub Project,10/9/2023,10/11/2023,,Completed,,Completed,Completed,Regular
+5914,AIFDPM45209PM73,AIFD,Water Resource Management,10/5/2023,Site Visit,Baghlan,Andarab,Baghlan,CDC,10/10/2023,10/12/2023,,Not applicable,,Completed,Completed,Regular
+5836,AIFDPM45210PM74,AIFD,Water Resource Management,10/5/2023,Site Visit,Parwan,Jabal Saraj,Parwan,Sub-Project,10/11/2023,10/13/2023,,Completed,,Not applicable,Completed,Regular
+10887,AIFDPM45211PM75,AIFD,Water Resource Management,10/5/2023,Site Visit,Logar,Khoshi,Logar,Sub Project,10/12/2023,10/14/2023,,Completed,,Cancelled,Completed,Regular
+5751,AIFDPM45212PM76,AIFD,Water Resource Management,10/5/2023,Site Visit,Nimroz,Khashrod,Nimroz,Sub-Project,10/13/2023,10/15/2023,,Completed,,Not applicable,Completed,Regular
+227,AIFDPM45213PM77,AIFD,Water Resource Management,10/5/2023,Site Visit,Nimroz,Khashrod,Nimroz,CDC,10/14/2023,10/16/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+6112,AIFDPM45214PM78,AIFD,Water Resource Management,10/5/2023,Site Visit,Hilmand,Nad-e-Ali,Hilmand,CDC,10/15/2023,10/17/2023,,Not applicable,,Completed,Completed,Regular
+10930,AIFDPM45215PM79,AIFD,Water Resource Management,10/5/2023,Site Visit,Nangarhar,Muhmand Dara,Nangarhar,Sub Project,10/16/2023,10/18/2023,,Completed,,Completed,Completed,Regular
+5971,AIFDPM45216PM80,AIFD,Water Resource Management,11/17/2023,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,CDC,10/17/2023,10/19/2023,,Not applicable,,Completed,Completed,Regular
+10838,AIFDPM45217PM81,AIFD,Water Resource Management,11/17/2023,Site Visit,Kandahar,Shah Wali Kot,Kandahar,Sub Project,10/18/2023,10/20/2023,,Completed,,Completed,Completed,Regular
+202,AIFDPM45218PM82,AIFD,Water Resource Management,11/17/2023,Site Visit,Kapisa,Hisa-e-Duwum-e-Kohistan,Kapisa,CDC,10/19/2023,10/21/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+10777,AIFDPM45219PM83,AIFD,Water Resource Management,11/17/2023,Site Visit,Hilmand,Nawa-e-Barakzaiy,Hilmand,Sub Project,10/20/2023,10/22/2023,,Completed,,Completed,Completed,Regular
+345,AIFDPM45220PM84,AIFD,Water Resource Management,11/17/2023,Site Visit,Uruzgan,Chora,Uruzgan,CDC,10/21/2023,10/23/2023,,Not applicable,3/27/2023,Completed,Completed,Ad Hoc
+167,AIFDPM45221PM85,AIFD,Water Resource Management,11/17/2023,Site Visit,Kandahar,Shah Wali Kot,Kandahar,CDC,10/22/2023,10/24/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3155,AIFDPM45222PM86,AIFD,Water Resource Management,11/17/2023,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sub-Project,10/23/2023,10/25/2023,,Completed,11/10/2023,Not applicable,Completed,Regular
+5822,AIFDPM45223PM87,AIFD,Water Resource Management,11/17/2023,Site Visit,Kabul,Paghman,Kabul,Sub-Project,10/24/2023,10/26/2023,,Completed,,Not applicable,Completed,Regular
+3374,AIFDPM45224PM88,AIFD,Water Resource Management,11/17/2023,Site Visit,Sar-e-Pul,Gosfandi,Sar-e-Pul,CDC,10/25/2023,10/27/2023,,Not applicable,10/17/2023,Completed,Completed,Regular
+231,AIFDPM45225PM89,AIFD,Water Resource Management,11/17/2023,Site Visit,Nimroz,Zaranj,Nimroz,CDC,10/26/2023,10/28/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+140,AIFDPM45226PM90,AIFD,Water Resource Management,11/17/2023,Site Visit,Hilmand,Nawa-e-Barakzaiy,Hilmand,CDC,10/27/2023,10/29/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3271,AIFDPM45227PM91,AIFD,Water Resource Management,11/17/2023,Site Visit,Laghman,Alishang,Laghman,CDC,10/28/2023,10/30/2023,,Not applicable,10/15/2023,Completed,Completed,Regular
+3172,AIFDPM45228PM92,AIFD,Water Resource Management,11/17/2023,Site Visit,Parwan,Sayed Khel,Parwan,CDC,10/29/2023,10/31/2023,,Not applicable,10/18/2023,Completed,Completed,Regular
+6075,AIFDPM45229PM93,AIFD,Water Resource Management,11/17/2023,Site Visit,Hilmand,Nad-e-Ali,Hilmand,CDC,10/30/2023,11/1/2023,,Not applicable,,Completed,Completed,Regular
+3331,AIFDPM45230PM94,AIFD,Water Resource Management,11/17/2023,Site Visit,Takhar,Bangi,Takhar,CDC,10/31/2023,11/2/2023,,Not applicable,10/27/2023,Completed,Completed,Regular
+10831,AIFDPM45231PM95,AIFD,Water Resource Management,11/17/2023,Site Visit,Kandahar,Panjwayi,Kandahar,Sub Project,11/1/2023,11/3/2023,,Completed,,Completed,Completed,Regular
+5774,AIFDPM45232PM96,AIFD,Water Resource Management,11/17/2023,Site Visit,Takhar,Baharak,Takhar,Sub-Project,11/2/2023,11/4/2023,,Completed,,Not applicable,Completed,Regular
+3290,AIFDPM45233PM97,AIFD,Water Resource Management,12/3/2023,Site Visit,Nimroz,Khashrod,Nimroz,CDC,11/3/2023,11/5/2023,,Not applicable,10/24/2023,Completed,Completed,Regular
+3321,AIFDPM45234PM98,AIFD,Water Resource Management,12/3/2023,Site Visit,Kandahar,Shah Wali Kot,Kandahar,CDC,11/4/2023,11/6/2023,,Not applicable,10/25/2023,Completed,Completed,Regular
+11126,AIFDPM45235PM99,AIFD,Water Resource Management,12/3/2023,Site Visit,Ghazni,Nawur,Ghazni,Sub Project,11/5/2023,11/7/2023,,Not applicable,,Completed,Completed,Regular
+199,AIFDPM45236PM100,AIFD,Water Resource Management,12/3/2023,Site Visit,Kapisa,Hisa-e-Duwum-e-Kohistan,Kapisa,CDC,11/6/2023,11/8/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+11172,AIFDPM45237PM101,AIFD,Water Resource Management,12/3/2023,Site Visit,Paktya,Gardez,Paktya,Sub Project,11/7/2023,11/9/2023,,Not applicable,,Cancelled,Cancelled,Regular
+18,AIFDPM45238PM102,AIFD,Water Resource Management,12/3/2023,Site Visit,Kandahar,Kandahar,Kandahar,Sub-Project,11/8/2023,11/10/2023,3/29/2023,Completed,,Not applicable,Completed,Regular
+866,AIFDPM45239PM103,AIFD,Water Resource Management,12/3/2023,Site Visit,Kunduz,Kunduz,Kunduz,Sub-Project,11/9/2023,11/11/2023,4/6/2023,Completed,,Not applicable,Completed,Regular
+174,AIFDPM45240PM104,AIFD,Water Resource Management,12/3/2023,Site Visit,Kandahar,Panjwayi,Kandahar,CDC,11/10/2023,11/12/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+157,AIFDPM45241PM105,AIFD,Water Resource Management,12/3/2023,Site Visit,Hirat,Zindajan,Hirat,CDC,11/11/2023,11/13/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+11001,AIFDPM45242PM106,AIFD,Water Resource Management,12/3/2023,Site Visit,Paktya,Gardez,Paktya,Sub Project,11/12/2023,11/14/2023,,Completed,,Completed,Completed,Regular
+84,AIFDPM45243PM107,AIFD,Water Resource Management,12/3/2023,Site Visit,Baghlan,Andarab,Baghlan,CDC,11/13/2023,11/15/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3329,AIFDPM45244PM108,AIFD,Water Resource Management,12/3/2023,Site Visit,Takhar,Namak Ab,Takhar,CDC,11/14/2023,11/16/2023,,Not applicable,10/31/2023,Completed,Completed,Regular
+83,AIFDPM45245PM109,AIFD,Water Resource Management,12/3/2023,Site Visit,Baghlan,Andarab,Baghlan,CDC,11/15/2023,11/17/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+65,AIFDPM45246PM110,AIFD,Water Resource Management,12/3/2023,Site Visit,Badakhshan,Keshem,Badakhshan,CDC,11/16/2023,11/18/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+46,AIFDPM45247PM111,AIFD,Water Resource Management,12/3/2023,Site Visit,Badakhshan,Argo,Badakhshan,CDC,11/17/2023,11/19/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+341,AIFDPM45248PM112,AIFD,Water Resource Management,12/3/2023,Site Visit,Uruzgan,Chora,Uruzgan,CDC,11/18/2023,11/20/2023,,Not applicable,3/27/2023,Completed,Completed,Ad Hoc
+6089,AIFDPM45249PM113,AIFD,Water Resource Management,12/3/2023,Site Visit,Samangan,Ruy-e-Duab,Samangan,CDC,11/19/2023,11/21/2023,,Not applicable,,Completed,Completed,Regular
+3063,AIFDPM45250PM114,AIFD,Water Resource Management,12/3/2023,Site Visit,Baghlan,Doshi,Baghlan,Sub-Project,11/20/2023,11/22/2023,,Completed,11/7/2023,Not applicable,Completed,Regular
+3174,AIFDPM45251PM115,AIFD,Water Resource Management,12/3/2023,Site Visit,Parwan,Sayed Khel,Parwan,CDC,11/21/2023,11/23/2023,,Not applicable,10/16/2023,Completed,Completed,Regular
+6047,AIFDPM45252PM116,AIFD,Water Resource Management,12/3/2023,Site Visit,Parwan,Jabal Saraj,Parwan,CDC,11/22/2023,11/24/2023,,Not applicable,,Completed,Completed,Regular
+358,AIFDPM45253PM117,AIFD,Water Resource Management,12/3/2023,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,CDC,11/23/2023,11/25/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+47,AIFDPM45254PM118,AIFD,Water Resource Management,12/3/2023,Site Visit,Badakhshan,Argo,Badakhshan,CDC,11/24/2023,11/26/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3218,AIFDPM45255PM119,AIFD,Water Resource Management,12/3/2023,Site Visit,Badakhshan,Argo,Badakhshan,CDC,11/25/2023,11/27/2023,,Not applicable,10/23/2023,Completed,Completed,Regular
+3284,AIFDPM45256PM120,AIFD,Water Resource Management,12/3/2023,Site Visit,Nangarhar,Rodat,Nangarhar,CDC,11/26/2023,11/28/2023,,Not applicable,10/25/2023,Completed,Completed,Regular
+3147,AIFDPM45257PM121,AIFD,Water Resource Management,12/3/2023,Site Visit,Bamyan,Sayghan,Bamyan,Sub-Project,11/27/2023,11/29/2023,,Completed,11/5/2023,Not applicable,Completed,Regular
+3157,AIFDPM45258PM122,AIFD,Water Resource Management,11/28/2023,Site Visit,Sar-e-Pul,Gosfandi,Sar-e-Pul,Sub-Project,11/28/2023,11/30/2023,,Completed,11/1/2023,Not applicable,Completed,Regular
+11079,AIFDPM45259PM123,AIFD,Water Resource Management,11/29/2023,Site Visit,Khost,Spera,Khost,Sub Project,11/29/2023,12/1/2023,,Not applicable,,Completed,Completed,Regular
+10764,AIFDPM45260PM124,AIFD,Water Resource Management,11/30/2023,Site Visit,Hilmand,Nahr-e-Saraj,Hilmand,Sub Project,11/30/2023,12/2/2023,,Completed,,Completed,Completed,Regular
+160,AIFDPM45261PM125,AIFD,Water Resource Management,12/1/2023,Site Visit,Kabul,Paghman,Kabul,CDC,12/1/2023,12/3/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3103,AIFDPM45262PM126,AIFD,Water Resource Management,12/2/2023,Site Visit,Hilmand,Nahr-e-Saraj,Hilmand,Sub-Project,12/2/2023,12/4/2023,,Completed,11/10/2023,Not applicable,Completed,Regular
+3193,AIFDPM45263PM127,AIFD,Water Resource Management,12/3/2023,Site Visit,Bamyan,Sayghan,Bamyan,CDC,12/3/2023,12/5/2023,,Not applicable,10/25/2023,Completed,Completed,Regular
+5766,AIFDPM45264PM128,AIFD,Water Resource Management,12/4/2023,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sub-Project,12/4/2023,12/6/2023,,Completed,,Not applicable,Completed,Regular
+3251,AIFDPM45265PM129,AIFD,Water Resource Management,12/5/2023,Site Visit,Samangan,Ruy-e-Duab,Samangan,CDC,12/5/2023,12/7/2023,,Not applicable,10/21/2023,Completed,Completed,Regular
+10752,AIFDPM45266PM130,AIFD,Water Resource Management,12/6/2023,Site Visit,Ghazni,Nawur,Ghazni,Sub Project,12/6/2023,12/8/2023,,Completed,,Cancelled,Completed,Regular
+10856,AIFDPM45267PM131,AIFD,Water Resource Management,12/7/2023,Site Visit,Kunar,Chawkay,Kunar,Sub Project,12/7/2023,12/9/2023,,Completed,,Completed,Completed,Regular
+219,AIFDPM45268PM132,AIFD,Water Resource Management,12/8/2023,Site Visit,Nimroz,Dil Aram,Nimroz,CDC,12/8/2023,12/10/2023,,Not applicable,3/26/2023,Completed,Completed,Ad Hoc
+5828,AIFDPM45269PM133,AIFD,Water Resource Management,12/9/2023,Site Visit,Uruzgan,Chora,Uruzgan,Sub-Project,12/9/2023,12/11/2023,,Completed,,Not applicable,Completed,Regular
+117,AIFDPM45270PM134,AIFD,Water Resource Management,12/10/2023,Site Visit,Hilmand,Nad-e-Ali,Hilmand,CDC,12/10/2023,12/12/2023,,Not applicable,3/26/2023,Completed,Completed,Ad Hoc
+5850,AIFDPM45271PM135,AIFD,Water Resource Management,12/11/2023,Site Visit,Kandahar,Panjwayi,Kandahar,Sub-Project,12/11/2023,12/13/2023,,Completed,,Not applicable,Completed,Regular
+120,AIFDPM45272PM136,AIFD,Water Resource Management,12/12/2023,Site Visit,Hilmand,Nad-e-Ali,Hilmand,CDC,12/12/2023,12/14/2023,,Not applicable,3/26/2023,Completed,Completed,Ad Hoc
+3017,AIFDPM45273PM137,AIFD,Water Resource Management,12/13/2023,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,Sub-Project,12/13/2023,12/15/2023,,Completed,11/11/2023,Not applicable,Completed,Regular
+5739,AIFDPM45274PM138,AIFD,Water Resource Management,12/14/2023,Site Visit,Hilmand,Nawa-e-Barakzaiy,Hilmand,Sub-Project,12/14/2023,12/16/2023,,Completed,,Not applicable,Completed,Regular
+3118,AIFDPM45275PM139,AIFD,Water Resource Management,12/15/2023,Site Visit,Hilmand,Nawa-e-Barakzaiy,Hilmand,Sub-Project,12/15/2023,12/17/2023,,Completed,11/3/2023,Not applicable,Completed,Regular
+3161,AIFDPM45276PM140,AIFD,Water Resource Management,12/16/2023,Site Visit,Badakhshan,Keshem,Badakhshan,CDC,12/16/2023,12/18/2023,,Not applicable,10/12/2023,Completed,Completed,Regular
+3159,AIFDPM45277PM141,AIFD,Water Resource Management,12/17/2023,Site Visit,Badakhshan,Argo,Badakhshan,CDC,12/17/2023,12/19/2023,,Not applicable,10/19/2023,Completed,Completed,Regular
+6147,AIFDPM45278PM142,AIFD,Water Resource Management,12/18/2023,Site Visit,Khost,Matun,Khost,CDC,12/18/2023,12/20/2023,,Not applicable,,Completed,Completed,Regular
+11021,AIFDPM45279PM143,AIFD,Water Resource Management,12/19/2023,Site Visit,Uruzgan,Chora,Uruzgan,Sub Project,12/19/2023,12/21/2023,,Completed,,Completed,Completed,Regular
+28,AIFDPM45280PM144,AIFD,Water Resource Management,12/20/2023,Site Visit,Badakhshan,Arghanj Khwah,Badakhshan,CDC,12/20/2023,12/22/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3084,AIFDPM45281PM145,AIFD,Water Resource Management,12/21/2023,Site Visit,Faryab,Andkhoy,Faryab,Sub-Project,12/21/2023,12/23/2023,,Completed,11/4/2023,Not applicable,Completed,Regular
+3165,AIFDPM45282PM146,AIFD,Water Resource Management,12/22/2023,Site Visit,Badakhshan,Warduj,Badakhshan,CDC,12/22/2023,12/24/2023,,Not applicable,10/18/2023,Completed,Completed,Regular
+7,AIFDPM45283PM147,AIFD,Water Resource Management,12/23/2023,Site Visit,Kabul,Kabul,Kabul,Sub-Project,12/23/2023,12/25/2023,3/14/2023,Completed,,Not applicable,Completed,Regular
+11163,AIFDPM45284PM148,AIFD,Water Resource Management,12/24/2023,Site Visit,Paktya,Gardez,Paktya,Sub Project,12/24/2023,12/26/2023,,Not applicable,,Cancelled,Cancelled,Regular
+3315,AIFDPM45285PM149,AIFD,Water Resource Management,12/25/2023,Site Visit,Samangan,Ruy-e-Duab,Samangan,CDC,12/25/2023,12/27/2023,,Not applicable,10/21/2023,Completed,Completed,Regular
+11005,AIFDPM45286PM150,AIFD,Water Resource Management,12/26/2023,Site Visit,Paktya,Gardez,Paktya,Sub Project,12/26/2023,12/28/2023,,Completed,,Completed,Completed,Regular
+3095,AIFDPM45287PM151,AIFD,Water Resource Management,12/27/2023,Site Visit,Nimroz,Khashrod,Nimroz,Sub-Project,12/27/2023,12/29/2023,,Completed,10/24/2023,Not applicable,Completed,Regular
+153,AIFDPM45288PM152,AIFD,Water Resource Management,12/28/2023,Site Visit,Hirat,Zindajan,Hirat,CDC,12/28/2023,12/30/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+268,AIFDPM45289PM153,AIFD,Water Resource Management,12/29/2023,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,CDC,12/29/2023,12/31/2023,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3052,AIFDPM45290PM154,AIFD,Water Resource Management,12/30/2023,Site Visit,Takhar,Khwaja Ghar,Takhar,Sub-Project,12/30/2023,1/1/2024,,Completed,11/5/2023,Not applicable,Completed,Regular
+3287,AIFDPM45291PM155,AIFD,Water Resource Management,12/31/2023,Site Visit,Nimroz,Zaranj,Nimroz,CDC,12/31/2023,1/2/2024,,Not applicable,10/20/2023,Completed,Completed,Regular
+3412,AIFDPM45292PM156,AIFD,Water Resource Management,1/1/2024,Site Visit,Khost,Matun,Khost,CDC,1/1/2024,1/3/2024,,Not applicable,11/1/2023,Completed,Completed,Regular
+3006,AIFDPM45293PM157,AIFD,Water Resource Management,1/2/2024,Site Visit,Maidan Wardak,Jalrez,Maidan Wardak,Sub-Project,1/2/2024,1/4/2024,,Completed,11/14/2023,Not applicable,Completed,Regular
+11086,AIFDPM45294PM158,AIFD,Water Resource Management,1/3/2024,Site Visit,Khost,Spera,Khost,Sub Project,1/3/2024,1/5/2024,,Not applicable,,Completed,Completed,Regular
+892,AIFDPM45295PM159,AIFD,Water Resource Management,1/4/2024,Site Visit,Balkh,Mazar-e-Sharif,Balkh,Sub-Project,1/4/2024,1/6/2024,7/21/2023,Completed,,Not applicable,Completed,Regular
+91,AIFDPM45296PM160,AIFD,Water Resource Management,1/5/2024,Site Visit,Baghlan,Doshi,Baghlan,CDC,1/5/2024,1/7/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3085,AIFDPM45297PM161,AIFD,Water Resource Management,1/6/2024,Site Visit,Hirat,Kohsan,Hirat,Sub-Project,1/6/2024,1/8/2024,,Completed,11/2/2023,Not applicable,Completed,Regular
+5977,AIFDPM45298PM162,AIFD,Water Resource Management,1/7/2024,Site Visit,Takhar,Baharak,Takhar,CDC,1/7/2024,1/9/2024,,Not applicable,,Completed,Completed,Regular
+3420,AIFDPM45299PM163,AIFD,Water Resource Management,1/8/2024,Site Visit,Balkh,Mazar-e-Sharif,Balkh,Mosque Committee,1/8/2024,1/10/2024,,Not applicable,11/5/2023,Completed,Completed,Regular
+3133,AIFDPM45300PM164,AIFD,Water Resource Management,1/9/2024,Site Visit,Uruzgan,Chora,Uruzgan,Sub-Project,1/9/2024,1/11/2024,,Completed,11/8/2023,Not applicable,Completed,Regular
+5770,AIFDPM45301PM165,AIFD,Water Resource Management,1/10/2024,Site Visit,Takhar,Baharak,Takhar,Sub-Project,1/10/2024,1/12/2024,,Completed,,Not applicable,Completed,Regular
+6028,AIFDPM45302PM166,AIFD,Water Resource Management,1/11/2024,Site Visit,Baghlan,Andarab,Baghlan,CDC,1/11/2024,1/13/2024,,Not applicable,,Completed,Completed,Regular
+3185,AIFDPM45303PM167,AIFD,Water Resource Management,1/12/2024,Site Visit,Maidan Wardak,Jalrez,Maidan Wardak,CDC,1/12/2024,1/14/2024,,Not applicable,10/18/2023,Completed,Completed,Regular
+114,AIFDPM45304PM168,AIFD,Water Resource Management,1/13/2024,Site Visit,Faryab,Bilcheragh,Faryab,CDC,1/13/2024,1/15/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+10952,AIFDPM45305PM169,AIFD,Water Resource Management,1/14/2024,Site Visit,Nimroz,Zaranj,Nimroz,Sub Project,1/14/2024,1/16/2024,,Completed,,Completed,Completed,Regular
+5917,AIFDPM45306PM170,AIFD,Water Resource Management,1/15/2024,Site Visit,Baghlan,Andarab,Baghlan,CDC,1/15/2024,1/17/2024,,Not applicable,,Completed,Completed,Regular
+11024,AIFDPM45307PM171,AIFD,Water Resource Management,1/16/2024,Site Visit,Uruzgan,Chora,Uruzgan,Sub Project,1/16/2024,1/18/2024,,Completed,,Completed,Completed,Regular
+3282,AIFDPM45308PM172,AIFD,Water Resource Management,1/17/2024,Site Visit,Nangarhar,Pachir Wa Agam,Nangarhar,CDC,1/17/2024,1/19/2024,,Not applicable,10/17/2023,Completed,Completed,Regular
+3359,AIFDPM45309PM173,AIFD,Water Resource Management,1/18/2024,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,CDC,1/18/2024,1/20/2024,,Not applicable,10/23/2023,Completed,Completed,Regular
+5798,AIFDPM45310PM174,AIFD,Water Resource Management,1/19/2024,Site Visit,Uruzgan,Chora,Uruzgan,Sub-Project,1/19/2024,1/21/2024,,Completed,,Not applicable,Completed,Regular
+5797,AIFDPM45311PM175,AIFD,Water Resource Management,1/20/2024,Site Visit,Kandahar,Panjwayi,Kandahar,Sub-Project,1/20/2024,1/22/2024,,Completed,,Not applicable,Completed,Regular
+3168,AIFDPM45312PM176,AIFD,Water Resource Management,1/21/2024,Site Visit,Kapisa,Hisa-e-Duwum-e-Kohistan,Kapisa,CDC,1/21/2024,1/23/2024,,Not applicable,10/23/2023,Completed,Completed,Regular
+852,AIFDPM45313PM177,AIFD,Water Resource Management,1/22/2024,Site Visit,Kandahar,Shah Wali Kot,Kandahar,CDC,1/22/2024,1/24/2024,,Not applicable,3/30/2023,Completed,Completed,Regular
+272,AIFDPM45314PM178,AIFD,Water Resource Management,1/23/2024,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,CDC,1/23/2024,1/25/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3265,AIFDPM45315PM179,AIFD,Water Resource Management,1/24/2024,Site Visit,Kapisa,Hisa-e-Duwum-e-Kohistan,Kapisa,CDC,1/24/2024,1/26/2024,,Not applicable,10/19/2023,Completed,Completed,Regular
+1642,AIFDPM45316PM180,AIFD,Water Resource Management,1/25/2024,Site Visit,Khost,Matun,Khost,Sub-Project,1/25/2024,1/27/2024,,Completed,,Not applicable,Completed,Regular
+287,AIFDPM45317PM181,AIFD,Water Resource Management,1/26/2024,Site Visit,Takhar,Baharak,Takhar,CDC,1/26/2024,1/28/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3260,AIFDPM45318PM182,AIFD,Water Resource Management,1/27/2024,Site Visit,Kapisa,Hisa-e-Awal-e-Kohistan,Kapisa,CDC,1/27/2024,1/29/2024,,Not applicable,10/15/2023,Completed,Completed,Regular
+5972,AIFDPM45319PM183,AIFD,Water Resource Management,1/28/2024,Site Visit,Takhar,Baharak,Takhar,CDC,1/28/2024,1/30/2024,,Not applicable,,Completed,Completed,Regular
+66,AIFDPM45320PM184,AIFD,Water Resource Management,1/29/2024,Site Visit,Badakhshan,Keshem,Badakhshan,CDC,1/29/2024,1/31/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+276,AIFDPM45321PM185,AIFD,Water Resource Management,1/30/2024,Site Visit,Sar-e-Pul,Gosfandi,Sar-e-Pul,CDC,1/30/2024,2/1/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+5708,AIFDPM45322PM186,AIFD,Water Resource Management,1/31/2024,Site Visit,Badakhshan,Argo,Badakhshan,Sub-Project,1/31/2024,2/2/2024,,Completed,,Not applicable,Completed,Regular
+11074,AIFDPM45323PM187,AIFD,Water Resource Management,2/1/2024,Site Visit,Paktika,Urgun,Paktika,Sub Project,2/1/2024,2/3/2024,,Not applicable,,Completed,Completed,Regular
+145,AIFDPM45324PM188,AIFD,Water Resource Management,2/2/2024,Site Visit,Hirat,Zindajan,Hirat,CDC,2/2/2024,2/4/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+857,AIFDPM45325PM189,AIFD,Water Resource Management,2/3/2024,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,CDC,2/3/2024,2/5/2024,,Not applicable,3/30/2023,Completed,Completed,Regular
+3101,AIFDPM45326PM190,AIFD,Water Resource Management,2/4/2024,Site Visit,Hilmand,Nahr-e-Saraj,Hilmand,Sub-Project,2/4/2024,2/6/2024,,Completed,11/8/2023,Not applicable,Completed,Regular
+3313,AIFDPM45327PM191,AIFD,Water Resource Management,2/5/2024,Site Visit,Samangan,Aybak,Samangan,CDC,2/5/2024,2/7/2024,,Not applicable,10/16/2023,Completed,Completed,Regular
+5763,AIFDPM45328PM192,AIFD,Water Resource Management,2/6/2024,Site Visit,Parwan,Jabal Saraj,Parwan,Sub-Project,2/6/2024,2/8/2024,,Completed,,Not applicable,Completed,Regular
+3417,AIFDPM45329PM193,AIFD,Water Resource Management,2/7/2024,Site Visit,Balkh,Mazar-e-Sharif,Balkh,Mosque Committee,2/7/2024,2/9/2024,,Not applicable,11/1/2023,Completed,Completed,Regular
+6092,AIFDPM45330PM194,AIFD,Water Resource Management,2/8/2024,Site Visit,Nangarhar,Pachir Wa Agam,Nangarhar,CDC,2/8/2024,2/10/2024,,Not applicable,,Completed,Completed,Regular
+302,AIFDPM45331PM195,AIFD,Water Resource Management,2/9/2024,Site Visit,Takhar,Dasht-e-Qala,Takhar,CDC,2/9/2024,2/11/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+39,AIFDPM45332PM196,AIFD,Water Resource Management,2/10/2024,Site Visit,Badakhshan,Argo,Badakhshan,CDC,2/10/2024,2/12/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+5944,AIFDPM45333PM197,AIFD,Water Resource Management,2/11/2024,Site Visit,Kandahar,Panjwayi,Kandahar,CDC,2/11/2024,2/13/2024,,Not applicable,,Completed,Completed,Regular
+6152,AIFDPM45334PM198,AIFD,Water Resource Management,2/12/2024,Site Visit,Balkh,Mazar-e-Sharif,Balkh,M C,2/12/2024,2/14/2024,,Not applicable,,Completed,Completed,Regular
+106,AIFDPM45335PM199,AIFD,Water Resource Management,2/13/2024,Site Visit,Bamyan,Shibar,Bamyan,CDC,2/13/2024,2/15/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3247,AIFDPM45336PM200,AIFD,Water Resource Management,2/14/2024,Site Visit,Kandahar,Shah Wali Kot,Kandahar,CDC,2/14/2024,2/16/2024,,Not applicable,10/24/2023,Completed,Completed,Regular
+10751,AIFDPM45337PM201,AIFD,Water Resource Management,2/15/2024,Site Visit,Ghazni,Nawur,Ghazni,Sub Project,2/15/2024,2/17/2024,,Completed,,Cancelled,Completed,Regular
+250,AIFDPM45338PM202,AIFD,Water Resource Management,2/16/2024,Site Visit,Parwan,Sayed Khel,Parwan,CDC,2/16/2024,2/18/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3408,AIFDPM45339PM203,AIFD,Water Resource Management,2/17/2024,Site Visit,Kandahar,Kandahar,Kandahar,CDC,2/17/2024,2/19/2024,,Not applicable,11/9/2023,Completed,Completed,Regular
+3164,AIFDPM45340PM204,AIFD,Water Resource Management,2/18/2024,Site Visit,Badakhshan,Keshem,Badakhshan,CDC,2/18/2024,2/20/2024,,Not applicable,10/17/2023,Completed,Completed,Regular
+5714,AIFDPM45341PM205,AIFD,Water Resource Management,2/19/2024,Site Visit,Badakhshan,Argo,Badakhshan,Sub-Project,2/19/2024,2/21/2024,,Completed,,Not applicable,Completed,Regular
+3086,AIFDPM45342PM206,AIFD,Water Resource Management,2/20/2024,Site Visit,Hirat,Zindajan,Hirat,Sub-Project,2/20/2024,2/22/2024,,Completed,10/31/2023,Not applicable,Completed,Regular
+163,AIFDPM45343PM207,AIFD,Water Resource Management,2/21/2024,Site Visit,Kabul,Paghman,Kabul,CDC,2/21/2024,2/23/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3270,AIFDPM45344PM208,AIFD,Water Resource Management,2/22/2024,Site Visit,Laghman,Alishang,Laghman,CDC,2/22/2024,2/24/2024,,Not applicable,10/12/2023,Completed,Completed,Regular
+5786,AIFDPM45345PM209,AIFD,Water Resource Management,2/23/2024,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,Sub-Project,2/23/2024,2/25/2024,,Completed,,Not applicable,Completed,Regular
+5907,AIFDPM45346PM210,AIFD,Water Resource Management,2/24/2024,Site Visit,Badakhshan,Argo,Badakhshan,CDC,2/24/2024,2/26/2024,,Not applicable,,Completed,Completed,Regular
+87,AIFDPM45347PM211,AIFD,Water Resource Management,2/25/2024,Site Visit,Baghlan,Andarab,Baghlan,CDC,2/25/2024,2/27/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+3207,AIFDPM45348PM212,AIFD,Water Resource Management,2/26/2024,Site Visit,Hilmand,Nad-e-Ali,Hilmand,CDC,2/26/2024,2/28/2024,,Not applicable,10/24/2023,Completed,Completed,Regular
+3070,AIFDPM45349PM213,AIFD,Water Resource Management,2/27/2024,Site Visit,Baghlan,Andarab,Baghlan,Sub-Project,2/27/2024,2/29/2024,,Completed,11/11/2023,Not applicable,Completed,Regular
+5848,AIFDPM45350PM214,AIFD,Water Resource Management,2/28/2024,Site Visit,Nangarhar,Kot,Nangarhar,Sub-Project,2/28/2024,3/1/2024,,Completed,,Not applicable,Completed,Regular
+41,AIFDPM45351PM215,AIFD,Water Resource Management,2/29/2024,Site Visit,Badakhshan,Argo,Badakhshan,CDC,2/29/2024,3/2/2024,,Not applicable,3/25/2023,Completed,Completed,Ad Hoc
+6139,AIFDPM45352PM216,AIFD,Water Resource Management,3/1/2024,Site Visit,Kandahar,Kandahar,Kandahar,CDC,3/1/2024,3/3/2024,,Not applicable,,Completed,Completed,Regular
+5895,AIFDPM45353PM217,AIFD,Water Resource Management,3/2/2024,Site Visit,Hilmand,Nad-e-Ali,Hilmand,Sub-Project,3/2/2024,3/4/2024,,Completed,,Not applicable,Completed,Regular
+6034,AIFDPM45354PM218,AIFD,Water Resource Management,3/3/2024,Site Visit,Hilmand,Nahr-e-Saraj,Hilmand,CDC,3/3/2024,3/5/2024,,Not applicable,,Completed,Completed,Regular
+5987,AIFDPM45355PM219,AIFD,Water Resource Management,3/4/2024,Site Visit,Uruzgan,Chora,Uruzgan,CDC,3/4/2024,3/6/2024,,Not applicable,,Completed,Completed,Regular
+10125,TAPIPM45356PM220,TAPI,Energy Sector,3/5/2024,Site Visit,Maidan Wardak,Maydan Shahr,Maidan Wardak,School,3/5/2024,3/7/2024,,Not applicable,,Completed,Completed,Regular
+4278,TAPIPM45357PM221,TAPI,Energy Sector,3/5/2024,Site Visit,Nangarhar,Jalalabad,Nangarhar,School,3/6/2024,3/8/2024,,Not applicable,,Completed,Completed,Regular
+4079,TAPIPM45358PM222,TAPI,Energy Sector,3/5/2024,Site Visit,Farah,Anar Dara,Farah,DISTRICT,3/7/2024,3/9/2024,,Not applicable,,Completed,Completed,Regular
+4893,TAPIPM45359PM223,TAPI,Energy Sector,3/5/2024,Site Visit,Takhar,Warsaj,Takhar,School,3/8/2024,3/10/2024,,Not applicable,,Completed,Completed,Regular
+4237,TAPIPM45360PM224,TAPI,Energy Sector,3/5/2024,Site Visit,Kunar,Dara-e-Pech,Kunar,School,3/9/2024,3/11/2024,,Not applicable,,Completed,Completed,Regular
+9592,TAPIPM45361PM225,TAPI,Energy Sector,3/5/2024,Site Visit,Hirat,,,School,3/10/2024,3/12/2024,,Not applicable,,Cancelled,Cancelled,Regular
+11358,TAPIPM45362PM226,TAPI,Energy Sector,3/5/2024,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,CBE,3/11/2024,3/13/2024,,Not applicable,,Completed,Completed,Regular
+9962,TAPIPM45363PM227,TAPI,Energy Sector,3/5/2024,Site Visit,Kunduz,Chahar Darah,Kunduz,School,3/12/2024,3/14/2024,,Not applicable,,Completed,Completed,Regular
+7776,TAPIPM45364PM228,TAPI,Energy Sector,3/5/2024,Site Visit,Kunar,Chawkay,Kunar,School,3/13/2024,3/15/2024,,Not applicable,3/13/2024,Completed,Completed,Regular
+10044,TAPIPM45365PM229,TAPI,Energy Sector,3/5/2024,Site Visit,Laghman,Qarghayi,Laghman,School,3/14/2024,3/16/2024,,Not applicable,,Completed,Completed,Regular
+3544,TAPIPM45366PM230,TAPI,Energy Sector,3/5/2024,Site Visit,Daykundi,Khadir,Daykundi,CBE,3/15/2024,3/17/2024,,Not applicable,,Completed,Completed,Regular
+10523,TAPIPM45367PM231,TAPI,Energy Sector,3/5/2024,Site Visit,Sar-e-Pul,Sancharak,Sar-e-Pul,School,3/16/2024,3/18/2024,,Not applicable,,Completed,Completed,Regular
+9280,TAPIPM45368PM232,TAPI,Energy Sector,3/5/2024,Site Visit,Ghazni,Ghazni,Ghazni,School,3/17/2024,3/19/2024,,Not applicable,,Completed,Completed,Regular
+8312,TAPIPM45369PM233,TAPI,Energy Sector,3/5/2024,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,3/17/2024,3/20/2024,,Not Applicable,,Completed,Completed,Regular
+8734,TAPIPM45370PM234,TAPI,Energy Sector,3/5/2024,Site Visit,Badakhshan,Fayzabad,Badakhshan,School,3/18/2024,3/21/2024,,Not applicable,,Cancelled,Cancelled,Regular
+8497,TAPIPM45371PM235,TAPI,Energy Sector,3/5/2024,Site Visit,Jawzjan,,,Village,3/19/2024,3/22/2024,,Not Applicable,,Completed,Completed,Regular
+9738,TAPIPM45372PM236,TAPI,Energy Sector,3/5/2024,Site Visit,Kabul,Mir Bacha Kot,Kabul,School,3/20/2024,3/23/2024,,Not applicable,,Completed,Completed,Regular
+9006,TAPIPM45373PM237,TAPI,Energy Sector,6/22/2024,Site Visit,Balkh,Marmul,Balkh,School,3/21/2024,3/24/2024,,Not applicable,,Cancelled,Cancelled,Regular
+7634,TAPIPM45374PM238,TAPI,Energy Sector,6/22/2024,Site Visit,Kandahar,Kandahar,Kandahar,School,3/22/2024,3/25/2024,,Not Applicable,3/22/2024,Completed,Completed,Regular
+10397,TAPIPM45375PM239,TAPI,Energy Sector,6/22/2024,Site Visit,Panjsher,Khenj,Panjsher,School,3/23/2024,3/26/2024,,Not applicable,,Completed,Completed,Regular
+9418,TAPIPM45376PM240,TAPI,Energy Sector,6/22/2024,Site Visit,Ghor,Pasaband,Ghor,School,3/24/2024,3/27/2024,,Not applicable,,Cancelled,Cancelled,Regular
+4147,TAPIPM45377PM241,TAPI,Energy Sector,6/22/2024,Site Visit,Panjsher,Dara,Panjsher,DISTRICT,3/25/2024,3/28/2024,,Not applicable,,Completed,Completed,Regular
+7486,TAPIPM45378PM242,TAPI,Energy Sector,6/22/2024,Site Visit,Nangarhar,Kuz Kunar,Nangarhar,School,3/26/2024,3/29/2024,,Not Applicable,3/9/2024,Completed,Completed,Regular
+7472,TAPIPM45379PM243,TAPI,Energy Sector,6/22/2024,Site Visit,Nangarhar,Kot,Nangarhar,School,3/27/2024,3/30/2024,,Not Applicable,3/19/2024,Completed,Completed,Regular
+8290,TAPIPM45380PM244,TAPI,Energy Sector,6/22/2024,Site Visit,Jawzjan,Mardyan,Jawzjan,Village,3/27/2024,3/31/2024,,Not Applicable,,Completed,Completed,Regular
+8673,TAPIPM45381PM245,TAPI,Energy Sector,6/22/2024,Site Visit,Laghman,Dawlatshah,Laghman,CBE,3/28/2024,4/1/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9204,TAPIPM45382PM246,TAPI,Energy Sector,6/22/2024,Site Visit,Faryab,Andkhoy,Faryab,School,3/29/2024,4/2/2024,,Not applicable,,Completed,Completed,Regular
+8783,TAPIPM45383PM247,TAPI,Energy Sector,6/22/2024,Site Visit,Badakhshan,Shighnan,Badakhshan,School,3/30/2024,4/3/2024,,Not applicable,,Completed,Completed,Regular
+11279,TAPIPM45384PM248,TAPI,Energy Sector,6/22/2024,Site Visit,Kandahar,Arghandab,Kandahar,School,3/31/2024,4/4/2024,,Completed,,Not applicable,Completed,Regular
+9579,TAPIPM45385PM249,TAPI,Energy Sector,6/22/2024,Site Visit,Hirat,Obe,Hirat,School,4/1/2024,4/5/2024,,Not applicable,,Completed,Completed,Regular
+8431,TAPIPM45386PM250,TAPI,Energy Sector,6/22/2024,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,4/2/2024,4/6/2024,,Not Applicable,,Completed,Completed,Regular
+4548,TAPIPM45387PM251,TAPI,Energy Sector,6/22/2024,Site Visit,Laghman,Dawlatshah,Laghman,School,4/3/2024,4/7/2024,,Not applicable,,Completed,Completed,Regular
+7017,TAPIPM45388PM252,TAPI,Energy Sector,6/22/2024,Site Visit,Hilmand,Lashkargah,Hilmand,School,4/4/2024,4/8/2024,,Not Applicable,3/2/2024,Completed,Completed,Regular
+9253,TAPIPM45389PM253,TAPI,Energy Sector,6/22/2024,Site Visit,Faryab,Qurghan,Faryab,School,4/5/2024,4/9/2024,,Not applicable,,Completed,Completed,Regular
+5169,TAPIPM45390PM254,TAPI,Energy Sector,6/22/2024,Site Visit,Uruzgan,Khas Uruzgan,Uruzgan,School,4/6/2024,4/10/2024,,Not applicable,,Completed,Completed,Regular
+7767,TAPIPM45391PM255,TAPI,Energy Sector,6/22/2024,Site Visit,Kunar,Khas Kunar,Kunar,School,4/7/2024,4/11/2024,,Not applicable,,Cancelled,Cancelled,Regular
+8964,TAPIPM45392PM256,TAPI,Energy Sector,4/10/2024,Site Visit,Balkh,Char Bolak,Balkh,School,4/8/2024,4/12/2024,,Not applicable,,Completed,Completed,Regular
+4004,TAPIPM45393PM257,TAPI,Energy Sector,4/11/2024,Site Visit,Zabul,Tarnak Wa Jaldak,Zabul,CBE,4/9/2024,4/13/2024,,Not applicable,,Completed,Completed,Regular
+11429,TAPIPM45394PM258,TAPI,Energy Sector,4/12/2024,Site Visit,Balkh,Dehdadi,Balkh,School,4/10/2024,4/14/2024,,Planned,,Not applicable,Planned,Regular
+9505,TAPIPM45395PM259,TAPI,Energy Sector,4/13/2024,Site Visit,Hirat,Gulran,Hirat,School,4/11/2024,4/15/2024,,Not applicable,,Cancelled,Cancelled,Regular
+5162,TAPIPM45396PM260,TAPI,Energy Sector,4/14/2024,Site Visit,Uruzgan,Tirinkot,Uruzgan,School,4/12/2024,4/16/2024,,Not applicable,,Completed,Completed,Regular
+6835,TAPIPM45397PM261,TAPI,Energy Sector,4/15/2024,Site Visit,Farah,Bala Buluk,Farah,School,4/13/2024,4/17/2024,,Not Applicable,3/7/2024,Completed,Completed,Regular
+7438,TAPIPM45398PM262,TAPI,Energy Sector,4/16/2024,Site Visit,Nangarhar,Goshta,Nangarhar,School,4/14/2024,4/18/2024,,Not Applicable,3/11/2024,Completed,Completed,Regular
+3545,TAPIPM45399PM263,TAPI,Energy Sector,4/17/2024,Site Visit,Daykundi,Ashtarlay,Daykundi,CBE,4/15/2024,4/19/2024,,Not applicable,,Completed,Completed,Regular
+9014,TAPIPM45400PM264,TAPI,Energy Sector,4/18/2024,Site Visit,Balkh,Mazar-e-Sharif,Balkh,School,4/16/2024,4/20/2024,,Not applicable,,Completed,Completed,Regular
+8844,TAPIPM45401PM265,TAPI,Energy Sector,4/19/2024,Site Visit,Badghis,Jawand,Badghis,School,4/17/2024,4/21/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10725,TAPIPM45402PM266,TAPI,Energy Sector,4/20/2024,Site Visit,Samangan,Aybak,Samangan,School,4/18/2024,4/22/2024,,Not applicable,,Completed,Completed,Regular
+3435,TAPIPM45403PM267,TAPI,Energy Sector,4/21/2024,Site Visit,Kabul,Kabul,Kabul,School,4/19/2024,4/23/2024,,Completed,11/4/2023,Not applicable,Completed,Regular
+10338,TAPIPM45404PM268,TAPI,Energy Sector,4/22/2024,Site Visit,Paktya,Ahmadaba,Paktya,School,4/20/2024,4/24/2024,,Not applicable,,Completed,Completed,Regular
+8619,TAPIPM45405PM269,TAPI,Energy Sector,4/23/2024,Site Visit,Logar,Charkh,Logar,CBE,4/21/2024,4/25/2024,,Not applicable,,Cancelled,Cancelled,Regular
+3885,TAPIPM45406PM270,TAPI,Energy Sector,4/24/2024,Site Visit,Nuristan,Barg-e-Matal,Nuristan,CBE,4/22/2024,4/26/2024,,Not applicable,,Completed,Completed,Regular
+4477,TAPIPM45407PM271,TAPI,Energy Sector,4/25/2024,Site Visit,Maidan Wardak,Chak-e-Wardak,Maidan Wardak,School,4/23/2024,4/27/2024,,Not applicable,,Completed,Completed,Regular
+4178,TAPIPM45408PM272,TAPI,Energy Sector,4/26/2024,Site Visit,Parwan,Salang,Parwan,DISTRICT,4/24/2024,4/28/2024,,Not applicable,,Completed,Completed,Regular
+4972,TAPIPM45409PM273,TAPI,Energy Sector,4/27/2024,Site Visit,Balkh,Mazar-e-Sharif,Balkh,School,4/25/2024,4/29/2024,,Not applicable,,Completed,Completed,Regular
+3908,TAPIPM45410PM274,TAPI,Energy Sector,4/28/2024,Site Visit,Paktya,Zurmat,Paktya,CBE,4/26/2024,4/30/2024,,Not applicable,,Completed,Completed,Regular
+3757,TAPIPM45411PM275,TAPI,Energy Sector,4/29/2024,Site Visit,Laghman,Alingar,Laghman,CBE,4/27/2024,5/1/2024,,Not applicable,,Completed,Completed,Regular
+10327,TAPIPM45412PM276,TAPI,Energy Sector,4/30/2024,Site Visit,Paktika,Yosuf Khel,Paktika,School,4/28/2024,5/2/2024,,Not applicable,,Completed,Completed,Regular
+7087,TAPIPM45413PM277,TAPI,Energy Sector,5/1/2024,Site Visit,Hilmand,Sangin,Hilmand,School,4/29/2024,5/3/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+3551,TAPIPM45414PM278,TAPI,Energy Sector,5/2/2024,Site Visit,Farah,Lash-e-Juwayn,Farah,CBE,4/30/2024,5/4/2024,,Not applicable,,Completed,Completed,Regular
+10623,TAPIPM45415PM279,TAPI,Energy Sector,5/3/2024,Site Visit,Uruzgan,Chinarto,Uruzgan,School,5/1/2024,5/5/2024,,Not applicable,,Completed,Completed,Regular
+5090,TAPIPM45416PM280,TAPI,Energy Sector,5/4/2024,Site Visit,Ghor,Pasaband,Ghor,School,5/2/2024,5/6/2024,,Not applicable,,Completed,Completed,Regular
+9640,TAPIPM45417PM281,TAPI,Energy Sector,5/5/2024,Site Visit,Jawzjan,Mingajik,Jawzjan,School,5/3/2024,5/7/2024,,Not applicable,,Completed,Completed,Regular
+10273,TAPIPM45418PM282,TAPI,Energy Sector,7/6/2024,Site Visit,Nuristan,Wama,Nuristan,School,5/4/2024,5/8/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10509,TAPIPM45419PM283,TAPI,Energy Sector,7/6/2024,Site Visit,Sar-e-Pul,Kohestanat,Sar-e-Pul,School,5/5/2024,5/9/2024,,Not applicable,,Completed,Completed,Regular
+10627,TAPIPM45420PM284,TAPI,Energy Sector,7/6/2024,Site Visit,Uruzgan,Chora,Uruzgan,School,5/6/2024,5/10/2024,,Not applicable,,Completed,Completed,Regular
+7302,TAPIPM45421PM285,TAPI,Energy Sector,7/6/2024,Site Visit,Laghman,Mehtarlam,Laghman,School,5/7/2024,5/11/2024,,Not Applicable,3/7/2024,Completed,Completed,Regular
+4553,TAPIPM45422PM286,TAPI,Energy Sector,7/6/2024,Site Visit,Panjsher,Khenj,Panjsher,School,5/8/2024,5/12/2024,,Not applicable,,Completed,Completed,Regular
+6882,TAPIPM45423PM287,TAPI,Energy Sector,7/6/2024,Site Visit,Farah,Khak-e-Safed,Farah,School,5/9/2024,5/13/2024,,Not Applicable,3/3/2024,Completed,Completed,Regular
+10495,TAPIPM45424PM288,TAPI,Energy Sector,7/6/2024,Site Visit,Sar-e-Pul,Balkhab,Sar-e-Pul,School,5/10/2024,5/14/2024,,Not applicable,,Completed,Completed,Regular
+4924,TAPIPM45425PM289,TAPI,Energy Sector,7/6/2024,Site Visit,Kunduz,Ali Abad,Kunduz,School,5/11/2024,5/15/2024,,Not applicable,,Completed,Completed,Regular
+8336,TAPIPM45426PM290,TAPI,Energy Sector,7/6/2024,Site Visit,Jawzjan,Darzab,Jawzjan,Village,5/12/2024,5/16/2024,,Not Applicable,,Completed,Completed,Regular
+3865,TAPIPM45427PM291,TAPI,Energy Sector,7/6/2024,Site Visit,Nuristan,Nurgaram,Nuristan,CBE,5/13/2024,5/17/2024,,Not applicable,,Completed,Completed,Regular
+4091,TAPIPM45428PM292,TAPI,Energy Sector,7/6/2024,Site Visit,Ghazni,Giro,Ghazni,DISTRICT,5/14/2024,5/18/2024,,Not applicable,,Completed,Completed,Regular
+11374,TAPIPM45429PM293,TAPI,Energy Sector,7/6/2024,Site Visit,Daykundi,,,CBE,5/15/2024,5/19/2024,,Not applicable,,Completed,Completed,Regular
+4177,TAPIPM45430PM294,TAPI,Energy Sector,7/6/2024,Site Visit,Parwan,Bagram,Parwan,DISTRICT,5/16/2024,5/20/2024,,Not applicable,,Completed,Completed,Regular
+10584,TAPIPM45431PM295,TAPI,Energy Sector,7/6/2024,Site Visit,Takhar,Kalafgan,Takhar,School,5/17/2024,5/21/2024,,Not applicable,,Cancelled,Cancelled,Regular
+6961,TAPIPM45432PM296,TAPI,Energy Sector,7/6/2024,Site Visit,Ghor,Feroz Koh,Ghor,School,5/18/2024,5/22/2024,,Not Applicable,3/14/2024,Completed,Completed,Regular
+9037,TAPIPM45433PM297,TAPI,Energy Sector,7/6/2024,Site Visit,Balkh,Shortepa,Balkh,School,5/19/2024,5/23/2024,,Not applicable,,Cancelled,Cancelled,Regular
+3680,TAPIPM45434PM298,TAPI,Energy Sector,7/6/2024,Site Visit,Kabul,Chahar Asyab,Kabul,CBE,5/20/2024,5/24/2024,,Not applicable,,Completed,Completed,Regular
+10419,TAPIPM45435PM299,TAPI,Energy Sector,7/6/2024,Site Visit,Parwan,Ghorband,Parwan,School,5/21/2024,5/25/2024,,Not applicable,,Completed,Completed,Regular
+5262,TAPIPM45436PM300,TAPI,Energy Sector,7/6/2024,Site Visit,Hilmand,Lashkargah,Hilmand,School,5/22/2024,5/26/2024,,Not applicable,,Completed,Completed,Regular
+4801,TAPIPM45437PM301,TAPI,Energy Sector,7/6/2024,Site Visit,Badakhshan,Fayzabad,Badakhshan,School,5/23/2024,5/27/2024,,Not applicable,,Completed,Completed,Regular
+8763,TAPIPM45438PM302,TAPI,Energy Sector,7/6/2024,Site Visit,Badakhshan,Kohistan,Badakhshan,School,5/24/2024,5/28/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9233,TAPIPM45439PM303,TAPI,Energy Sector,7/6/2024,Site Visit,Faryab,Maymana,Faryab,School,5/25/2024,5/29/2024,,Not applicable,,Completed,Completed,Regular
+3881,TAPIPM45440PM304,TAPI,Energy Sector,7/6/2024,Site Visit,Nuristan,Nurgaram,Nuristan,CBE,5/26/2024,5/30/2024,,Not applicable,,Completed,Completed,Regular
+7034,TAPIPM45441PM305,TAPI,Energy Sector,9/29/2024,Site Visit,Hilmand,Lashkargah,Hilmand,School,5/27/2024,5/31/2024,,Not Applicable,3/2/2024,Completed,Completed,Regular
+7442,TAPIPM45442PM306,TAPI,Energy Sector,9/29/2024,Site Visit,Nangarhar,Goshta,Nangarhar,School,5/28/2024,6/1/2024,,Not Applicable,3/17/2024,Completed,Completed,Regular
+3871,TAPIPM45443PM307,TAPI,Energy Sector,9/29/2024,Site Visit,Nuristan,Parun,Nuristan,CBE,5/29/2024,6/2/2024,,Not applicable,,Completed,Completed,Regular
+7565,TAPIPM45444PM308,TAPI,Energy Sector,9/29/2024,Site Visit,Nangarhar,Surkh Rod,Nangarhar,School,5/30/2024,6/3/2024,,Not Applicable,3/15/2024,Completed,Completed,Regular
+7398,TAPIPM45445PM309,TAPI,Energy Sector,9/29/2024,Site Visit,Nangarhar,Chaparhar,Nangarhar,School,5/31/2024,6/4/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+5002,TAPIPM45446PM310,TAPI,Energy Sector,9/29/2024,Site Visit,Balkh,Dawlat Abad,Balkh,School,6/1/2024,6/5/2024,,Not applicable,,Completed,Completed,Regular
+7058,TAPIPM45447PM311,TAPI,Energy Sector,9/29/2024,Site Visit,Hilmand,Nad-e-Ali,Hilmand,School,6/2/2024,6/6/2024,,Not Applicable,3/16/2024,Completed,Completed,Regular
+8544,TAPIPM45448PM312,TAPI,Energy Sector,9/29/2024,Site Visit,Balkh,Kaldar,Balkh,CBE,6/3/2024,6/7/2024,,Not applicable,,Completed,Completed,Regular
+8589,TAPIPM45449PM313,TAPI,Energy Sector,9/29/2024,Site Visit,Nuristan,Parun,Nuristan,CBE,6/4/2024,6/8/2024,,Not applicable,,Cancelled,Cancelled,Regular
+4844,TAPIPM45450PM314,TAPI,Energy Sector,9/29/2024,Site Visit,Badakhshan,Yamgan,Badakhshan,School,6/5/2024,6/9/2024,,Not applicable,,Completed,Completed,Regular
+10118,TAPIPM45451PM315,TAPI,Energy Sector,9/29/2024,Site Visit,Maidan Wardak,Markaz-e-Behsud,Maidan Wardak,School,6/6/2024,6/10/2024,,Not applicable,,Completed,Completed,Regular
+7793,TAPIPM45452PM316,TAPI,Energy Sector,9/29/2024,Site Visit,Kunar,Nurgal,Kunar,School,6/7/2024,6/11/2024,,Not applicable,3/17/2024,Completed,Completed,Regular
+6864,TAPIPM45453PM317,TAPI,Energy Sector,9/29/2024,Site Visit,Farah,Farah,Farah,School,6/8/2024,6/12/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+8409,TAPIPM45454PM318,TAPI,Energy Sector,9/29/2024,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,6/9/2024,6/13/2024,,Not Applicable,,Completed,Completed,Regular
+6903,TAPIPM45455PM319,TAPI,Energy Sector,9/29/2024,Site Visit,Farah,Qala-e-Kah,Farah,School,6/10/2024,6/14/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+3603,TAPIPM45456PM320,TAPI,Energy Sector,9/29/2024,Site Visit,Ghazni,Gelan,Ghazni,CBE,6/11/2024,6/15/2024,,Not applicable,,Cancelled,Cancelled,Regular
+7764,TAPIPM45457PM321,TAPI,Energy Sector,9/29/2024,Site Visit,Kunar,Chawkay,Kunar,School,6/12/2024,6/16/2024,,Not applicable,,Cancelled,Cancelled,Regular
+5179,TAPIPM45458PM322,TAPI,Energy Sector,9/29/2024,Site Visit,Zabul,Shah Joi,Zabul,School,6/13/2024,6/17/2024,,Not applicable,,Completed,Completed,Regular
+4391,TAPIPM45459PM323,TAPI,Energy Sector,9/29/2024,Site Visit,Kabul,Kabul,Kabul,School,6/14/2024,6/18/2024,,Not applicable,,Completed,Completed,Regular
+10270,TAPIPM45460PM324,TAPI,Energy Sector,9/29/2024,Site Visit,Nuristan,Parun,Nuristan,School,6/15/2024,6/19/2024,,Not applicable,,Completed,Completed,Regular
+7522,TAPIPM45461PM325,TAPI,Energy Sector,9/29/2024,Site Visit,Nangarhar,Nazyan,Nangarhar,School,6/16/2024,6/20/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+3843,TAPIPM45462PM326,TAPI,Energy Sector,9/29/2024,Site Visit,Nangarhar,Muhmand Dara,Nangarhar,CBE,6/17/2024,6/21/2024,,Not applicable,,Completed,Completed,Regular
+10619,TAPIPM45463PM327,TAPI,Energy Sector,9/29/2024,Site Visit,Takhar,Warsaj,Takhar,School,6/18/2024,6/22/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9526,TAPIPM45464PM328,TAPI,Energy Sector,9/29/2024,Site Visit,Hirat,Hirat,Hirat,School,6/19/2024,6/23/2024,,Not applicable,,Completed,Completed,Regular
+9665,TAPIPM45465PM329,TAPI,Energy Sector,9/29/2024,Site Visit,Kabul,Bagrami,Kabul,School,6/20/2024,6/24/2024,,Not applicable,,Completed,Completed,Regular
+4396,TAPIPM45466PM330,TAPI,Energy Sector,9/29/2024,Site Visit,Kabul,Kabul,Kabul,School,6/21/2024,6/25/2024,,Not applicable,,Completed,Completed,Regular
+9417,TAPIPM45467PM331,TAPI,Energy Sector,9/29/2024,Site Visit,Ghor,Pasaband,Ghor,School,6/22/2024,6/26/2024,,Not applicable,,Cancelled,Cancelled,Regular
+5409,TAPIPM45468PM332,TAPI,Energy Sector,9/29/2024,Site Visit,Farah,Farah,Farah,School,6/23/2024,6/27/2024,,Not applicable,,Completed,Completed,Regular
+7656,TAPIPM45469PM333,TAPI,Energy Sector,10/26/2024,Site Visit,Nangarhar,Muhmand Dara,Nangarhar,CBE,6/24/2024,6/28/2024,,Not Applicable,,Completed,Completed,Regular
+7262,TAPIPM45470PM334,TAPI,Energy Sector,10/26/2024,Site Visit,Laghman,Alingar,Laghman,School,6/25/2024,6/29/2024,,Not Applicable,3/3/2024,Completed,Completed,Regular
+7689,TAPIPM45471PM335,TAPI,Energy Sector,10/26/2024,Site Visit,Nangarhar,Shinwar,Nangarhar,CBE,6/26/2024,6/30/2024,,Not Applicable,,Completed,Completed,Regular
+3849,TAPIPM45472PM336,TAPI,Energy Sector,10/26/2024,Site Visit,Nangarhar,Pachir Wa Agam,Nangarhar,CBE,6/27/2024,7/1/2024,,Not applicable,,Completed,Completed,Regular
+3789,TAPIPM45473PM337,TAPI,Energy Sector,10/26/2024,Site Visit,Logar,Charkh,Logar,CBE,6/28/2024,7/2/2024,,Not applicable,,Completed,Completed,Regular
+6849,TAPIPM45474PM338,TAPI,Energy Sector,10/26/2024,Site Visit,Farah,Farah,Farah,School,6/29/2024,7/3/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+7471,TAPIPM45475PM339,TAPI,Energy Sector,10/26/2024,Site Visit,Nangarhar,Kot,Nangarhar,School,6/30/2024,7/4/2024,,Not Applicable,3/20/2024,Completed,Completed,Regular
+8894,TAPIPM45476PM340,TAPI,Energy Sector,11/3/2024,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,School,7/1/2024,7/5/2024,,Not applicable,,Completed,Completed,Regular
+10233,TAPIPM45477PM341,TAPI,Energy Sector,11/3/2024,Site Visit,Nangarhar,Shinwar,Nangarhar,School,7/2/2024,7/6/2024,,Not applicable,,Completed,Completed,Regular
+10219,TAPIPM45478PM342,TAPI,Energy Sector,11/3/2024,Site Visit,Nangarhar,Pachir Wa Agam,Nangarhar,School,7/3/2024,7/7/2024,,Not applicable,,Completed,Completed,Regular
+5380,TAPIPM45479PM343,TAPI,Energy Sector,11/3/2024,Site Visit,Hirat,Kushk-e-Kuhna,Hirat,School,7/4/2024,7/8/2024,,Not applicable,,Completed,Completed,Regular
+10552,TAPIPM45480PM344,TAPI,Energy Sector,11/3/2024,Site Visit,Takhar,Bangi,Takhar,School,7/5/2024,7/9/2024,,Not applicable,,Completed,Completed,Regular
+10160,TAPIPM45481PM345,TAPI,Energy Sector,11/3/2024,Site Visit,Nangarhar,Behsud,Nangarhar,School,7/6/2024,7/10/2024,,Not applicable,,Completed,Completed,Regular
+4127,TAPIPM45482PM346,TAPI,Energy Sector,11/3/2024,Site Visit,Maidan Wardak,Daymirdad,Maidan Wardak,DISTRICT,7/7/2024,7/11/2024,,Not applicable,,Completed,Completed,Regular
+8558,TAPIPM45483PM347,TAPI,Energy Sector,11/3/2024,Site Visit,Farah,Qala-e-Kah,Farah,CBE,7/8/2024,7/12/2024,,Not applicable,,Completed,Completed,Regular
+10581,TAPIPM45484PM348,TAPI,Energy Sector,11/3/2024,Site Visit,Takhar,Farkhar,Takhar,School,7/9/2024,7/13/2024,,Not applicable,,Completed,Completed,Regular
+8897,TAPIPM45485PM349,TAPI,Energy Sector,11/3/2024,Site Visit,Baghlan,Burka,Baghlan,School,7/10/2024,7/14/2024,,Not applicable,,Cancelled,Cancelled,Regular
+8653,TAPIPM45486PM350,TAPI,Energy Sector,11/3/2024,Site Visit,Badakhshan,Shuhada,Badakhshan,CBE,7/11/2024,7/15/2024,,Not applicable,,Cancelled,Cancelled,Regular
+3582,TAPIPM45487PM351,TAPI,Energy Sector,11/3/2024,Site Visit,Ghazni,Waghaz,Ghazni,CBE,7/12/2024,7/16/2024,,Not applicable,,Completed,Completed,Regular
+8814,TAPIPM45488PM352,TAPI,Energy Sector,11/3/2024,Site Visit,Badakhshan,Zebak,Badakhshan,School,7/13/2024,7/17/2024,,Not applicable,,Completed,Completed,Regular
+7799,TAPIPM45489PM353,TAPI,Energy Sector,11/3/2024,Site Visit,Kunar,Sar Kani,Kunar,School,7/14/2024,7/18/2024,,Not applicable,,Cancelled,Cancelled,Regular
+4443,TAPIPM45490PM354,TAPI,Energy Sector,11/3/2024,Site Visit,Parwan,Shinwari,Parwan,School,7/15/2024,7/19/2024,,Not applicable,,Completed,Completed,Regular
+4852,TAPIPM45491PM355,TAPI,Energy Sector,11/3/2024,Site Visit,Badakhshan,,,School,7/16/2024,7/20/2024,,Not applicable,,Completed,Completed,Regular
+5191,TAPIPM45492PM356,TAPI,Energy Sector,11/3/2024,Site Visit,Jawzjan,Shiberghan,Jawzjan,School,7/17/2024,7/21/2024,,Not applicable,,Completed,Completed,Regular
+4997,TAPIPM45493PM357,TAPI,Energy Sector,11/3/2024,Site Visit,Balkh,Sholgareh,Balkh,School,7/18/2024,7/22/2024,,Not applicable,,Completed,Completed,Regular
+11376,TAPIPM45494PM358,TAPI,Energy Sector,11/3/2024,Site Visit,Badakhshan,Shuhada,Badakhshan,CBE,7/19/2024,7/23/2024,,Not applicable,,Completed,Completed,Regular
+8741,TAPIPM45495PM359,TAPI,Energy Sector,11/3/2024,Site Visit,Badakhshan,Jorm,Badakhshan,School,7/20/2024,7/24/2024,,Not applicable,,Completed,Completed,Regular
+8323,TAPIPM45496PM360,TAPI,Energy Sector,11/3/2024,Site Visit,Jawzjan,Darzab,Jawzjan,Village,7/21/2024,7/25/2024,,Not Applicable,,Completed,Completed,Regular
+9162,TAPIPM45497PM361,TAPI,Energy Sector,11/3/2024,Site Visit,Daykundi,Shahrestan,Daykundi,School,7/22/2024,7/26/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10188,TAPIPM45498PM362,TAPI,Energy Sector,11/3/2024,Site Visit,Nangarhar,Kama,Nangarhar,School,7/23/2024,7/27/2024,,Not applicable,,Completed,Completed,Regular
+10156,TAPIPM45499PM363,TAPI,Energy Sector,11/3/2024,Site Visit,Nangarhar,Bati Kot,Nangarhar,School,7/24/2024,7/28/2024,,Not applicable,,Completed,Completed,Regular
+3872,TAPIPM45500PM364,TAPI,Energy Sector,11/3/2024,Site Visit,Nuristan,Duab,Nuristan,CBE,7/25/2024,7/29/2024,,Not applicable,,Completed,Completed,Regular
+4179,TAPIPM45501PM365,TAPI,Energy Sector,11/3/2024,Site Visit,Parwan,Ghorband,Parwan,DISTRICT,7/26/2024,7/30/2024,,Not applicable,,Completed,Completed,Regular
+9644,TAPIPM45502PM366,TAPI,Energy Sector,12/29/2024,Site Visit,Jawzjan,Qarqin,Jawzjan,School,7/27/2024,7/31/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9381,TAPIPM45503PM367,TAPI,Energy Sector,12/29/2024,Site Visit,Ghor,Feroz Koh,Ghor,School,7/28/2024,8/1/2024,,Not applicable,,Completed,Completed,Regular
+5295,TAPIPM45504PM368,TAPI,Energy Sector,12/29/2024,Site Visit,Badghis,Ab Kamari,Badghis,School,7/29/2024,8/2/2024,,Not applicable,,Completed,Completed,Regular
+3698,TAPIPM45505PM369,TAPI,Energy Sector,12/29/2024,Site Visit,Kabul,Chahar Asyab,Kabul,CBE,7/30/2024,8/3/2024,,Not applicable,,Completed,Completed,Regular
+7106,TAPIPM45506PM370,TAPI,Energy Sector,12/29/2024,Site Visit,Kandahar,Daman,Kandahar,School,7/31/2024,8/4/2024,,Not Applicable,2/24/2024,Completed,Completed,Regular
+9601,TAPIPM45507PM371,TAPI,Energy Sector,12/29/2024,Site Visit,Hirat,,,School,8/1/2024,8/5/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9878,TAPIPM45508PM372,TAPI,Energy Sector,12/29/2024,Site Visit,Khost,Shamal,Khost,School,8/2/2024,8/6/2024,,Not applicable,,Completed,Completed,Regular
+5231,TAPIPM45509PM373,TAPI,Energy Sector,12/29/2024,Site Visit,Faryab,Pashtun Kot,Faryab,School,8/3/2024,8/7/2024,,Not applicable,,Completed,Completed,Regular
+9181,TAPIPM45510PM374,TAPI,Energy Sector,12/29/2024,Site Visit,Farah,Khak-e-Safed,Farah,School,8/4/2024,8/8/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10070,TAPIPM45511PM375,TAPI,Energy Sector,12/29/2024,Site Visit,Logar,Mohammad Agha,Logar,School,8/5/2024,8/9/2024,,Not applicable,,Completed,Completed,Regular
+4398,TAPIPM45512PM376,TAPI,Energy Sector,12/29/2024,Site Visit,Kabul,Kabul,Kabul,School,8/6/2024,8/10/2024,,Not applicable,,Completed,Completed,Regular
+3580,TAPIPM45513PM377,TAPI,Energy Sector,12/29/2024,Site Visit,Ghazni,Andar,Ghazni,CBE,8/7/2024,8/11/2024,,Not applicable,,Completed,Completed,Regular
+9449,TAPIPM45514PM378,TAPI,Energy Sector,12/29/2024,Site Visit,Ghor,Tolak,Ghor,School,8/8/2024,8/12/2024,,Not applicable,,Cancelled,Cancelled,Regular
+5173,TAPIPM45515PM379,TAPI,Energy Sector,12/29/2024,Site Visit,Uruzgan,Gizab,Uruzgan,School,8/9/2024,8/13/2024,,Not applicable,,Completed,Completed,Regular
+9094,TAPIPM45516PM380,TAPI,Energy Sector,12/29/2024,Site Visit,Bamyan,Yakawlang,Bamyan,School,8/10/2024,8/14/2024,,Not applicable,,Completed,Completed,Regular
+11426,TAPIPM45517PM381,TAPI,Energy Sector,12/29/2024,Site Visit,Kandahar,Spin Boldak,Kandahar,School,8/11/2024,8/15/2024,,Planned,,Not applicable,Planned,Regular
+10326,TAPIPM45518PM382,TAPI,Energy Sector,12/29/2024,Site Visit,Paktika,Yosuf Khel,Paktika,School,8/12/2024,8/16/2024,,Not applicable,,Completed,Completed,Regular
+7109,TAPIPM45519PM383,TAPI,Energy Sector,12/29/2024,Site Visit,Kandahar,Kandahar,Kandahar,School,8/13/2024,8/17/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+8302,TAPIPM45520PM384,TAPI,Energy Sector,12/29/2024,Site Visit,Jawzjan,,,Village,8/14/2024,8/18/2024,,Not Applicable,,Completed,Completed,Regular
+4296,TAPIPM45521PM385,TAPI,Energy Sector,12/29/2024,Site Visit,Nangarhar,Khogyani,Nangarhar,School,8/15/2024,8/19/2024,,Not applicable,,Completed,Completed,Regular
+3432,TAPIPM45522PM386,TAPI,Energy Sector,12/29/2024,Site Visit,Ghazni,Muqur,Ghazni,School,8/16/2024,8/20/2024,,Completed,11/11/2023,Not applicable,Completed,Regular
+8322,TAPIPM45523PM387,TAPI,Energy Sector,12/29/2024,Site Visit,Jawzjan,Khanaqa,Jawzjan,Village,8/17/2024,8/21/2024,,Not Applicable,,Completed,Completed,Regular
+10430,TAPIPM45524PM388,TAPI,Energy Sector,12/29/2024,Site Visit,Parwan,Koh-e-Safi,Parwan,School,8/18/2024,8/22/2024,,Not applicable,,Completed,Completed,Regular
+3505,TAPIPM45525PM389,TAPI,Energy Sector,12/29/2024,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,CBE,8/19/2024,8/23/2024,,Not applicable,,Completed,Completed,Regular
+4436,TAPIPM45526PM390,TAPI,Energy Sector,12/29/2024,Site Visit,Parwan,Charikar,Parwan,School,8/20/2024,8/24/2024,,Not applicable,,Completed,Completed,Regular
+11356,TAPIPM45527PM391,TAPI,Energy Sector,12/29/2024,Site Visit,Kabul,Musahi,Kabul,CBE,8/21/2024,8/25/2024,,Not applicable,,Completed,Completed,Regular
+3569,TAPIPM45528PM392,TAPI,Energy Sector,12/29/2024,Site Visit,Farah,Lash-e-Juwayn,Farah,CBE,8/22/2024,8/26/2024,,Not applicable,,Completed,Completed,Regular
+8879,TAPIPM45529PM393,TAPI,Energy Sector,12/29/2024,Site Visit,Badghis,Qala-e-Naw,Badghis,School,8/23/2024,8/27/2024,,Not applicable,,Completed,Completed,Regular
+10689,TAPIPM45530PM394,TAPI,Energy Sector,12/29/2024,Site Visit,Hirat,Adraskan,Hirat,School,8/24/2024,8/28/2024,,Not applicable,,Completed,Completed,Regular
+10611,TAPIPM45531PM395,TAPI,Energy Sector,12/29/2024,Site Visit,Takhar,Taloqan,Takhar,School,8/25/2024,8/29/2024,,Not applicable,,Completed,Completed,Regular
+5320,TAPIPM45532PM396,TAPI,Energy Sector,12/29/2024,Site Visit,Badghis,Ghormach,Badghis,School,8/26/2024,8/30/2024,,Not applicable,,Completed,Completed,Regular
+8778,TAPIPM45533PM397,TAPI,Energy Sector,12/29/2024,Site Visit,Badakhshan,Shahr-e-Buzorg,Badakhshan,School,8/27/2024,8/31/2024,,Not applicable,,Cancelled,Cancelled,Regular
+7286,TAPIPM45534PM398,TAPI,Energy Sector,12/29/2024,Site Visit,Laghman,Baadpukh,Laghman,School,8/28/2024,9/1/2024,,Not Applicable,3/10/2024,Completed,Completed,Regular
+8858,TAPIPM45535PM399,TAPI,Energy Sector,12/29/2024,Site Visit,Badghis,Qadis,Badghis,School,8/29/2024,9/2/2024,,Not applicable,,Cancelled,Cancelled,Regular
+4727,TAPIPM45536PM400,TAPI,Energy Sector,12/29/2024,Site Visit,Paktya,Zurmat,Paktya,School,8/30/2024,9/3/2024,,Not applicable,,Completed,Completed,Regular
+4784,TAPIPM45537PM401,TAPI,Energy Sector,12/29/2024,Site Visit,Nuristan,Parun,Nuristan,School,8/31/2024,9/4/2024,,Not applicable,,Completed,Completed,Regular
+7187,TAPIPM45538PM402,TAPI,Energy Sector,12/29/2024,Site Visit,Kunar,Chawkay,Kunar,School,9/1/2024,9/5/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+4309,TAPIPM45539PM403,TAPI,Energy Sector,12/29/2024,Site Visit,Nangarhar,Rodat,Nangarhar,School,9/2/2024,9/6/2024,,Not applicable,,Completed,Completed,Regular
+3896,TAPIPM45540PM404,TAPI,Energy Sector,12/29/2024,Site Visit,Paktya,Ahmadaba,Paktya,CBE,9/3/2024,9/7/2024,,Not applicable,,Completed,Completed,Regular
+10276,TAPIPM45541PM405,TAPI,Energy Sector,12/29/2024,Site Visit,Nuristan,Waygal,Nuristan,School,9/4/2024,9/8/2024,,Not applicable,,Completed,Completed,Regular
+7094,TAPIPM45542PM406,TAPI,Energy Sector,12/29/2024,Site Visit,Kandahar,Arghandab,Kandahar,School,9/5/2024,9/9/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+10681,TAPIPM45543PM407,TAPI,Energy Sector,12/29/2024,Site Visit,Faryab,Andkhoy,Faryab,School,9/6/2024,9/10/2024,,Not applicable,,Completed,Completed,Regular
+4077,TAPIPM45544PM408,TAPI,Energy Sector,12/29/2024,Site Visit,Daykundi,Shahrestan,Daykundi,DISTRICT,9/7/2024,9/11/2024,,Not applicable,,Completed,Completed,Regular
+10013,TAPIPM45545PM409,TAPI,Energy Sector,12/29/2024,Site Visit,Kunduz,Kunduz,Kunduz,School,9/8/2024,9/12/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9593,TAPIPM45546PM410,TAPI,Energy Sector,12/29/2024,Site Visit,Hirat,,,School,9/9/2024,9/13/2024,,Not applicable,,Cancelled,Cancelled,Regular
+7677,TAPIPM45547PM411,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Lash-e-Juwayn,Farah,CBE,9/10/2024,9/14/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+9522,TAPIPM45548PM412,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Guzara,Hirat,School,9/11/2024,9/15/2024,,Not applicable,,Completed,Completed,Regular
+4199,TAPIPM45549PM413,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Bamyan,Bamyan,CBE,9/12/2024,9/16/2024,,Not applicable,,Completed,Completed,Regular
+4224,TAPIPM45550PM414,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Dangam,Kunar,School,9/13/2024,9/17/2024,,Not applicable,,Completed,Completed,Regular
+4958,TAPIPM45551PM415,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Ruy-e-Duab,Samangan,School,9/14/2024,9/18/2024,,Not applicable,,Completed,Completed,Regular
+4746,TAPIPM45552PM416,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Dand Wa Patan,Paktya,School,9/15/2024,9/19/2024,,Not applicable,,Completed,Completed,Regular
+10175,TAPIPM45553PM417,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Dur Baba,Nangarhar,School,9/16/2024,9/20/2024,,Not applicable,,Completed,Completed,Regular
+10029,TAPIPM45554PM418,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alishang,Laghman,School,9/17/2024,9/21/2024,,Not applicable,,Completed,Completed,Regular
+7548,TAPIPM45555PM419,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Shinwar,Nangarhar,School,9/18/2024,9/22/2024,,Not Applicable,3/10/2024,Completed,Completed,Regular
+6853,TAPIPM45556PM420,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Farah,Farah,School,9/19/2024,9/23/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+4922,TAPIPM45557PM421,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Ali Abad,Kunduz,School,9/20/2024,9/24/2024,,Not applicable,,Completed,Completed,Regular
+9697,TAPIPM45558PM422,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Kabul,Kabul,School,9/21/2024,9/25/2024,,Not applicable,,Completed,Completed,Regular
+10030,TAPIPM45559PM423,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alishang,Laghman,School,9/22/2024,9/26/2024,,Not applicable,,Completed,Completed,Regular
+4860,TAPIPM45560PM424,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Darwaz-e-Balla,Badakhshan,School,9/23/2024,9/27/2024,,Not applicable,,Completed,Completed,Regular
+9167,TAPIPM45561PM425,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Bala Buluk,Farah,School,9/24/2024,9/28/2024,,Not applicable,,Completed,Completed,Regular
+10398,TAPIPM45562PM426,TAPI,Energy Sector,1/12/2025,Site Visit,Panjsher,Khenj,Panjsher,School,9/25/2024,9/29/2024,,Not applicable,,Completed,Completed,Regular
+3679,TAPIPM45563PM427,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Chahar Asyab,Kabul,CBE,9/26/2024,9/30/2024,,Not applicable,,Completed,Completed,Regular
+3688,TAPIPM45564PM428,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Khak-e-Jabbar,Kabul,CBE,9/27/2024,10/1/2024,,Not applicable,,Completed,Completed,Regular
+4462,TAPIPM45565PM429,TAPI,Energy Sector,1/12/2025,Site Visit,Parwan,Shekh Ali,Parwan,School,9/28/2024,10/2/2024,,Not applicable,,Completed,Completed,Regular
+4522,TAPIPM45566PM430,TAPI,Energy Sector,1/12/2025,Site Visit,Logar,Azra,Logar,School,9/29/2024,10/3/2024,,Not applicable,,Completed,Completed,Regular
+3748,TAPIPM45567PM431,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Khan Abad,Kunduz,CBE,9/30/2024,10/4/2024,,Not applicable,,Completed,Completed,Regular
+10192,TAPIPM45568PM432,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Khogyani,Nangarhar,School,10/1/2024,10/5/2024,,Not applicable,,Completed,Completed,Regular
+4293,TAPIPM45569PM433,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Khogyani,Nangarhar,School,10/2/2024,10/6/2024,,Not applicable,,Completed,Completed,Regular
+9296,TAPIPM45570PM434,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Jaghatu,Ghazni,School,10/3/2024,10/7/2024,,Not applicable,,Completed,Completed,Regular
+3782,TAPIPM45571PM435,TAPI,Energy Sector,1/12/2025,Site Visit,Logar,Kharwar,Logar,CBE,10/4/2024,10/8/2024,,Not applicable,,Completed,Completed,Regular
+3696,TAPIPM45572PM436,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Surobi,Kabul,CBE,10/5/2024,10/9/2024,,Not applicable,,Completed,Completed,Regular
+4938,TAPIPM45573PM437,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Dasht-e-Archi,Kunduz,School,10/6/2024,10/10/2024,,Not applicable,,Completed,Completed,Regular
+5420,TAPIPM45574PM438,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Anar Dara,Farah,School,10/7/2024,10/11/2024,,Not applicable,,Completed,Completed,Regular
+11299,TAPIPM45575PM439,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,School,10/8/2024,10/12/2024,,Completed,,Not applicable,Completed,Regular
+4884,TAPIPM45576PM440,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Rostaq,Takhar,School,10/9/2024,10/13/2024,,Not applicable,,Completed,Completed,Regular
+8652,TAPIPM45577PM441,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Waras,Bamyan,CBE,10/10/2024,10/14/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10217,TAPIPM45578PM442,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Pachir Wa Agam,Nangarhar,School,10/11/2024,10/15/2024,,Not applicable,,Cancelled,Cancelled,Regular
+7310,TAPIPM45579PM443,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Qarghayi,Laghman,School,10/12/2024,10/16/2024,,Not Applicable,2/24/2024,Completed,Completed,Regular
+4725,TAPIPM45580PM444,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Ahmadaba,Paktya,School,10/13/2024,10/17/2024,,Not applicable,,Completed,Completed,Regular
+7250,TAPIPM45581PM445,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alingar,Laghman,School,10/14/2024,10/18/2024,,Not Applicable,3/18/2024,Completed,Completed,Regular
+7258,TAPIPM45582PM446,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alingar,Laghman,School,10/15/2024,10/19/2024,,Not Applicable,3/2/2024,Completed,Completed,Regular
+6905,TAPIPM45583PM447,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Qala-e-Kah,Farah,School,10/16/2024,10/20/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+7253,TAPIPM45584PM448,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alingar,Laghman,School,10/17/2024,10/21/2024,,Not Applicable,3/2/2024,Completed,Completed,Regular
+9688,TAPIPM45585PM449,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Kabul,Kabul,School,10/18/2024,10/22/2024,,Not applicable,,Completed,Completed,Regular
+8866,TAPIPM45586PM450,TAPI,Energy Sector,1/12/2025,Site Visit,Badghis,Qadis,Badghis,School,10/19/2024,10/23/2024,,Not applicable,,Completed,Completed,Regular
+3951,TAPIPM45587PM451,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Hazrat-e-Sultan,Samangan,CBE,10/20/2024,10/24/2024,,Not applicable,,Completed,Completed,Regular
+3619,TAPIPM45588PM452,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Khwaja Umari,Ghazni,CBE,10/21/2024,10/25/2024,,Not applicable,,Completed,Completed,Regular
+9638,TAPIPM45589PM453,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Mardyan,Jawzjan,School,10/22/2024,10/26/2024,,Not applicable,,Cancelled,Cancelled,Regular
+4556,TAPIPM45590PM454,TAPI,Energy Sector,1/12/2025,Site Visit,Panjsher,Anawa,Panjsher,School,10/23/2024,10/27/2024,,Not applicable,,Completed,Completed,Regular
+11403,TAPIPM45591PM455,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Gardez,Paktya,IP Level,10/24/2024,10/28/2024,,Not applicable,,Completed,Completed,Regular
+5146,TAPIPM45592PM456,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Miramor,Daykundi,School,10/25/2024,10/29/2024,,Not applicable,,Completed,Completed,Regular
+3653,TAPIPM45593PM457,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Mingajik,Jawzjan,CBE,10/26/2024,10/30/2024,,Not applicable,,Completed,Completed,Regular
+7178,TAPIPM45594PM458,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Zheray,Kandahar,School,10/27/2024,10/31/2024,,Not Applicable,3/13/2024,Completed,Completed,Regular
+4632,TAPIPM45595PM459,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Waras,Bamyan,School,10/28/2024,11/1/2024,,Not applicable,,Completed,Completed,Regular
+8998,TAPIPM45596PM460,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Keshendeh,Balkh,School,10/29/2024,11/2/2024,,Not applicable,,Cancelled,Cancelled,Regular
+8580,TAPIPM45597PM461,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Shuhada,Badakhshan,CBE,10/30/2024,11/3/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9427,TAPIPM45598PM462,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Saghar,Ghor,School,10/31/2024,11/4/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10050,TAPIPM45599PM463,TAPI,Energy Sector,1/12/2025,Site Visit,Logar,Azra,Logar,School,11/1/2024,11/5/2024,,Not applicable,,Cancelled,Cancelled,Regular
+7644,TAPIPM45600PM464,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Baadpukh,Laghman,School,11/2/2024,11/6/2024,,Not Applicable,3/22/2024,Completed,Completed,Regular
+8908,TAPIPM45601PM465,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Deh Salah,Baghlan,School,11/3/2024,11/7/2024,,Not applicable,,Completed,Completed,Regular
+9001,TAPIPM45602PM466,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Khulm,Balkh,School,11/4/2024,11/8/2024,,Not applicable,,Completed,Completed,Regular
+6957,TAPIPM45603PM467,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Feroz Koh,Ghor,School,11/5/2024,11/9/2024,,Not Applicable,3/14/2024,Completed,Completed,Regular
+6998,TAPIPM45604PM468,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Garmser,Hilmand,School,11/6/2024,11/10/2024,,Not Applicable,3/20/2024,Completed,Completed,Regular
+10405,TAPIPM45605PM469,TAPI,Energy Sector,1/12/2025,Site Visit,Parwan,Bagram,Parwan,School,11/7/2024,11/11/2024,,Not applicable,,Completed,Completed,Regular
+4758,TAPIPM45606PM470,TAPI,Energy Sector,1/12/2025,Site Visit,Khost,Gurbuz,Khost,School,11/8/2024,11/12/2024,,Not applicable,,Completed,Completed,Regular
+9771,TAPIPM45607PM471,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Surobi,Kabul,School,11/9/2024,11/13/2024,,Not applicable,,Cancelled,Cancelled,Regular
+8727,TAPIPM45608PM472,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Darwaz-e-Balla,Badakhshan,School,11/10/2024,11/14/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9298,TAPIPM45609PM473,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Jaghuri,Ghazni,School,11/11/2024,11/15/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10019,TAPIPM45610PM474,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Qala-e-Zal,Kunduz,School,11/12/2024,11/16/2024,,Not applicable,,Cancelled,Cancelled,Regular
+8432,TAPIPM45611PM475,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,11/13/2024,11/17/2024,,Not Applicable,,Completed,Completed,Regular
+9277,TAPIPM45612PM476,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Gelan,Ghazni,School,11/14/2024,11/18/2024,,Not applicable,,Cancelled,Cancelled,Regular
+11192,TAPIPM45613PM477,TAPI,Energy Sector,1/12/2025,Site Visit,Paktika,Nika,Paktika,School,11/15/2024,11/19/2024,,Completed,,Not applicable,Completed,Regular
+4218,TAPIPM45614PM478,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Chahar Asyab,Kabul,CBE,11/16/2024,11/20/2024,,,,Completed,Completed,Regular
+4209,TAPIPM45615PM479,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Panjab,Bamyan,CBE,11/17/2024,11/21/2024,,Not applicable,,Cancelled,Cancelled,Regular
+8388,TAPIPM45616PM480,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,11/18/2024,11/22/2024,,Not Applicable,,Completed,Completed,Regular
+10100,TAPIPM45617PM481,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,School,11/19/2024,11/23/2024,,Not applicable,,Cancelled,Cancelled,Regular
+6852,TAPIPM45618PM482,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Farah,Farah,School,11/20/2024,11/24/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+10466,TAPIPM45619PM483,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Dara-e-Suf-e-Bala,Samangan,School,11/21/2024,11/25/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10238,TAPIPM45620PM484,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Surkh Rod,Nangarhar,School,11/22/2024,11/26/2024,,Not applicable,,Completed,Completed,Regular
+4791,TAPIPM45621PM485,TAPI,Energy Sector,1/12/2025,Site Visit,Nuristan,Nurgaram,Nuristan,School,11/23/2024,11/27/2024,,Not applicable,,Completed,Completed,Regular
+7594,TAPIPM45622PM486,TAPI,Energy Sector,1/12/2025,Site Visit,Nimroz,Dil Aram,Nimroz,School,11/24/2024,11/28/2024,,Not Applicable,3/10/2024,Completed,Completed,Regular
+7419,TAPIPM45623PM487,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Deh Bala,Nangarhar,School,11/25/2024,11/29/2024,,Not Applicable,,Cancelled,Cancelled,Regular
+8252,TAPIPM45624PM488,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Khanaqa,Jawzjan,Village,11/26/2024,11/30/2024,,Not Applicable,,Completed,Completed,Regular
+7156,TAPIPM45625PM489,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Shorabak,Kandahar,School,11/27/2024,12/1/2024,,Not Applicable,2/27/2024,Completed,Completed,Regular
+8284,TAPIPM45626PM490,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,11/28/2024,12/2/2024,,Not Applicable,,Completed,Completed,Regular
+11312,TAPIPM45627PM491,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Garmser,Hilmand,School,11/29/2024,12/3/2024,,Completed,,Not applicable,Completed,Regular
+3708,TAPIPM45628PM492,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Paghman,Kabul,CBE,11/30/2024,12/4/2024,,Not applicable,,Completed,Completed,Regular
+3522,TAPIPM45629PM493,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Khulm,Balkh,CBE,12/1/2024,12/5/2024,,Not applicable,,Completed,Completed,Regular
+11247,TAPIPM45630PM494,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Taloqan,Takhar,School,12/2/2024,12/6/2024,,Completed,,Not applicable,Completed,Regular
+4463,TAPIPM45631PM495,TAPI,Energy Sector,1/12/2025,Site Visit,Parwan,Shekh Ali,Parwan,School,12/3/2024,12/7/2024,,Not applicable,,Completed,Completed,Regular
+9251,TAPIPM45632PM496,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Qaysar,Faryab,School,12/4/2024,12/8/2024,,Not applicable,,Completed,Completed,Regular
+7158,TAPIPM45633PM497,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Shorabak,Kandahar,School,12/5/2024,12/9/2024,,Not Applicable,3/2/2024,Completed,Completed,Regular
+9106,TAPIPM45634PM498,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Ashtarlay,Daykundi,School,12/6/2024,12/10/2024,,Not applicable,,Cancelled,Cancelled,Regular
+7806,TAPIPM45635PM499,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Chawkay,Kunar,School,12/7/2024,12/11/2024,,Not applicable,,Cancelled,Cancelled,Regular
+6981,TAPIPM45636PM500,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Feroz Koh,Ghor,School,12/8/2024,12/12/2024,,Not Applicable,2/28/2024,Completed,Completed,Regular
+9913,TAPIPM45637PM501,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Ghazi Abad,Kunar,School,12/9/2024,12/13/2024,,Not applicable,,Completed,Completed,Regular
+8743,TAPIPM45638PM502,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Jorm,Badakhshan,School,12/10/2024,12/14/2024,,Not applicable,,Completed,Completed,Regular
+4119,TAPIPM45639PM503,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Dawlatshah,Laghman,DISTRICT,12/11/2024,12/15/2024,,Not applicable,,Completed,Completed,Regular
+8611,TAPIPM45640PM504,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Musahi,Kabul,CBE,12/12/2024,12/16/2024,,Not applicable,,Completed,Completed,Regular
+9462,TAPIPM45641PM505,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Garmser,Hilmand,School,12/13/2024,12/17/2024,,Not applicable,,Completed,Completed,Regular
+3805,TAPIPM45642PM506,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Chak-e-Wardak,Maidan Wardak,CBE,12/14/2024,12/18/2024,,Not applicable,,Completed,Completed,Regular
+4831,TAPIPM45643PM507,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Shahr-e-Buzorg,Badakhshan,School,12/15/2024,12/19/2024,,Not applicable,,Completed,Completed,Regular
+7204,TAPIPM45644PM508,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Khas Kunar,Kunar,School,12/16/2024,12/20/2024,,Not Applicable,2/28/2024,Completed,Completed,Regular
+9676,TAPIPM45645PM509,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Deh Sabz,Kabul,School,12/17/2024,12/21/2024,,Not applicable,,Cancelled,Cancelled,Regular
+9395,TAPIPM45646PM510,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Dawlatyar,Ghor,School,12/18/2024,12/22/2024,,Not applicable,,Completed,Completed,Regular
+9863,TAPIPM45647PM511,TAPI,Energy Sector,1/12/2025,Site Visit,Khost,Musa Khel,Khost,School,12/19/2024,12/23/2024,,Not applicable,,Cancelled,Cancelled,Regular
+10168,TAPIPM45648PM512,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Dara-e-Nur,Nangarhar,School,12/20/2024,12/24/2024,,Not applicable,,Completed,Completed,Regular
+8506,TAPIPM45649PM513,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,,,Village,12/21/2024,12/25/2024,,Not Applicable,,Completed,Completed,Regular
+10658,TAPIPM45650PM514,TAPI,Energy Sector,1/12/2025,Site Visit,Zabul,Shinkay,Zabul,School,12/22/2024,12/26/2024,,Not applicable,,Completed,Completed,Regular
+10088,TAPIPM45651PM515,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Chak-e-Wardak,Maidan Wardak,School,12/23/2024,12/27/2024,,Not applicable,,Completed,Completed,Regular
+11227,TAPIPM45652PM516,TAPI,Energy Sector,1/12/2025,Site Visit,Panjsher,Dara,Panjsher,School,12/24/2024,12/28/2024,,Cancelled,,Not applicable,Cancelled,Regular
+11236,TAPIPM45653PM517,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Qaysar,Faryab,School,12/25/2024,12/29/2024,,Cancelled,,Not applicable,Cancelled,Regular
+8357,TAPIPM45654PM518,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Mardyan,Jawzjan,Village,12/26/2024,12/30/2024,,Not Applicable,,Completed,Completed,Regular
+10532,TAPIPM45655PM519,TAPI,Energy Sector,1/12/2025,Site Visit,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,School,12/27/2024,12/31/2024,,Not applicable,,Completed,Completed,Regular
+4223,TAPIPM45656PM520,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Dangam,Kunar,School,12/28/2024,1/1/2025,,Not applicable,,Completed,Completed,Regular
+7681,TAPIPM45657PM521,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Qarghayi,Laghman,CBE,12/29/2024,1/2/2025,,Not Applicable,,Completed,Completed,Regular
+3675,TAPIPM45658PM522,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Aqcha,Jawzjan,CBE,12/30/2024,1/3/2025,,Not applicable,,Completed,Completed,Regular
+4326,TAPIPM45659PM523,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Goshta,Nangarhar,School,12/31/2024,1/4/2025,,Not applicable,,Completed,Completed,Regular
+9604,TAPIPM45660PM524,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,,,School,1/1/2025,1/5/2025,,Not applicable,,Cancelled,Cancelled,Regular
+10348,TAPIPM45661PM525,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Girda Seray,Paktya,School,1/2/2025,1/6/2025,,Not applicable,,Completed,Completed,Regular
+3906,TAPIPM45662PM526,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Zurmat,Paktya,CBE,1/3/2025,1/7/2025,,Not applicable,,Completed,Completed,Regular
+7718,TAPIPM45663PM527,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Shibkoh,Farah,CBE,1/4/2025,1/8/2025,,Not Applicable,,Completed,Completed,Regular
+10587,TAPIPM45664PM528,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Kalafgan,Takhar,School,1/5/2025,1/9/2025,,Not applicable,,Cancelled,Cancelled,Regular
+10551,TAPIPM45665PM529,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Bangi,Takhar,School,1/6/2025,1/10/2025,,Not applicable,,Completed,Completed,Regular
+3856,TAPIPM45666PM530,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Deh Bala,Nangarhar,CBE,1/7/2025,1/11/2025,,Not applicable,,Completed,Completed,Regular
+11183,TAPIPM45667PM531,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Lashkargah,Hilmand,School,1/8/2025,1/12/2025,,Not applicable,,Completed,Completed,Regular
+9136,TAPIPM45668PM532,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Miramor,Daykundi,School,1/9/2025,1/13/2025,,Not applicable,,Completed,Completed,Regular
+11405,TAPIPM45669PM533,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,IP Level,1/10/2025,1/14/2025,,Not applicable,,Completed,Completed,Regular
+9787,TAPIPM45670PM534,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Maruf,Kandahar,School,1/11/2025,1/15/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4562,TAPIPM45671PM535,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,School,1/12/2025,1/16/2025,,Not applicable,,Completed,Completed,Regular
+7636,TAPIPM45672PM536,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Maywand,Kandahar,School,1/13/2025,1/17/2025,,Not Applicable,3/21/2024,Completed,Completed,Regular
+9367,TAPIPM45673PM537,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Feroz Koh,Ghor,School,1/14/2025,1/18/2025,,Not applicable,,Cancelled,Cancelled,Regular
+7470,TAPIPM45674PM538,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Kot,Nangarhar,School,1/15/2025,1/19/2025,,Not Applicable,3/18/2024,Completed,Completed,Regular
+4422,TAPIPM45675PM539,TAPI,Energy Sector,1/12/2025,Site Visit,Kapisa,Hisa-e-Awal-e-Kohistan,Kapisa,School,1/16/2025,1/20/2025,,Not applicable,,Completed,Completed,Regular
+9658,TAPIPM45676PM540,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,School,1/17/2025,1/21/2025,,Not applicable,,Completed,Completed,Regular
+4789,TAPIPM45677PM541,TAPI,Energy Sector,1/12/2025,Site Visit,Nuristan,Wama,Nuristan,School,1/18/2025,1/22/2025,,Not applicable,,Completed,Completed,Regular
+11333,TAPIPM45678PM542,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Doshi,Baghlan,School,1/19/2025,1/23/2025,,Completed,,Not applicable,Completed,Regular
+5001,TAPIPM45679PM543,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Dawlat Abad,Balkh,School,1/20/2025,1/24/2025,,Not applicable,,Completed,Completed,Regular
+4187,TAPIPM45680PM544,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Panjab,Bamyan,CBE,1/21/2025,1/25/2025,,Not applicable,,Cancelled,Cancelled,Regular
+5057,TAPIPM45681PM545,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,,,School,1/22/2025,1/26/2025,,Not applicable,,Completed,Completed,Regular
+3799,TAPIPM45682PM546,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Daymirdad,Maidan Wardak,CBE,1/23/2025,1/27/2025,,Not applicable,,Completed,Completed,Regular
+10101,TAPIPM45683PM547,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Hesa-e-Awal-e-Behsud,Maidan Wardak,School,1/24/2025,1/28/2025,,Not applicable,,Cancelled,Cancelled,Regular
+10668,TAPIPM45684PM548,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Burka,Baghlan,School,1/25/2025,1/29/2025,,Not applicable,,Completed,Completed,Regular
+9921,TAPIPM45685PM549,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Marawara,Kunar,School,1/26/2025,1/30/2025,,Not applicable,,Completed,Completed,Regular
+4713,TAPIPM45686PM550,TAPI,Energy Sector,1/12/2025,Site Visit,Paktika,Dila,Paktika,School,1/27/2025,1/31/2025,,Not applicable,,Completed,Completed,Regular
+10126,TAPIPM45687PM551,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Maydan Shahr,Maidan Wardak,School,1/28/2025,2/1/2025,,Not applicable,,Completed,Completed,Regular
+8473,TAPIPM45688PM552,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Mardyan,Jawzjan,Village,1/29/2025,2/2/2025,,Not Applicable,,Completed,Completed,Regular
+8466,TAPIPM45689PM553,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,,,Village,1/30/2025,2/3/2025,,Not Applicable,,Completed,Completed,Regular
+3740,TAPIPM45690PM554,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Dasht-e-Archi,Kunduz,CBE,1/31/2025,2/4/2025,,Not applicable,,Completed,Completed,Regular
+9789,TAPIPM45691PM555,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Maruf,Kandahar,School,2/1/2025,2/5/2025,,Not applicable,,Cancelled,Cancelled,Regular
+5288,TAPIPM45692PM556,TAPI,Energy Sector,1/12/2025,Site Visit,Badghis,Qala-e-Naw,Badghis,School,2/2/2025,2/6/2025,,Not applicable,,Completed,Completed,Regular
+7174,TAPIPM45693PM557,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Spin Boldak,Kandahar,School,2/3/2025,2/7/2025,,Not Applicable,3/7/2024,Completed,Completed,Regular
+4781,TAPIPM45694PM558,TAPI,Energy Sector,1/12/2025,Site Visit,Khost,Jaji Maydan,Khost,School,2/4/2025,2/8/2025,,Not applicable,,Completed,Completed,Regular
+10688,TAPIPM45695PM559,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Shirin Tagab,Faryab,School,2/5/2025,2/9/2025,,Not applicable,,Completed,Completed,Regular
+10490,TAPIPM45696PM560,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Ruy-e-Duab,Samangan,School,2/6/2025,2/10/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4948,TAPIPM45697PM561,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Aybak,Samangan,School,2/7/2025,2/11/2025,,Not applicable,,Completed,Completed,Regular
+10016,TAPIPM45698PM562,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Qala-e-Zal,Kunduz,School,2/8/2025,2/12/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9422,TAPIPM45699PM563,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Pasaband,Ghor,School,2/9/2025,2/13/2025,,Not applicable,,Cancelled,Cancelled,Regular
+10408,TAPIPM45700PM564,TAPI,Energy Sector,1/12/2025,Site Visit,Parwan,Bagram,Parwan,School,2/10/2025,2/14/2025,,Not applicable,,Cancelled,Cancelled,Regular
+5111,TAPIPM45701PM565,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Tolak,Ghor,School,2/11/2025,2/15/2025,,Not applicable,,Completed,Completed,Regular
+11262,TAPIPM45702PM566,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,,,School,2/12/2025,2/16/2025,,Cancelled,,Not applicable,Cancelled,Regular
+9939,TAPIPM45703PM567,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Shigal,Kunar,School,2/13/2025,2/17/2025,,Not applicable,,Cancelled,Cancelled,Regular
+8775,TAPIPM45704PM568,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Shahr-e-Buzorg,Badakhshan,School,2/14/2025,2/18/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4971,TAPIPM45705PM569,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Mazar-e-Sharif,Balkh,School,2/15/2025,2/19/2025,,Not applicable,,Completed,Completed,Regular
+3475,TAPIPM45706PM570,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Shahr-e-Buzorg,Badakhshan,CBE,2/16/2025,2/20/2025,,Not applicable,,Completed,Completed,Regular
+6979,TAPIPM45707PM571,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Feroz Koh,Ghor,School,2/17/2025,2/21/2025,,Not Applicable,3/7/2024,Completed,Completed,Regular
+5106,TAPIPM45708PM572,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Taywarah,Ghor,School,2/18/2025,2/22/2025,,Not applicable,,Completed,Completed,Regular
+5278,TAPIPM45709PM573,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Musa Qala,Hilmand,School,2/19/2025,2/23/2025,,Not applicable,,Completed,Completed,Regular
+5034,TAPIPM45710PM574,TAPI,Energy Sector,1/12/2025,Site Visit,Sar-e-Pul,Kohestanat,Sar-e-Pul,School,2/20/2025,2/24/2025,,Not applicable,,Cancelled,Cancelled,Regular
+5019,TAPIPM45711PM575,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Zari,Balkh,School,2/21/2025,2/25/2025,,Not applicable,,Completed,Completed,Regular
+5196,TAPIPM45712PM576,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,School,2/22/2025,2/26/2025,,Not applicable,,Completed,Completed,Regular
+4282,TAPIPM45713PM577,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Surkh Rod,Nangarhar,School,2/23/2025,2/27/2025,,Not applicable,,Completed,Completed,Regular
+5147,TAPIPM45714PM578,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Miramor,Daykundi,School,2/24/2025,2/28/2025,,Not applicable,,Completed,Completed,Regular
+10167,TAPIPM45715PM579,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Dara-e-Nur,Nangarhar,School,2/25/2025,3/1/2025,,Not applicable,,Cancelled,Cancelled,Regular
+7559,TAPIPM45716PM580,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Surkh Rod,Nangarhar,School,2/26/2025,3/2/2025,,Not Applicable,3/17/2024,Completed,Completed,Regular
+4638,TAPIPM45717PM581,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Ghazni,Ghazni,School,2/27/2025,3/3/2025,,Not applicable,,Completed,Completed,Regular
+3486,TAPIPM45718PM582,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,CBE,2/28/2025,3/4/2025,,Not applicable,,Completed,Completed,Regular
+4805,TAPIPM45719PM583,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Argo,Badakhshan,School,3/1/2025,3/5/2025,,Not applicable,,Completed,Completed,Regular
+9274,TAPIPM45720PM584,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Deh Yak,Ghazni,School,3/2/2025,3/6/2025,,Not applicable,,Completed,Completed,Regular
+8581,TAPIPM45721PM585,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Dawlatshah,Laghman,CBE,3/3/2025,3/7/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4995,TAPIPM45722PM586,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Sholgareh,Balkh,School,3/4/2025,3/8/2025,,Not applicable,,Completed,Completed,Regular
+7201,TAPIPM45723PM587,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Khas Kunar,Kunar,School,3/5/2025,3/9/2025,,Not Applicable,,Cancelled,Cancelled,Regular
+5334,TAPIPM45724PM588,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Injil,Hirat,School,3/6/2025,3/10/2025,,Not applicable,,Completed,Completed,Regular
+9726,TAPIPM45725PM589,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Kabul,Kabul,School,3/7/2025,3/11/2025,,Not applicable,,Completed,Completed,Regular
+6980,TAPIPM45726PM590,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Feroz Koh,Ghor,School,3/8/2025,3/12/2025,,Not Applicable,3/3/2024,Completed,Completed,Regular
+3563,TAPIPM45727PM591,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Qala-e-Kah,Farah,CBE,3/9/2025,3/13/2025,,Not applicable,,Completed,Completed,Regular
+10586,TAPIPM45728PM592,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Kalafgan,Takhar,School,3/10/2025,3/14/2025,,Not applicable,,Cancelled,Cancelled,Regular
+6982,TAPIPM45729PM593,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Feroz Koh,Ghor,School,3/11/2025,3/15/2025,,Not Applicable,2/26/2024,Completed,Completed,Regular
+4733,TAPIPM45730PM594,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Sayed Karam,Paktya,School,3/12/2025,3/16/2025,,Not applicable,,Completed,Completed,Regular
+5356,TAPIPM45731PM595,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,,,School,3/13/2025,3/17/2025,,Not applicable,,Completed,Completed,Regular
+7055,TAPIPM45732PM596,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Nad-e-Ali,Hilmand,School,3/14/2025,3/18/2025,,Not Applicable,3/6/2024,Completed,Completed,Regular
+9163,TAPIPM45733PM597,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Shahrestan,Daykundi,School,3/15/2025,3/19/2025,,Not applicable,,Completed,Completed,Regular
+3535,TAPIPM45734PM598,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Khadir,Daykundi,CBE,3/16/2025,3/20/2025,,Not applicable,,Completed,Completed,Regular
+9918,TAPIPM45735PM599,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Khas Kunar,Kunar,School,3/17/2025,3/21/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9121,TAPIPM45736PM600,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Khadir,Daykundi,School,3/18/2025,3/22/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9625,TAPIPM45737PM601,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Fayzabad,Jawzjan,School,3/19/2025,3/23/2025,,Not applicable,,Completed,Completed,Regular
+5285,TAPIPM45738PM602,TAPI,Energy Sector,1/12/2025,Site Visit,Badghis,Qala-e-Naw,Badghis,School,3/20/2025,3/24/2025,,Not applicable,,Completed,Completed,Regular
+4194,TAPIPM45739PM603,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Yakawlang,Bamyan,CBE,3/21/2025,3/25/2025,,Not applicable,,Completed,Completed,Regular
+4494,TAPIPM45740PM604,TAPI,Energy Sector,1/12/2025,Site Visit,Maidan Wardak,Markaz-e-Behsud,Maidan Wardak,School,3/22/2025,3/26/2025,,Not applicable,,Completed,Completed,Regular
+10457,TAPIPM45741PM605,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Aybak,Samangan,School,3/23/2025,3/27/2025,,Not applicable,,Completed,Completed,Regular
+9450,TAPIPM45742PM606,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Tolak,Ghor,School,3/24/2025,3/28/2025,,Not applicable,,Cancelled,Cancelled,Regular
+7401,TAPIPM45743PM607,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Chaparhar,Nangarhar,School,3/25/2025,3/29/2025,,Not Applicable,3/5/2024,Completed,Completed,Regular
+9753,TAPIPM45744PM608,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Qara Bagh,Kabul,School,3/26/2025,3/30/2025,,Not applicable,,Completed,Completed,Regular
+7264,TAPIPM45745PM609,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alishang,Laghman,School,3/27/2025,3/31/2025,,Not Applicable,3/16/2024,Completed,Completed,Regular
+9441,TAPIPM45746PM610,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Taywarah,Ghor,School,3/28/2025,4/1/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9852,TAPIPM45747PM611,TAPI,Energy Sector,1/12/2025,Site Visit,Khost,Mandozayi,Khost,School,3/29/2025,4/2/2025,,Not applicable,,Completed,Completed,Regular
+7669,TAPIPM45748PM612,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Deh Bala,Nangarhar,CBE,3/30/2025,4/3/2025,,Not Applicable,,Completed,Completed,Regular
+7378,TAPIPM45749PM613,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Behsud,Nangarhar,School,3/31/2025,4/4/2025,,Not Applicable,3/9/2024,Completed,Completed,Regular
+8484,TAPIPM45750PM614,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Khanaqa,Jawzjan,Village,4/1/2025,4/5/2025,,Not Applicable,,Completed,Completed,Regular
+9184,TAPIPM45751PM615,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Lash-e-Juwayn,Farah,School,4/2/2025,4/6/2025,,Not applicable,,Completed,Completed,Regular
+5204,TAPIPM45752PM616,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Qush Tepa,Jawzjan,School,4/3/2025,4/7/2025,,Not applicable,,Completed,Completed,Regular
+8661,TAPIPM45753PM617,TAPI,Energy Sector,1/12/2025,Site Visit,Nuristan,Parun,Nuristan,CBE,4/4/2025,4/8/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4761,TAPIPM45754PM618,TAPI,Energy Sector,1/12/2025,Site Visit,Khost,Tani,Khost,School,4/5/2025,4/9/2025,,Not applicable,,Completed,Completed,Regular
+8287,TAPIPM45755PM619,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Fayzabad,Jawzjan,Village,4/6/2025,4/10/2025,,Not Applicable,,Completed,Completed,Regular
+8993,TAPIPM45756PM620,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Kaldar,Balkh,School,4/7/2025,4/11/2025,,Not applicable,,Completed,Completed,Regular
+3785,TAPIPM45757PM621,TAPI,Energy Sector,1/12/2025,Site Visit,Logar,Pul-e-Alam,Logar,CBE,4/8/2025,4/12/2025,,Not applicable,,Completed,Completed,Regular
+10374,TAPIPM45758PM622,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Sayed Karam,Paktya,School,4/9/2025,4/13/2025,,Not applicable,,Completed,Completed,Regular
+9217,TAPIPM45759PM623,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Khan-e-Char Bagh,Faryab,School,4/10/2025,4/14/2025,,Not applicable,,Completed,Completed,Regular
+5107,TAPIPM45760PM624,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Taywarah,Ghor,School,4/11/2025,4/15/2025,,Not applicable,,Completed,Completed,Regular
+9074,TAPIPM45761PM625,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Shibar,Bamyan,School,4/12/2025,4/16/2025,,Not applicable,,Completed,Completed,Regular
+4527,TAPIPM45762PM626,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Mehtarlam,Laghman,School,4/13/2025,4/17/2025,,Not applicable,,Completed,Completed,Regular
+10687,TAPIPM45763PM627,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Shirin Tagab,Faryab,School,4/14/2025,4/18/2025,,Not applicable,,Completed,Completed,Regular
+4286,TAPIPM45764PM628,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Hesarak,Nangarhar,School,4/15/2025,4/19/2025,,Not applicable,,Completed,Completed,Regular
+9757,TAPIPM45765PM629,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Shakar Dara,Kabul,School,4/16/2025,4/20/2025,,Not applicable,,Completed,Completed,Regular
+9040,TAPIPM45766PM630,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Zari,Balkh,School,4/17/2025,4/21/2025,,Not applicable,,Completed,Completed,Regular
+8510,TAPIPM45767PM631,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Qarqin,Jawzjan,Village,4/18/2025,4/22/2025,,Not Applicable,,Completed,Completed,Regular
+10342,TAPIPM45768PM632,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Chamkani,Paktya,School,4/19/2025,4/23/2025,,Not applicable,,Completed,Completed,Regular
+7016,TAPIPM45769PM633,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Lashkargah,Hilmand,School,4/20/2025,4/24/2025,,Not Applicable,2/29/2024,Completed,Completed,Regular
+7650,TAPIPM45770PM634,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Dara-e-Nur,Nangarhar,School,4/21/2025,4/25/2025,,Not Applicable,3/11/2024,Completed,Completed,Regular
+9764,TAPIPM45771PM635,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Surobi,Kabul,School,4/22/2025,4/26/2025,,Not applicable,,Cancelled,Cancelled,Regular
+7320,TAPIPM45772PM636,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Qarghayi,Laghman,School,4/23/2025,4/27/2025,,Not Applicable,2/28/2024,Completed,Completed,Regular
+8626,TAPIPM45773PM637,TAPI,Energy Sector,1/12/2025,Site Visit,Nuristan,Waygal,Nuristan,CBE,4/24/2025,4/28/2025,,Not applicable,,Completed,Completed,Regular
+4680,TAPIPM45774PM638,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Malistan,Ghazni,School,4/25/2025,4/29/2025,,Not applicable,,Completed,Completed,Regular
+9876,TAPIPM45775PM639,TAPI,Energy Sector,1/12/2025,Site Visit,Khost,Sabari,Khost,School,4/26/2025,4/30/2025,,Not applicable,,Completed,Completed,Regular
+4859,TAPIPM45776PM640,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Darwaz-e-Balla,Badakhshan,School,4/27/2025,5/1/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4580,TAPIPM45777PM641,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,School,4/28/2025,5/2/2025,,Not applicable,,Completed,Completed,Regular
+7322,TAPIPM45778PM642,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Qarghayi,Laghman,School,4/29/2025,5/3/2025,,Not Applicable,2/29/2024,Completed,Completed,Regular
+9421,TAPIPM45779PM643,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Pasaband,Ghor,School,4/30/2025,5/4/2025,,Not applicable,,Cancelled,Cancelled,Regular
+3590,TAPIPM45780PM644,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Gelan,Ghazni,CBE,5/1/2025,5/5/2025,,Not applicable,,Completed,Completed,Regular
+9227,TAPIPM45781PM645,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Kohistan,Faryab,School,5/2/2025,5/6/2025,,Not applicable,,Completed,Completed,Regular
+7685,TAPIPM45782PM646,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Anar Dara,Farah,CBE,5/3/2025,5/7/2025,,Not Applicable,,Completed,Completed,Regular
+10635,TAPIPM45783PM647,TAPI,Energy Sector,1/12/2025,Site Visit,Uruzgan,Khas Uruzgan,Uruzgan,School,5/4/2025,5/8/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9821,TAPIPM45784PM648,TAPI,Energy Sector,1/12/2025,Site Visit,Kapisa,Mahmood-e-Raqi,Kapisa,School,5/5/2025,5/9/2025,,Not applicable,,Completed,Completed,Regular
+3738,TAPIPM45785PM649,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Qala-e-Zal,Kunduz,CBE,5/6/2025,5/10/2025,,Not applicable,,Completed,Completed,Regular
+9711,TAPIPM45786PM650,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Kabul,Kabul,School,5/7/2025,5/11/2025,,Not applicable,,Completed,Completed,Regular
+11348,TAPIPM45787PM651,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alingar,Laghman,CBE,5/8/2025,5/12/2025,,Not applicable,,Cancelled,Cancelled,Regular
+10617,TAPIPM45788PM652,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Warsaj,Takhar,School,5/9/2025,5/13/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4577,TAPIPM45789PM653,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,School,5/10/2025,5/14/2025,,Not applicable,,Completed,Completed,Regular
+7737,TAPIPM45790PM654,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alingar,Laghman,CBE,5/11/2025,5/15/2025,,Not Applicable,,Completed,Completed,Regular
+3517,TAPIPM45791PM655,TAPI,Energy Sector,1/12/2025,Site Visit,Balkh,Khulm,Balkh,CBE,5/12/2025,5/16/2025,,Not applicable,,Completed,Completed,Regular
+4546,TAPIPM45792PM656,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Dawlatshah,Laghman,School,5/13/2025,5/17/2025,,Not applicable,,Completed,Completed,Regular
+4168,TAPIPM45793PM657,TAPI,Energy Sector,1/12/2025,Site Visit,Uruzgan,Tirinkot,Uruzgan,DISTRICT,5/14/2025,5/18/2025,,Not applicable,,Completed,Completed,Regular
+5069,TAPIPM45794PM658,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,,,School,5/15/2025,5/19/2025,,Not applicable,,Completed,Completed,Regular
+7654,TAPIPM45795PM659,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Kot,Nangarhar,School,5/16/2025,5/20/2025,,Not Applicable,2/28/2024,Completed,Completed,Regular
+10414,TAPIPM45796PM660,TAPI,Energy Sector,1/12/2025,Site Visit,Parwan,Charikar,Parwan,School,5/17/2025,5/21/2025,,Not applicable,,Completed,Completed,Regular
+7744,TAPIPM45797PM661,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Narang,Kunar,School,5/18/2025,5/22/2025,,Not Applicable,,Cancelled,Cancelled,Regular
+10556,TAPIPM45798PM662,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Chahab,Takhar,School,5/19/2025,5/23/2025,,Not applicable,,Cancelled,Cancelled,Regular
+8517,TAPIPM45799PM663,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Khamyab,Jawzjan,Village,5/20/2025,5/24/2025,,Not Applicable,,Completed,Completed,Regular
+5054,TAPIPM45800PM664,TAPI,Energy Sector,1/12/2025,Site Visit,Sar-e-Pul,Balkhab,Sar-e-Pul,School,5/21/2025,5/25/2025,,Not applicable,,Completed,Completed,Regular
+10062,TAPIPM45801PM665,TAPI,Energy Sector,1/12/2025,Site Visit,Logar,Charkh,Logar,School,5/22/2025,5/26/2025,,Not applicable,,Cancelled,Cancelled,Regular
+3936,TAPIPM45802PM666,TAPI,Energy Sector,1/12/2025,Site Visit,Panjsher,Dara,Panjsher,CBE,5/23/2025,5/27/2025,,Not applicable,,Completed,Completed,Regular
+9816,TAPIPM45803PM667,TAPI,Energy Sector,1/12/2025,Site Visit,Kapisa,Koh Band,Kapisa,School,5/24/2025,5/28/2025,,Not applicable,,Completed,Completed,Regular
+7211,TAPIPM45804PM668,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Narang,Kunar,School,5/25/2025,5/29/2025,,Not Applicable,,Cancelled,Cancelled,Regular
+3672,TAPIPM45805PM669,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Aqcha,Jawzjan,CBE,5/26/2025,5/30/2025,,Not applicable,,Completed,Completed,Regular
+10632,TAPIPM45806PM670,TAPI,Energy Sector,1/12/2025,Site Visit,Uruzgan,Gizab,Uruzgan,School,5/27/2025,5/31/2025,,Not applicable,,Cancelled,Cancelled,Regular
+6271,TAPIPM45807PM671,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Ghoryan,Hirat,School,5/28/2025,6/1/2025,,Completed,,Not applicable,Completed,Regular
+3780,TAPIPM45808PM672,TAPI,Energy Sector,1/12/2025,Site Visit,Logar,Charkh,Logar,CBE,5/29/2025,6/2/2025,,Not applicable,,Completed,Completed,Regular
+10360,TAPIPM45809PM673,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Jaji,Paktya,School,5/30/2025,6/3/2025,,Not applicable,,Completed,Completed,Regular
+9790,TAPIPM45810PM674,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Maruf,Kandahar,School,5/31/2025,6/4/2025,,Not applicable,,Cancelled,Cancelled,Regular
+7530,TAPIPM45811PM675,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Rodat,Nangarhar,School,6/1/2025,6/5/2025,,Not Applicable,3/17/2024,Completed,Completed,Regular
+5209,TAPIPM45812PM676,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Mardyan,Jawzjan,School,6/2/2025,6/6/2025,,Not applicable,,Completed,Completed,Regular
+9443,TAPIPM45813PM677,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Taywarah,Ghor,School,6/3/2025,6/7/2025,,Not applicable,,Cancelled,Cancelled,Regular
+3559,TAPIPM45814PM678,TAPI,Energy Sector,1/12/2025,Site Visit,Farah,Anar Dara,Farah,CBE,6/4/2025,6/8/2025,,Not applicable,,Completed,Completed,Regular
+9950,TAPIPM45815PM679,TAPI,Energy Sector,1/12/2025,Site Visit,Kunduz,Ali Abad,Kunduz,School,6/5/2025,6/9/2025,,Not applicable,,Completed,Completed,Regular
+4561,TAPIPM45816PM680,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,School,6/6/2025,6/10/2025,,Not applicable,,Completed,Completed,Regular
+9331,TAPIPM45817PM681,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Nawur,Ghazni,School,6/7/2025,6/11/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4008,TAPIPM45818PM682,TAPI,Energy Sector,1/12/2025,Site Visit,Zabul,Kakar,Zabul,CBE,6/8/2025,6/12/2025,,Not applicable,,Completed,Completed,Regular
+4448,TAPIPM45819PM683,TAPI,Energy Sector,1/12/2025,Site Visit,Parwan,Jabal Saraj,Parwan,School,6/9/2025,6/13/2025,,Not applicable,,Completed,Completed,Regular
+9791,TAPIPM45820PM684,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Maywand,Kandahar,School,6/10/2025,6/14/2025,,Not applicable,,Completed,Completed,Regular
+10724,TAPIPM45821PM685,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Aybak,Samangan,School,6/11/2025,6/15/2025,,Not applicable,,Completed,Completed,Regular
+9243,TAPIPM45822PM686,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Pashtun Kot,Faryab,School,6/12/2025,6/16/2025,,Not applicable,,Completed,Completed,Regular
+3650,TAPIPM45823PM687,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Shindand,Hirat,CBE,6/13/2025,6/17/2025,,Not applicable,,Completed,Completed,Regular
+7075,TAPIPM45824PM688,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Nawa-e-Barakzaiy,Hilmand,School,6/14/2025,6/18/2025,,Not Applicable,3/4/2024,Completed,Completed,Regular
+8682,TAPIPM45825PM689,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,CBE,6/15/2025,6/19/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4338,TAPIPM45826PM690,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Kuz Kunar,Nangarhar,School,6/16/2025,6/20/2025,,Not applicable,,Completed,Completed,Regular
+8592,TAPIPM45827PM691,TAPI,Energy Sector,1/12/2025,Site Visit,Laghman,Alingar,Laghman,CBE,6/17/2025,6/21/2025,,Not applicable,,Completed,Completed,Regular
+4161,TAPIPM45828PM692,TAPI,Energy Sector,1/12/2025,Site Visit,Zabul,Shinkay,Zabul,DISTRICT,6/18/2025,6/22/2025,,Not applicable,,Completed,Completed,Regular
+3952,TAPIPM45829PM693,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Dara-e-Suf-e-Payin,Samangan,CBE,6/19/2025,6/23/2025,,Not applicable,,Cancelled,Cancelled,Regular
+3689,TAPIPM45830PM694,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Chahar Asyab,Kabul,CBE,6/20/2025,6/24/2025,,Not applicable,,Completed,Completed,Regular
+9495,TAPIPM45831PM695,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Ghoryan,Hirat,School,6/21/2025,6/25/2025,,Not applicable,,Completed,Completed,Regular
+11314,TAPIPM45832PM696,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,,,School,6/22/2025,6/26/2025,,Cancelled,,Not applicable,Cancelled,Regular
+3501,TAPIPM45833PM697,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,CBE,6/23/2025,6/27/2025,,Not applicable,,Completed,Completed,Regular
+4600,TAPIPM45834PM698,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Khost Wa Fereng,Baghlan,School,6/24/2025,6/28/2025,,Not applicable,,Completed,Completed,Regular
+4383,TAPIPM45835PM699,TAPI,Energy Sector,1/12/2025,Site Visit,Kabul,Kabul,Kabul,School,6/25/2025,6/29/2025,,Not applicable,,Completed,Completed,Regular
+9244,TAPIPM45836PM700,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Pashtun Kot,Faryab,School,6/26/2025,6/30/2025,,Not applicable,,Completed,Completed,Regular
+7048,TAPIPM45837PM701,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Musa Qala,Hilmand,School,6/27/2025,7/1/2025,,Not Applicable,3/13/2024,Completed,Completed,Regular
+7038,TAPIPM45838PM702,TAPI,Energy Sector,1/12/2025,Site Visit,Hilmand,Marja,Hilmand,School,6/28/2025,7/2/2025,,Not Applicable,,Cancelled,Cancelled,Regular
+10607,TAPIPM45839PM703,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Taloqan,Takhar,School,6/29/2025,7/3/2025,,Not applicable,,Completed,Completed,Regular
+7137,TAPIPM45840PM704,TAPI,Energy Sector,1/12/2025,Site Visit,Kandahar,Maywand,Kandahar,School,6/30/2025,7/4/2025,,Not Applicable,3/14/2024,Completed,Completed,Regular
+8935,TAPIPM45841PM705,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Nahrin,Baghlan,School,7/1/2025,7/5/2025,,Not applicable,,Completed,Completed,Regular
+9401,TAPIPM45842PM706,TAPI,Energy Sector,1/12/2025,Site Visit,Ghor,Dawlatyar,Ghor,School,7/2/2025,7/6/2025,,Not applicable,,Completed,Completed,Regular
+10500,TAPIPM45843PM707,TAPI,Energy Sector,1/12/2025,Site Visit,Sar-e-Pul,Balkhab,Sar-e-Pul,School,7/3/2025,7/7/2025,,Not applicable,,Completed,Completed,Regular
+9528,TAPIPM45844PM708,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Hirat,Hirat,School,7/4/2025,7/8/2025,,Not applicable,,Completed,Completed,Regular
+8850,TAPIPM45845PM709,TAPI,Energy Sector,1/12/2025,Site Visit,Badghis,Muqur,Ghazni,School,7/5/2025,7/9/2025,,Not applicable,,Completed,Completed,Regular
+8363,TAPIPM45846PM710,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,7/6/2025,7/10/2025,,Not Applicable,,Completed,Completed,Regular
+9607,TAPIPM45847PM711,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Zindajan,Hirat,School,7/7/2025,7/11/2025,,Not applicable,,Cancelled,Cancelled,Regular
+5134,TAPIPM45848PM712,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Khadir,Daykundi,School,7/8/2025,7/12/2025,,Not applicable,,Completed,Completed,Regular
+10484,TAPIPM45849PM713,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Khuram Wa Sarbagh,Samangan,School,7/9/2025,7/13/2025,,Not applicable,,Completed,Completed,Regular
+4833,TAPIPM45850PM714,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Raghestan,Badakhshan,School,7/10/2025,7/14/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4660,TAPIPM45851PM715,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Nawur,Ghazni,School,7/11/2025,7/15/2025,,Not applicable,,Cancelled,Cancelled,Regular
+5336,TAPIPM45852PM716,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Guzara,Hirat,School,7/12/2025,7/16/2025,,Not applicable,,Completed,Completed,Regular
+3497,TAPIPM45853PM717,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,CBE,7/13/2025,7/17/2025,,Not applicable,,Completed,Completed,Regular
+8514,TAPIPM45854PM718,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Darzab,Jawzjan,Village,7/14/2025,7/18/2025,,Not Applicable,,Completed,Completed,Regular
+5319,TAPIPM45855PM719,TAPI,Energy Sector,1/12/2025,Site Visit,Badghis,Ghormach,Badghis,School,7/15/2025,7/19/2025,,Not applicable,,Completed,Completed,Regular
+5376,TAPIPM45856PM720,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Adraskan,Hirat,School,7/16/2025,7/20/2025,,Not applicable,,Completed,Completed,Regular
+4136,TAPIPM45857PM721,TAPI,Energy Sector,1/12/2025,Site Visit,Nuristan,Nurgaram,Nuristan,DISTRICT,7/17/2025,7/21/2025,,Not applicable,,Completed,Completed,Regular
+7396,TAPIPM45858PM722,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Chaparhar,Nangarhar,School,7/18/2025,7/22/2025,,Not Applicable,,Cancelled,Cancelled,Regular
+5357,TAPIPM45859PM723,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Pashtun Zarghun,Hirat,School,7/19/2025,7/23/2025,,Not applicable,,Completed,Completed,Regular
+7436,TAPIPM45860PM724,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Goshta,Nangarhar,School,7/20/2025,7/24/2025,,Not Applicable,3/14/2024,Completed,Completed,Regular
+8916,TAPIPM45861PM725,TAPI,Energy Sector,1/12/2025,Site Visit,Baghlan,Fereng Wa Gharu,Baghlan,School,7/21/2025,7/25/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9614,TAPIPM45862PM726,TAPI,Energy Sector,1/12/2025,Site Visit,Jawzjan,Aqcha,Jawzjan,School,7/22/2025,7/26/2025,,Not applicable,,Completed,Completed,Regular
+4698,TAPIPM45863PM727,TAPI,Energy Sector,1/12/2025,Site Visit,Paktika,Zarghun Shahr,Paktika,School,7/23/2025,7/27/2025,,Not applicable,,Completed,Completed,Regular
+9122,TAPIPM45864PM728,TAPI,Energy Sector,1/12/2025,Site Visit,Daykundi,Kiti,Daykundi,School,7/24/2025,7/28/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4850,TAPIPM45865PM729,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Kofab,Badakhshan,School,7/25/2025,7/29/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9232,TAPIPM45866PM730,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Maymana,Faryab,School,7/26/2025,7/30/2025,,Not applicable,,Completed,Completed,Regular
+4611,TAPIPM45867PM731,TAPI,Energy Sector,1/12/2025,Site Visit,Bamyan,Sayghan,Bamyan,School,7/27/2025,7/31/2025,,Not applicable,,Completed,Completed,Regular
+5256,TAPIPM45868PM732,TAPI,Energy Sector,1/12/2025,Site Visit,Faryab,Qurghan,Faryab,School,7/28/2025,8/1/2025,,Not applicable,,Completed,Completed,Regular
+9523,TAPIPM45869PM733,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Hirat,Hirat,School,7/29/2025,8/2/2025,,Not applicable,,Cancelled,Cancelled,Regular
+10541,TAPIPM45870PM734,TAPI,Energy Sector,1/12/2025,Site Visit,Sar-e-Pul,Sayad,Sar-e-Pul,School,7/30/2025,8/3/2025,,Not applicable,,Completed,Completed,Regular
+10492,TAPIPM45871PM735,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Ruy-e-Duab,Samangan,School,7/31/2025,8/4/2025,,Not applicable,,Cancelled,Cancelled,Regular
+7406,TAPIPM45872PM736,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Chaparhar,Nangarhar,School,8/1/2025,8/5/2025,,Not Applicable,3/5/2024,Completed,Completed,Regular
+10176,TAPIPM45873PM737,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Goshta,Nangarhar,School,8/2/2025,8/6/2025,,Not applicable,,Completed,Completed,Regular
+4451,TAPIPM45874PM738,TAPI,Energy Sector,1/12/2025,Site Visit,Parwan,Ghorband,Parwan,School,8/3/2025,8/7/2025,,Not applicable,,Completed,Completed,Regular
+9549,TAPIPM45875PM739,TAPI,Energy Sector,1/12/2025,Site Visit,Hirat,Karukh,Hirat,School,8/4/2025,8/8/2025,,Not applicable,,Completed,Completed,Regular
+7227,TAPIPM45876PM740,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Sar Kani,Kunar,School,8/5/2025,8/9/2025,,Not Applicable,2/29/2024,Completed,Completed,Regular
+3446,TAPIPM45877PM741,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Chamkani,Paktya,School,8/6/2025,8/10/2025,,Completed,11/16/2023,Not applicable,Completed,Regular
+8543,TAPIPM45878PM742,TAPI,Energy Sector,1/12/2025,Site Visit,Nangarhar,Sherzad,Nangarhar,CBE,8/7/2025,8/11/2025,,Not applicable,,Completed,Completed,Regular
+9294,TAPIPM45879PM743,TAPI,Energy Sector,1/12/2025,Site Visit,Ghazni,Jaghatu,Ghazni,School,8/8/2025,8/12/2025,,Not applicable,,Completed,Completed,Regular
+4827,TAPIPM45880PM744,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Shuhada,Badakhshan,School,8/9/2025,8/13/2025,,Not applicable,,Completed,Completed,Regular
+7802,TAPIPM45881PM745,TAPI,Energy Sector,1/12/2025,Site Visit,Kunar,Chawkay,Kunar,School,8/10/2025,8/14/2025,,Not applicable,,Cancelled,Cancelled,Regular
+3970,TAPIPM45882PM746,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Feroz Nakhchir,Samangan,CBE,8/11/2025,8/15/2025,,Not applicable,,Completed,Completed,Regular
+10545,TAPIPM45883PM747,TAPI,Energy Sector,1/12/2025,Site Visit,Sar-e-Pul,Sozmaqala,Sar-e-Pul,School,8/12/2025,8/16/2025,,Not applicable,,Completed,Completed,Regular
+8744,TAPIPM45884PM748,TAPI,Energy Sector,1/12/2025,Site Visit,Badakhshan,Jorm,Badakhshan,School,8/13/2025,8/17/2025,,Not applicable,,Completed,Completed,Regular
+4875,TAPIPM45885PM749,TAPI,Energy Sector,1/12/2025,Site Visit,Takhar,Kalafgan,Takhar,School,8/14/2025,8/18/2025,,Not applicable,,Completed,Completed,Regular
+3958,TAPIPM45886PM750,TAPI,Energy Sector,1/12/2025,Site Visit,Samangan,Dara-e-Suf-e-Payin,Samangan,CBE,8/15/2025,8/19/2025,,Not applicable,,Completed,Completed,Regular
+4741,TAPIPM45887PM751,TAPI,Energy Sector,1/12/2025,Site Visit,Paktya,Jani Khel,Paktya,School,8/16/2025,8/20/2025,,Not applicable,,Completed,Completed,Regular
+5268,TAPIPM45888PM752,TAPI,Energy Sector,3/19/2025,Site Visit,Hilmand,Nawa-e-Barakzaiy,Hilmand,School,8/17/2025,8/21/2025,,Not applicable,,Completed,Completed,Regular
+4308,TAPIPM45889PM753,TAPI,Energy Sector,3/19/2025,Site Visit,Nangarhar,Rodat,Nangarhar,School,8/18/2025,8/22/2025,,Not applicable,,Completed,Completed,Regular
+10483,TAPIPM45890PM754,TAPI,Energy Sector,3/19/2025,Site Visit,Samangan,Khuram Wa Sarbagh,Samangan,School,8/19/2025,8/23/2025,,Not applicable,,Completed,Completed,Regular
+10141,TAPIPM45891PM755,TAPI,Energy Sector,3/19/2025,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,School,8/20/2025,8/24/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9028,TAPIPM45892PM756,TAPI,Energy Sector,3/19/2025,Site Visit,Balkh,Sholgareh,Balkh,School,8/21/2025,8/25/2025,,Not applicable,,Cancelled,Cancelled,Regular
+4962,TAPIPM45893PM757,TAPI,Energy Sector,3/19/2025,Site Visit,Samangan,Dara-e-Suf-e-Payin,Samangan,School,8/22/2025,8/26/2025,,Not applicable,,Completed,Completed,Regular
+7175,TAPIPM45894PM758,TAPI,Energy Sector,3/19/2025,Site Visit,Kandahar,Spin Boldak,Kandahar,School,8/23/2025,8/27/2025,,Not Applicable,3/5/2024,Completed,Completed,Regular
+9847,TAPIPM45895PM759,TAPI,Energy Sector,3/19/2025,Site Visit,Khost,Jaji Maydan,Khost,School,8/24/2025,8/28/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9659,TAPIPM45896PM760,TAPI,Energy Sector,3/19/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,School,8/25/2025,8/29/2025,,Not applicable,,Completed,Completed,Regular
+4419,TAPIPM45897PM761,TAPI,Energy Sector,3/19/2025,Site Visit,Kapisa,Hisa-e-Duwum-e-Kohistan,Kapisa,School,8/26/2025,8/30/2025,,Not applicable,,Completed,Completed,Regular
+8489,TAPIPM45898PM762,TAPI,Energy Sector,3/19/2025,Site Visit,Jawzjan,Darzab,Jawzjan,Village,8/27/2025,8/31/2025,,Not Applicable,,Completed,Completed,Regular
+9778,TAPIPM45899PM763,TAPI,Energy Sector,3/19/2025,Site Visit,Kandahar,Arghestan,Kandahar,School,8/28/2025,9/1/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9652,TAPIPM45900PM764,TAPI,Energy Sector,3/19/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,School,8/29/2025,9/2/2025,,Not applicable,,Completed,Completed,Regular
+9203,TAPIPM45901PM765,TAPI,Energy Sector,3/19/2025,Site Visit,Faryab,Almar,Faryab,School,8/30/2025,9/3/2025,,Not applicable,,Completed,Completed,Regular
+4646,TAPIPM45902PM766,TAPI,Energy Sector,3/19/2025,Site Visit,Ghazni,Jaghatu,Ghazni,School,8/31/2025,9/4/2025,,Not applicable,,Completed,Completed,Regular
+4088,TAPIPM45903PM767,TAPI,Energy Sector,3/19/2025,Site Visit,Ghazni,Gelan,Ghazni,DISTRICT,9/1/2025,9/5/2025,,Not applicable,,Completed,Completed,Regular
+3919,TAPIPM45904PM768,TAPI,Energy Sector,3/19/2025,Site Visit,Paktya,Zurmat,Paktya,CBE,9/2/2025,9/6/2025,,Not applicable,,Completed,Completed,Regular
+7741,TAPIPM45905PM769,TAPI,Energy Sector,3/19/2025,Site Visit,Farah,,,Province,9/3/2025,9/7/2025,,Not applicable,,Completed,Completed,Regular
+11372,TAPIPM45906PM770,TAPI,Energy Sector,3/19/2025,Site Visit,Laghman,Dawlatshah,Laghman,CBE,9/4/2025,9/8/2025,,Not applicable,,Completed,Completed,Regular
+3558,TAPIPM45907PM771,TAPI,Energy Sector,3/19/2025,Site Visit,Farah,Bala Buluk,Farah,CBE,9/5/2025,9/9/2025,,Not applicable,,Completed,Completed,Regular
+9210,TAPIPM45908PM772,TAPI,Energy Sector,3/19/2025,Site Visit,Faryab,Dawlat Abad,Faryab,School,9/6/2025,9/10/2025,,Not applicable,,Completed,Completed,Regular
+9036,TAPIPM45909PM773,TAPI,Energy Sector,3/19/2025,Site Visit,Balkh,Shortepa,Balkh,School,9/7/2025,9/11/2025,,Not applicable,,Completed,Completed,Regular
+10504,TAPIPM45910PM774,TAPI,Energy Sector,3/19/2025,Site Visit,Sar-e-Pul,Gosfandi,Sar-e-Pul,School,9/8/2025,9/12/2025,,Not applicable,,Completed,Completed,Regular
+8461,TAPIPM45911PM775,TAPI,Energy Sector,3/19/2025,Site Visit,Jawzjan,,,Village,9/9/2025,9/13/2025,,Not Applicable,,Completed,Completed,Regular
+4269,TAPIPM45912PM776,TAPI,Energy Sector,3/19/2025,Site Visit,Kandahar,Spin Boldak,Kandahar,School,9/10/2025,9/14/2025,,Not applicable,,Completed,Completed,Regular
+4735,TAPIPM45913PM777,TAPI,Energy Sector,3/19/2025,Site Visit,Paktya,Mirzaka,Paktya,School,9/11/2025,9/15/2025,,Not applicable,,Completed,Completed,Regular
+10098,TAPIPM45914PM778,TAPI,Energy Sector,3/19/2025,Site Visit,Maidan Wardak,Daymirdad,Maidan Wardak,School,9/12/2025,9/16/2025,,Not applicable,,Completed,Completed,Regular
+8259,TAPIPM45915PM779,TAPI,Energy Sector,3/19/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,9/13/2025,9/17/2025,,Not Applicable,,Completed,Completed,Regular
+8704,TAPIPM45916PM780,TAPI,Energy Sector,3/19/2025,Site Visit,Bamyan,Bamyan,Bamyan,IP Level,9/14/2025,9/18/2025,,Not applicable,,Completed,Completed,Regular
+8376,TAPIPM45917PM781,TAPI,Energy Sector,3/19/2025,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,9/15/2025,9/19/2025,,Not Applicable,,Completed,Completed,Regular
+4745,TAPIPM45918PM782,TAPI,Energy Sector,3/19/2025,Site Visit,Paktya,Chamkani,Paktya,School,9/16/2025,9/20/2025,,Not applicable,,Completed,Completed,Regular
+7316,TAPIPM45919PM783,TAPI,Energy Sector,3/19/2025,Site Visit,Laghman,Qarghayi,Laghman,School,9/17/2025,9/21/2025,,Not Applicable,2/26/2024,Completed,Completed,Regular
+4445,TAPIPM45920PM784,TAPI,Energy Sector,3/19/2025,Site Visit,Parwan,Sayed Khel,Parwan,School,9/18/2025,9/22/2025,,Not applicable,,Completed,Completed,Regular
+3492,TAPIPM45921PM785,TAPI,Energy Sector,3/19/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,CBE,9/19/2025,9/23/2025,,Not applicable,,Completed,Completed,Regular
+4196,TAPIPM45922PM786,TAPI,Energy Sector,3/19/2025,Site Visit,Bamyan,Waras,Bamyan,CBE,9/20/2025,9/24/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9272,TAPIPM45923PM787,TAPI,Energy Sector,3/19/2025,Site Visit,Ghazni,Deh Yak,Ghazni,School,9/21/2025,9/25/2025,,Not applicable,,Completed,Completed,Regular
+3816,TAPIPM45924PM788,TAPI,Energy Sector,3/19/2025,Site Visit,Nangarhar,Sherzad,Nangarhar,CBE,9/22/2025,9/26/2025,,Not applicable,,Completed,Completed,Regular
+7667,TAPIPM45925PM789,TAPI,Energy Sector,3/19/2025,Site Visit,Laghman,Qarghayi,Laghman,CBE,9/23/2025,9/27/2025,,Not Applicable,,Completed,Completed,Regular
+9927,TAPIPM45926PM790,TAPI,Energy Sector,3/19/2025,Site Visit,Kunar,Nari,Kunar,School,9/24/2025,9/28/2025,,Not applicable,,Completed,Completed,Regular
+5403,TAPIPM45927PM791,TAPI,Energy Sector,3/19/2025,Site Visit,Farah,Farah,Farah,School,9/25/2025,9/29/2025,,Not applicable,,Completed,Completed,Regular
+9663,TAPIPM45928PM792,TAPI,Energy Sector,3/19/2025,Site Visit,Kabul,Bagrami,Kabul,School,9/26/2025,9/30/2025,,Not applicable,,Completed,Completed,Regular
+4625,TAPIPM45929PM793,TAPI,Energy Sector,3/19/2025,Site Visit,Bamyan,Panjab,Bamyan,School,9/27/2025,10/1/2025,,Not applicable,,Completed,Completed,Regular
+7795,TAPIPM45930PM794,TAPI,Energy Sector,9/30/2025,Site Visit,Kunar,Khas Kunar,Kunar,School,9/28/2025,10/2/2025,,Not applicable,,Cancelled,Cancelled,Regular
+9004,TAPIPM45931PM795,TAPI,Energy Sector,9/30/2025,Site Visit,Balkh,Khulm,Balkh,School,9/29/2025,10/3/2025,,Not applicable,,Completed,Completed,Regular
+4976,TAPIPM45932PM796,TAPI,Energy Sector,9/30/2025,Site Visit,Balkh,Mazar-e-Sharif,Balkh,School,9/30/2025,10/4/2025,,Not applicable,,Completed,Completed,Regular
+7616,TAPIPM45933PM797,TAPI,Energy Sector,9/30/2025,Site Visit,Nimroz,Zaranj,Nimroz,School,10/1/2025,10/5/2025,,Not Applicable,2/26/2024,Completed,Completed,Regular
+9797,TAPIPM45934PM798,TAPI,Energy Sector,9/30/2025,Site Visit,Kandahar,Shorabak,Kandahar,School,10/2/2025,10/6/2025,,Not applicable,,Completed,Completed,Regular
+8073,CPAPM45935PM799,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Hilmand,Sangin,Hilmand,Sub Project,10/3/2025,10/7/2025,,Completed,,Not Applicable,Completed,Regular
+2174,CPAPM45936PM800,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Ghazni,Nawa,Ghazni,Village,10/4/2025,10/8/2025,,Not applicable,8/14/2023,Completed,Completed,Regular
+6473,CPAPM45937PM801,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Parwan,Shekh Ali,Parwan,Sub Project,10/5/2025,10/9/2025,,Completed,,Not applicable,Completed,Regular
+2196,CPAPM45938PM802,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Farah,Khak-e-Safed,Farah,Village,10/6/2025,10/10/2025,,Not applicable,,Cancelled,Cancelled,Regular
+398,CPAPM45939PM803,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Hirat,Kushk-e-Kuhna,Hirat,Village,10/7/2025,10/11/2025,,Not applicable,3/30/2023,Completed,Completed,Regular
+8108,CPAPM45940PM804,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Ghazni,Ghazni,Ghazni,Sub Project,10/8/2025,10/12/2025,,Completed,,Not Applicable,Completed,Regular
+2395,CPAPM45941PM805,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,Village,10/9/2025,10/13/2025,,Not applicable,8/24/2023,Completed,Completed,Regular
+508,CPAPM45942PM806,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Hirat,Shindand,Hirat,Village,10/10/2025,10/14/2025,,Not applicable,3/30/2023,Completed,Completed,Regular
+2054,CPAPM45943PM807,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Nimroz,Char Burjak,Nimroz,Village,10/11/2025,10/15/2025,,Not applicable,8/22/2023,Completed,Completed,Regular
+6308,CPAPM45944PM808,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,Sub Project,10/12/2025,10/16/2025,,Completed,,Not applicable,Completed,Regular
+759,CPAPM45945PM809,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Uruzgan,Tirinkot,Uruzgan,Village,10/13/2025,10/17/2025,,Not applicable,4/1/2023,Completed,Completed,Regular
+5510,CPAPM45946PM810,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Paktya,Gardez,Paktya,Village,10/14/2025,10/18/2025,,Not applicable,,Completed,Completed,Regular
+8241,CPAPM45947PM811,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Paktya,Ahmadaba,Paktya,Sub Project,10/15/2025,10/19/2025,,Completed,,Not Applicable,Completed,Regular
+1995,CPAPM45948PM812,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Kandahar,Arghestan,Kandahar,Village,10/16/2025,10/20/2025,,Not applicable,4/5/2023,Completed,Completed,Regular
+1976,CPAPM45949PM813,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Jawzjan,Aqcha,Jawzjan,Village,10/17/2025,10/21/2025,,Not applicable,8/21/2023,Completed,Completed,Regular
+1653,CPAPM45950PM814,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Ghazni,Ab Band,Ghazni,Village,10/18/2025,10/22/2025,,Not applicable,8/11/2023,Completed,Completed,Regular
+2023,CPAPM45951PM815,CPA,Maritime & Port Authority,8/5/2024,Site Visit,Paktika,Yosuf Khel,Paktika,Village,10/19/2025,10/23/2025,,Not applicable,8/22/2023,Completed,Completed,Regular
+6454,CPAPM45952PM816,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Parwan,Ghorband,Parwan,Sub Project,10/20/2025,10/24/2025,,Completed,,Not applicable,Completed,Regular
+2427,CPAPM45953PM817,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Hilmand,Washer,Hilmand,Village,10/21/2025,10/25/2025,,Not applicable,8/21/2023,Completed,Completed,Regular
+689,CPAPM45954PM818,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Hilmand,Sangin,Hilmand,Village,10/22/2025,10/26/2025,,Not applicable,8/21/2023,Completed,Completed,Regular
+641,CPAPM45955PM819,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Farah,Pushtrod,Farah,Village,10/23/2025,10/27/2025,,Not applicable,,Cancelled,Cancelled,Regular
+493,CPAPM45956PM820,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Ghazni,Ab Band,Ghazni,Village,10/24/2025,10/28/2025,,Not applicable,8/24/2023,Completed,Completed,Regular
+5702,CPAPM45957PM821,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Paktika,Yosuf Khel,Paktika,Village,10/25/2025,10/29/2025,,Not applicable,,Completed,Completed,Regular
+1924,CPAPM45958PM822,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Paktika,Gomal,Paktika,Village,10/26/2025,10/30/2025,,Not applicable,8/15/2023,Completed,Completed,Regular
+810,CPAPM45959PM823,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Farah,Bala Buluk,Farah,Village,10/27/2025,10/31/2025,,Not applicable,8/15/2023,Completed,Completed,Regular
+5664,CPAPM45960PM824,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Hirat,Kohsan,Hirat,Village,10/28/2025,11/1/2025,,Not applicable,,Completed,Completed,Regular
+1667,CPAPM45961PM825,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Takhar,Bangi,Takhar,Village,10/29/2025,11/2/2025,,Not applicable,8/22/2023,Completed,Completed,Regular
+2511,CPAPM45962PM826,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Bamyan,Shibar,Bamyan,Village,10/30/2025,11/3/2025,,Not applicable,8/22/2023,Completed,Completed,Regular
+2263,CPAPM45963PM827,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Ghazni,Qara Bagh,Ghazni,Village,10/31/2025,11/4/2025,,Not applicable,8/19/2023,Completed,Completed,Regular
+1822,CPAPM45964PM828,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Balkh,Char Bolak,Balkh,Village,11/1/2025,11/5/2025,,Not applicable,3/30/2023,Completed,Completed,Regular
+8162,CPAPM45965PM829,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Kunar,Khas Kunar,Kunar,Sub Project,11/2/2025,11/6/2025,,Completed,,Not Applicable,Completed,Regular
+2250,CPAPM45966PM830,CPA,Maritime & Port Authority,10/22/2024,Site Visit,Balkh,Char Bolak,Balkh,Village,11/3/2025,11/7/2025,,Not applicable,8/24/2023,Completed,Completed,Regular
+6370,CPAPM45967PM831,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Panjsher,Rukha,Panjsher,Sub Project,11/4/2025,11/8/2025,,Completed,,Not applicable,Completed,Regular
+5576,CPAPM45968PM832,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Bamyan,Bamyan,Bamyan,Village,11/5/2025,11/9/2025,,Not applicable,,Completed,Completed,Regular
+1749,CPAPM45969PM833,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Hilmand,Nad-e-Ali,Hilmand,Village,11/6/2025,11/10/2025,,Not applicable,3/31/2023,Completed,Completed,Regular
+2550,CPAPM45970PM834,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Zabul,Arghandab,Kandahar,Village,11/7/2025,11/11/2025,,Not applicable,8/24/2023,Completed,Completed,Regular
+587,CPAPM45971PM835,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Ghor,DoLayna,Ghor,Village,11/8/2025,11/12/2025,,Not applicable,3/31/2023,Completed,Completed,Regular
+6225,CPAPM45972PM836,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Maidan Wardak,Jaghatu,Maidan Wardak,Village,11/9/2025,11/13/2025,,Not applicable,,Completed,Completed,Regular
+5660,CPAPM45973PM837,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Ghor,Charsadra,Ghor,Village,11/10/2025,11/14/2025,,Not applicable,,Completed,Completed,Regular
+6812,CPAPM45974PM838,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,11/11/2025,11/15/2025,,,,Completed,Completed,Regular
+2203,CPAPM45975PM839,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Faryab,Bilcheragh,Faryab,Village,11/12/2025,11/16/2025,,Not applicable,8/16/2023,Completed,Completed,Regular
+6371,CPAPM45976PM840,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Panjsher,Rukha,Panjsher,Sub Project,11/13/2025,11/17/2025,,Completed,,Not applicable,Completed,Regular
+1734,CPAPM45977PM841,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,11/14/2025,11/18/2025,,Not applicable,8/22/2023,Completed,Completed,Regular
+8083,CPAPM45978PM842,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Nimroz,Dil Aram,Nimroz,Sub Project,11/15/2025,11/19/2025,,Completed,,Not Applicable,Completed,Regular
+1835,CPAPM45979PM843,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Jawzjan,Khanaqa,Jawzjan,Village,11/16/2025,11/20/2025,,Not applicable,3/30/2023,Completed,Completed,Regular
+2615,CPAPM45980PM844,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Farah,Farah,Farah,Village,11/17/2025,11/21/2025,,Not applicable,8/23/2023,Completed,Completed,Regular
+8086,CPAPM45981PM845,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Paktya,Sayed Karam,Paktya,Sub Project,11/18/2025,11/22/2025,,Completed,,Not Applicable,Completed,Regular
+8082,CPAPM45982PM846,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Maidan Wardak,Markaz-e-Behsud,Maidan Wardak,Sub Project,11/19/2025,11/23/2025,,Cancelled,,Not Applicable,Cancelled,Regular
+1683,CPAPM45983PM847,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Paktika,Surobi,Paktika,Village,11/20/2025,11/24/2025,,Not applicable,8/24/2023,Completed,Completed,Regular
+6383,CPAPM45984PM848,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Panjsher,Anawa,Panjsher,Sub Project,11/21/2025,11/25/2025,,Completed,,Not applicable,Completed,Regular
+5495,CPAPM45985PM849,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Paktya,Jaji,Paktya,Village,11/22/2025,11/26/2025,,Not applicable,,Completed,Completed,Regular
+448,CPAPM45986PM850,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Faryab,Pashtun Kot,Faryab,Village,11/23/2025,11/27/2025,,Not applicable,8/22/2023,Completed,Completed,Regular
+8197,CPAPM45987PM851,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Kabul,Khak-e-Jabbar,Kabul,Sub Project,11/24/2025,11/28/2025,,Completed,,Not Applicable,Completed,Regular
+6162,CPAPM45988PM852,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Daykundi,Nili,Daykundi,Village,11/25/2025,11/29/2025,,Not applicable,,Completed,Completed,Regular
+6773,CPAPM45989PM853,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Nimroz,Khashrod,Nimroz,Village,11/26/2025,11/30/2025,,,,Completed,Completed,Regular
+795,CPAPM45990PM854,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Farah,Shibkoh,Farah,Village,11/27/2025,12/1/2025,,Not applicable,8/23/2023,Completed,Completed,Regular
+2633,CPAPM45991PM855,CPA,Maritime & Port Authority,11/30/2024,Site Visit,Faryab,Dawlat Abad,Balkh,Village,11/28/2025,12/2/2025,,Not applicable,8/24/2023,Completed,Completed,Regular
+6504,CPAPM45992PM856,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Parwan,Surkh-e-Parsa,Parwan,Sub Project,11/29/2025,12/3/2025,,Completed,,Not applicable,Completed,Regular
+1905,CPAPM45993PM857,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Maidan Wardak,Jalrez,Maidan Wardak,Village,11/30/2025,12/4/2025,,Not applicable,3/30/2023,Completed,Completed,Regular
+5638,CPAPM45994PM858,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Ghazni,Nawa,Ghazni,Village,12/1/2025,12/5/2025,,Not applicable,,Cancelled,Cancelled,Regular
+591,CPAPM45995PM859,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Jawzjan,Qush Tepa,Jawzjan,Village,12/2/2025,12/6/2025,,Not applicable,4/5/2023,Completed,Completed,Regular
+5646,CPAPM45996PM860,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Faryab,Khwaja Sabz Posh,Faryab,Village,12/3/2025,12/7/2025,,Not applicable,,Completed,Completed,Regular
+2670,CPAPM45997PM861,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Zabul,Qalat,Zabul,Village,12/4/2025,12/8/2025,,Not applicable,8/10/2023,Completed,Completed,Regular
+6156,CPAPM45998PM862,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Baghlan,Doshi,Baghlan,Village,12/5/2025,12/9/2025,,Not applicable,,Completed,Completed,Regular
+563,CPAPM45999PM863,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Kandahar,Arghestan,Kandahar,Village,12/6/2025,12/10/2025,,Not applicable,3/31/2023,Completed,Completed,Regular
+5653,CPAPM46000PM864,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Nimroz,Khashrod,Nimroz,Village,12/7/2025,12/11/2025,,Not applicable,,Completed,Completed,Regular
+6817,CPAPM46001PM865,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Zabul,Tarnak Wa Jaldak,Zabul,Village,12/8/2025,12/12/2025,,,,Completed,Completed,Regular
+2052,CPAPM46002PM866,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Ghor,DoLayna,Ghor,Village,12/9/2025,12/13/2025,,Not applicable,3/31/2023,Completed,Completed,Regular
+761,CPAPM46003PM867,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Farah,Farah,Farah,Village,12/10/2025,12/14/2025,,Not applicable,8/23/2023,Completed,Completed,Regular
+6739,CPAPM46004PM868,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Ghazni,Ab Band,Ghazni,Village,12/11/2025,12/15/2025,,,,Completed,Completed,Regular
+2298,CPAPM46005PM869,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Ghor,Feroz Koh,Ghor,Village,12/12/2025,12/16/2025,,Not applicable,8/25/2023,Completed,Completed,Regular
+2578,CPAPM46006PM870,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,Village,12/13/2025,12/17/2025,,Not applicable,8/10/2023,Completed,Completed,Regular
+2247,CPAPM46007PM871,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Farah,Shibkoh,Farah,Village,12/14/2025,12/18/2025,,Not applicable,,Cancelled,Cancelled,Regular
+2091,CPAPM46008PM872,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Zabul,Tarnak Wa Jaldak,Zabul,Village,12/15/2025,12/19/2025,,Not applicable,8/10/2023,Completed,Completed,Regular
+832,CPAPM46009PM873,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,Village,12/16/2025,12/20/2025,,Not applicable,8/23/2023,Completed,Completed,Regular
+2684,CPAPM46010PM874,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Paktika,Surobi,Paktika,Village,12/17/2025,12/21/2025,,Not applicable,8/19/2023,Completed,Completed,Regular
+734,CPAPM46011PM875,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Faryab,Khwaja Sabz Posh,Faryab,Village,12/18/2025,12/22/2025,,Not applicable,8/21/2023,Completed,Completed,Regular
+8167,CPAPM46012PM876,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Farah,Bala Buluk,Farah,Sub Project,12/19/2025,12/23/2025,,Completed,,Not Applicable,Completed,Regular
+2611,CPAPM46013PM877,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Baghlan,Nahrin,Baghlan,Village,12/20/2025,12/24/2025,,Not applicable,8/13/2023,Completed,Completed,Regular
+2385,CPAPM46014PM878,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Maidan Wardak,Jaghatu,Maidan Wardak,Village,12/21/2025,12/25/2025,,Not applicable,3/30/2023,Completed,Completed,Regular
+1915,CPAPM46015PM879,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Nimroz,Dil Aram,Nimroz,Village,12/22/2025,12/26/2025,,Not applicable,8/22/2023,Completed,Completed,Regular
+2124,CPAPM46016PM880,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Balkh,Dehdadi,Balkh,Village,12/23/2025,12/27/2025,,Not applicable,4/5/2023,Completed,Completed,Regular
+432,CPAPM46017PM881,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Paktika,Omna,Paktika,Village,12/24/2025,12/28/2025,,Not applicable,8/14/2023,Completed,Completed,Regular
+2489,CPAPM46018PM882,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Paktika,Mata Khan,Paktika,Village,12/25/2025,12/29/2025,,Not applicable,8/19/2023,Completed,Completed,Regular
+379,CPAPM46019PM883,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Paktika,Surobi,Paktika,Village,12/26/2025,12/30/2025,,Not applicable,,Cancelled,Cancelled,Regular
+5546,CPAPM46020PM884,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Ghor,Saghar,Ghor,Village,12/27/2025,12/31/2025,,Not applicable,,Completed,Completed,Regular
+576,CPAPM46021PM885,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Kandahar,Maywand,Kandahar,Village,12/28/2025,1/1/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+1682,CPAPM46022PM886,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Baghlan,Nahrin,Baghlan,Village,12/29/2025,1/2/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+711,CPAPM46023PM887,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Farah,Farah,Farah,Village,12/30/2025,1/3/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+628,CPAPM46024PM888,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,12/31/2025,1/4/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+471,CPAPM46025PM889,CPA,Maritime & Port Authority,12/11/2024,Site Visit,Jawzjan,Shiberghan,Jawzjan,Village,1/1/2026,1/5/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+1719,CPAPM46026PM890,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Takhar,Khwaja Ghar,Takhar,Village,1/2/2026,1/6/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+656,CPAPM46027PM891,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Kunduz,Kunduz,Kunduz,Village,1/3/2026,1/7/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+5499,CPAPM46028PM892,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Daykundi,Miramor,Daykundi,Village,1/4/2026,1/8/2026,,Not applicable,,Completed,Completed,Regular
+2002,CPAPM46029PM893,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Bamyan,Bamyan,Bamyan,Village,1/5/2026,1/9/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+5613,CPAPM46030PM894,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Laghman,Dawlatshah,Laghman,Village,1/6/2026,1/10/2026,,Not applicable,,Completed,Completed,Regular
+6232,CPAPM46031PM895,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Farah,Farah,Farah,Village,1/7/2026,1/11/2026,,Not applicable,,Completed,Completed,Regular
+574,CPAPM46032PM896,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Bamyan,Sayghan,Bamyan,Village,1/8/2026,1/12/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+1675,CPAPM46033PM897,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Farah,Khak-e-Safed,Farah,Village,1/9/2026,1/13/2026,,Not applicable,,Cancelled,Cancelled,Regular
+1886,CPAPM46034PM898,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Faryab,Qaysar,Faryab,Village,1/10/2026,1/14/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+2542,CPAPM46035PM899,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,1/11/2026,1/15/2026,,Not applicable,,Cancelled,Cancelled,Regular
+5679,CPAPM46036PM900,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Kunduz,Kunduz,Kunduz,Village,1/12/2026,1/16/2026,,Not applicable,,Completed,Completed,Regular
+816,CPAPM46037PM901,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,Village,1/13/2026,1/17/2026,,Not applicable,8/10/2023,Completed,Completed,Regular
+5688,CPAPM46038PM902,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Takhar,Darqad,Takhar,Village,1/14/2026,1/18/2026,,Not applicable,,Completed,Completed,Regular
+6806,CPAPM46039PM903,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Paktya,Jaji,Paktya,Village,1/15/2026,1/19/2026,,,,Completed,Completed,Regular
+2013,CPAPM46040PM904,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Ghazni,Malistan,Ghazni,Village,1/16/2026,1/20/2026,,Not applicable,8/13/2023,Completed,Completed,Regular
+2301,CPAPM46041PM905,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Balkh,Marmul,Balkh,Village,1/17/2026,1/21/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+1916,CPAPM46042PM906,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Kandahar,Arghestan,Kandahar,Village,1/18/2026,1/22/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+6410,CPAPM46043PM907,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Kapisa,Tagab,Kapisa,Sub Project,1/19/2026,1/23/2026,,Completed,,Not applicable,Completed,Regular
+1754,CPAPM46044PM908,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,Village,1/20/2026,1/24/2026,,Not applicable,8/15/2023,Completed,Completed,Regular
+6768,CPAPM46045PM909,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Nangarhar,Kuz Kunar,Nangarhar,Village,1/21/2026,1/25/2026,,,,Completed,Completed,Regular
+5626,CPAPM46046PM910,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Laghman,Mehtarlam,Laghman,Village,1/22/2026,1/26/2026,,Not applicable,,Completed,Completed,Regular
+1795,CPAPM46047PM911,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Zabul,Qalat,Zabul,Village,1/23/2026,1/27/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+2121,CPAPM46048PM912,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Ghazni,Gelan,Ghazni,Village,1/24/2026,1/28/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+2296,CPAPM46049PM913,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Ghor,Feroz Koh,Ghor,Village,1/25/2026,1/29/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+2470,CPAPM46050PM914,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,1/26/2026,1/30/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+1862,CPAPM46051PM915,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Farah,Anar Dara,Farah,Village,1/27/2026,1/31/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+2309,CPAPM46052PM916,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Kunduz,Kunduz,Kunduz,Village,1/28/2026,2/1/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+1873,CPAPM46053PM917,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Farah,Qala-e-Kah,Farah,Village,1/29/2026,2/2/2026,,Not applicable,,Cancelled,Cancelled,Regular
+1894,CPAPM46054PM918,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Ghor,Pasaband,Ghor,Village,1/30/2026,2/3/2026,,Not applicable,4/5/2023,Completed,Completed,Regular
+2690,CPAPM46055PM919,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Nangarhar,Khogyani,Nangarhar,Village,1/31/2026,2/4/2026,,Not applicable,8/11/2023,Completed,Completed,Regular
+2653,CPAPM46056PM920,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Paktya,Zurmat,Paktya,Village,2/1/2026,2/5/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+1877,CPAPM46057PM921,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Bamyan,Bamyan,Bamyan,Village,2/2/2026,2/6/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+2508,CPAPM46058PM922,CPA,Maritime & Port Authority,1/12/2025,Site Visit,Faryab,Dawlat Abad,Balkh,Village,2/3/2026,2/7/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+5521,CPAPM46059PM923,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hirat,Obe,Hirat,Village,2/4/2026,2/8/2026,,Not applicable,,Completed,Completed,Regular
+431,CPAPM46060PM924,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Chak-e-Wardak,Maidan Wardak,Village,2/5/2026,2/9/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+2135,CPAPM46061PM925,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Nimroz,Khashrod,Nimroz,Village,2/6/2026,2/10/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+2179,CPAPM46062PM926,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,2/7/2026,2/11/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+2015,CPAPM46063PM927,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Chak-e-Wardak,Maidan Wardak,Village,2/8/2026,2/12/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+6312,CPAPM46064PM928,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Baghlan,Khinjan,Baghlan,Sub Project,2/9/2026,2/13/2026,,Completed,,Not applicable,Completed,Regular
+775,CPAPM46065PM929,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Baghlan,Doshi,Baghlan,Village,2/10/2026,2/14/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+8145,CPAPM46066PM930,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Daykundi,Nili,Daykundi,Sub Project,2/11/2026,2/15/2026,,Completed,,Not Applicable,Completed,Regular
+748,CPAPM46067PM931,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Balkh,Balkh,Balkh,Village,2/12/2026,2/16/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+2376,CPAPM46068PM932,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Nimroz,Khashrod,Nimroz,Village,2/13/2026,2/17/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+578,CPAPM46069PM933,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Bamyan,Shibar,Bamyan,Village,2/14/2026,2/18/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+2328,CPAPM46070PM934,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Jawzjan,Khwaja Dukoh,Jawzjan,Village,2/15/2026,2/19/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+8149,CPAPM46071PM935,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Paktika,Mata Khan,Paktika,Sub Project,2/16/2026,2/20/2026,,Completed,,Not Applicable,Completed,Regular
+2260,CPAPM46072PM936,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Chak-e-Wardak,Maidan Wardak,Village,2/17/2026,2/21/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+1847,CPAPM46073PM937,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Kandahar,Nesh,Kandahar,Village,2/18/2026,2/22/2026,,Not applicable,4/5/2023,Completed,Completed,Regular
+6399,CPAPM46074PM938,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Panjsher,Bazarak,Panjsher,Sub Project,2/19/2026,2/23/2026,,Completed,,Not applicable,Completed,Regular
+1657,CPAPM46075PM939,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Baghlan,Doshi,Baghlan,Village,2/20/2026,2/24/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+2627,CPAPM46076PM940,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Kunduz,Imam Sahib,Kunduz,Village,2/21/2026,2/25/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+6816,CPAPM46077PM941,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Zabul,Tarnak Wa Jaldak,Zabul,Village,2/22/2026,2/26/2026,,,,Completed,Completed,Regular
+622,CPAPM46078PM942,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Jawzjan,Khwaja Dukoh,Jawzjan,Village,2/23/2026,2/27/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+5680,CPAPM46079PM943,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Baghlan,Khinjan,Baghlan,Village,2/24/2026,2/28/2026,,Not applicable,,Completed,Completed,Regular
+8076,CPAPM46080PM944,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Sub Project,2/25/2026,3/1/2026,,Completed,,Not Applicable,Completed,Regular
+6323,CPAPM46081PM945,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Zabul,Qalat,Zabul,Sub Project,2/26/2026,3/2/2026,,Completed,,Not applicable,Completed,Regular
+2245,CPAPM46082PM946,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Balkh,Khulm,Balkh,Village,2/27/2026,3/3/2026,,Not applicable,8/25/2023,Completed,Completed,Regular
+6521,CPAPM46083PM947,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hirat,Pashtun Zarghun,Hirat,Sub Project,2/28/2026,3/4/2026,,Completed,,Not applicable,Completed,Regular
+475,CPAPM46084PM948,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Nangarhar,Kot,Nangarhar,Village,3/1/2026,3/5/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+728,CPAPM46085PM949,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Farah,Farah,Farah,Village,3/2/2026,3/6/2026,,Not applicable,,Cancelled,Cancelled,Regular
+766,CPAPM46086PM950,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hirat,Kushk-e-Kuhna,Hirat,Village,3/3/2026,3/7/2026,,Not applicable,,Cancelled,Cancelled,Regular
+2553,CPAPM46087PM951,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Ghazni,Andar,Ghazni,Village,3/4/2026,3/8/2026,,Not applicable,8/25/2023,Completed,Completed,Regular
+557,CPAPM46088PM952,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Ghor,Dawlatyar,Ghor,Village,3/5/2026,3/9/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+838,CPAPM46089PM953,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Maydan Shahr,Maidan Wardak,Village,3/6/2026,3/10/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+6377,CPAPM46090PM954,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Panjsher,Shutul,Panjsher,Sub Project,3/7/2026,3/11/2026,,Completed,,Not applicable,Completed,Regular
+2453,CPAPM46091PM955,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Bamyan,Sayghan,Bamyan,Village,3/8/2026,3/12/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+2699,CPAPM46092PM956,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Kandahar,Maywand,Kandahar,Village,3/9/2026,3/13/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+5601,CPAPM46093PM957,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Khost,Qalandar,Khost,Village,3/10/2026,3/14/2026,,Not applicable,,Completed,Completed,Regular
+6244,CPAPM46094PM958,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Kandahar,Kandahar,Kandahar,Village,3/11/2026,3/15/2026,,Not applicable,,Completed,Completed,Regular
+8224,CPAPM46095PM959,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hilmand,Lashkargah,Hilmand,Sub Project,3/12/2026,3/16/2026,,Completed,,Not Applicable,Completed,Regular
+720,CPAPM46096PM960,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Farah,Shibkoh,Farah,Village,3/13/2026,3/17/2026,,Not applicable,,Cancelled,Cancelled,Regular
+6390,CPAPM46097PM961,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Panjsher,Anawa,Panjsher,Sub Project,3/14/2026,3/18/2026,,Completed,,Not applicable,Completed,Regular
+2494,CPAPM46098PM962,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hilmand,Nawa-e-Barakzaiy,Hilmand,Village,3/15/2026,3/19/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+8133,CPAPM46099PM963,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Paktya,Gardez,Paktya,Sub Project,3/16/2026,3/20/2026,,Completed,,Not Applicable,Completed,Regular
+1967,CPAPM46100PM964,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Faryab,Khwaja Sabz Posh,Faryab,Village,3/17/2026,3/21/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+5658,CPAPM46101PM965,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Farah,Pushtrod,Farah,Village,3/18/2026,3/22/2026,,Not applicable,,Completed,Completed,Regular
+2275,CPAPM46102PM966,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hirat,Shindand,Hirat,Village,3/19/2026,3/23/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+2021,CPAPM46103PM967,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Nangarhar,Achin,Nangarhar,Village,3/20/2026,3/24/2026,,Not applicable,8/10/2023,Completed,Completed,Regular
+8204,CPAPM46104PM968,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hilmand,Nawzad,Hilmand,Sub Project,3/21/2026,3/25/2026,,Completed,,Not Applicable,Completed,Regular
+2475,CPAPM46105PM969,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Kandahar,Arghestan,Kandahar,Village,3/22/2026,3/26/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+2049,CPAPM46106PM970,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Uruzgan,Dehrawud,Uruzgan,Village,3/23/2026,3/27/2026,,Not applicable,4/5/2023,Completed,Completed,Regular
+2197,CPAPM46107PM971,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Farah,Khak-e-Safed,Farah,Village,3/24/2026,3/28/2026,,Not applicable,8/10/2023,Completed,Completed,Regular
+836,CPAPM46108PM972,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Uruzgan,Chora,Uruzgan,Village,3/25/2026,3/29/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+687,CPAPM46109PM973,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Bamyan,Shibar,Bamyan,Village,3/26/2026,3/30/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+771,CPAPM46110PM974,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Farah,Shibkoh,Farah,Village,3/27/2026,3/31/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+637,CPAPM46111PM975,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Balkh,Chemtal,Balkh,Village,3/28/2026,4/1/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+406,CPAPM46112PM976,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Kandahar,Arghestan,Kandahar,Village,3/29/2026,4/2/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+8098,CPAPM46113PM977,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Farah,Qala-e-Kah,Farah,Sub Project,3/30/2026,4/3/2026,,Completed,,Not Applicable,Completed,Regular
+735,CPAPM46114PM978,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Faryab,Khwaja Sabz Posh,Faryab,Village,3/31/2026,4/4/2026,,Not applicable,8/11/2023,Completed,Completed,Regular
+6515,CPAPM46115PM979,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hirat,Karukh,Hirat,Sub Project,4/1/2026,4/5/2026,,Completed,,Not applicable,Completed,Regular
+6228,CPAPM46116PM980,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Baghlan,Nahrin,Baghlan,Village,4/2/2026,4/6/2026,,Not applicable,,Completed,Completed,Regular
+742,CPAPM46117PM981,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,4/3/2026,4/7/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+2068,CPAPM46118PM982,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Ghazni,Andar,Ghazni,Village,4/4/2026,4/8/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+6201,CPAPM46119PM983,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Kunar,Narang,Kunar,Village,4/5/2026,4/9/2026,,Not applicable,,Completed,Completed,Regular
+8148,CPAPM46120PM984,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Paktika,Sharan,Paktika,Sub Project,4/6/2026,4/10/2026,,Completed,,Not Applicable,Completed,Regular
+2496,CPAPM46121PM985,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Hilmand,Nad-e-Ali,Hilmand,Village,4/7/2026,4/11/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+1800,CPAPM46122PM986,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Faryab,Almar,Faryab,Village,4/8/2026,4/12/2026,,Not applicable,8/10/2023,Completed,Completed,Regular
+696,CPAPM46123PM987,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Farah,Khak-e-Safed,Farah,Village,4/9/2026,4/13/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+393,CPAPM46124PM988,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Maidan Wardak,Chak-e-Wardak,Maidan Wardak,Village,4/10/2026,4/14/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+2357,CPAPM46125PM989,CPA,Maritime & Port Authority,12/11/2025,Site Visit,Bamyan,Sayghan,Bamyan,Village,4/11/2026,4/15/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+5621,CPAPM46126PM990,CPA,Maritime & Port Authority,4/14/2026,Site Visit,Ghazni,Nawa,Ghazni,Village,4/12/2026,4/16/2026,,Not applicable,,Cancelled,Cancelled,Regular
+5548,CPAPM46127PM991,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Kunar,Sar Kani,Kunar,Village,4/13/2026,4/17/2026,,Not applicable,,Completed,Completed,Regular
+2047,CPAPM46128PM992,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,4/14/2026,4/18/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+736,CPAPM46129PM993,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Baghlan,Nahrin,Baghlan,Village,4/15/2026,4/19/2026,,Not applicable,8/10/2023,Completed,Completed,Regular
+2407,CPAPM46130PM994,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,Village,4/16/2026,4/20/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+2165,CPAPM46131PM995,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Faryab,Khwaja Sabz Posh,Faryab,Village,4/17/2026,4/21/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+2617,CPAPM46132PM996,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Takhar,Kalafgan,Takhar,Village,4/18/2026,4/22/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+1730,CPAPM46133PM997,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Jawzjan,Mingajik,Jawzjan,Village,4/19/2026,4/23/2026,,Not applicable,4/5/2023,Completed,Completed,Regular
+1722,CPAPM46134PM998,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Kunduz,Khan Abad,Kunduz,Village,4/20/2026,4/24/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+1665,CPAPM46135PM999,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Ghor,DoLayna,Ghor,Village,4/21/2026,4/25/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+824,CPAPM46136PM1000,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Hirat,Injil,Hirat,Village,4/22/2026,4/26/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+388,CPAPM46137PM1001,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Nimroz,Zaranj,Nimroz,Village,4/23/2026,4/27/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+8194,CPAPM46138PM1002,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Maidan Wardak,Nerkh,Maidan Wardak,Sub Project,4/24/2026,4/28/2026,,Completed,,Not Applicable,Completed,Regular
+491,CPAPM46139PM1003,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Maidan Wardak,Saydabad,Maidan Wardak,Village,4/25/2026,4/29/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+2198,CPAPM46140PM1004,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Farah,Khak-e-Safed,Farah,Village,4/26/2026,4/30/2026,,Not applicable,,Cancelled,Cancelled,Regular
+6721,CPAPM46141PM1005,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Baghlan,Baghlan-e-Jadid,Baghlan,Village,4/27/2026,5/1/2026,,,,Completed,Completed,Regular
+408,CPAPM46142PM1006,CPA,Maritime & Port Authority,4/30/2023,Site Visit,Takhar,Kalafgan,Takhar,Village,4/28/2026,5/2/2026,,Not applicable,8/23/2023,Completed,Completed,Regular
+2346,CPAPM46143PM1007,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Kunduz,Ali Abad,Kunduz,Village,4/29/2026,5/3/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+5592,CPAPM46144PM1008,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Bamyan,Sayghan,Bamyan,Village,4/30/2026,5/4/2026,,Not applicable,,Completed,Completed,Regular
+6442,CPAPM46145PM1009,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Kapisa,Alasay,Kapisa,Sub Project,5/1/2026,5/5/2026,,Completed,,Not applicable,Completed,Regular
+6258,CPAPM46146PM1010,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Maidan Wardak,Jalrez,Maidan Wardak,Village,5/2/2026,5/6/2026,,Not applicable,,Completed,Completed,Regular
+1910,CPAPM46147PM1011,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Maidan Wardak,Jalrez,Maidan Wardak,Village,5/3/2026,5/7/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+8169,CPAPM46148PM1012,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Paktika,Sharan,Paktika,Sub Project,5/4/2026,5/8/2026,,Completed,,Not Applicable,Completed,Regular
+2266,CPAPM46149PM1013,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Ghor,Pasaband,Ghor,Village,5/5/2026,5/9/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+1947,CPAPM46150PM1014,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Hirat,Kushk,Hirat,Village,5/6/2026,5/10/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+1746,CPAPM46151PM1015,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Hilmand,Musa Qala,Hilmand,Village,5/7/2026,5/11/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+754,CPAPM46152PM1016,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Uruzgan,Tirinkot,Uruzgan,Village,5/8/2026,5/12/2026,,Not applicable,4/1/2023,Completed,Completed,Regular
+1832,CPAPM46153PM1017,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Maidan Wardak,Jaghatu,Maidan Wardak,Village,5/9/2026,5/13/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+623,CPAPM46154PM1018,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Jawzjan,Khwaja Dukoh,Jawzjan,Village,5/10/2026,5/14/2026,,Not applicable,3/30/2023,Completed,Completed,Regular
+5519,CPAPM46155PM1019,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Faryab,Qaysar,Faryab,Village,5/11/2026,5/15/2026,,Not applicable,,Completed,Completed,Regular
+5620,CPAPM46156PM1020,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Badghis,Ab Kamari,Badghis,Village,5/12/2026,5/16/2026,,Not applicable,,Completed,Completed,Regular
+6373,CPAPM46157PM1021,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Panjsher,Rukha,Panjsher,Sub Project,5/13/2026,5/17/2026,,Completed,,Not applicable,Completed,Regular
+1661,CPAPM46158PM1022,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Farah,Bala Buluk,Farah,Village,5/14/2026,5/18/2026,,Not applicable,8/15/2023,Completed,Completed,Regular
+1750,CPAPM46159PM1023,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Nangarhar,Kot,Nangarhar,Village,5/15/2026,5/19/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+2287,CPAPM46160PM1024,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Balkh,Dehdadi,Balkh,Village,5/16/2026,5/20/2026,,Not applicable,8/24/2023,Completed,Completed,Regular
+2193,CPAPM46161PM1025,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Hirat,Guzara,Hirat,Village,5/17/2026,5/21/2026,,Not applicable,8/21/2023,Completed,Completed,Regular
+6395,CPAPM46162PM1026,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Panjsher,Anawa,Panjsher,Sub Project,5/18/2026,5/22/2026,,Completed,,Not applicable,Completed,Regular
+2210,CPAPM46163PM1027,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Takhar,Farkhar,Takhar,Village,5/19/2026,5/23/2026,,Not applicable,8/22/2023,Completed,Completed,Regular
+655,CPAPM46164PM1028,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Faryab,Bilcheragh,Faryab,Village,5/20/2026,5/24/2026,,Not applicable,8/15/2023,Completed,Completed,Regular
+2364,CPAPM46165PM1029,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Kunduz,Imam Sahib,Kunduz,Village,5/21/2026,5/25/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+6509,CPAPM46166PM1030,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Parwan,Surkh-e-Parsa,Parwan,Sub Project,5/22/2026,5/26/2026,,Completed,,Not applicable,Completed,Regular
+8189,CPAPM46167PM1031,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Bamyan,Sayghan,Bamyan,Sub Project,5/23/2026,5/27/2026,,Completed,,Not Applicable,Completed,Regular
+2397,CPAPM46168PM1032,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Kandahar,Maywand,Kandahar,Village,5/24/2026,5/28/2026,,Not applicable,4/5/2023,Completed,Completed,Regular
+1671,CPAPM46169PM1033,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Paktya,Zurmat,Paktya,Village,5/25/2026,5/29/2026,,Not applicable,3/31/2023,Completed,Completed,Regular
+5486,CPAPM46170PM1034,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Kunduz,Qala-e-Zal,Kunduz,Village,5/26/2026,5/30/2026,,Not applicable,,Completed,Completed,Regular
+8191,CPAPM46171PM1035,CPA,Maritime & Port Authority,5/29/2023,Site Visit,Badakhshan,Eshkashem,Badakhshan,Sub Project,5/27/2026,5/31/2026,,Completed,,Not Applicable,Completed,Regular
+2789,HERPM46172PM1036,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Bamyan,Waras,Bamyan,Health Facility,5/28/2026,6/1/2026,,Completed,10/21/2023,Completed,Completed,Regular
+7897,HERPM46173PM1037,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Paktya,Shawak,Paktya,HF,5/29/2026,6/2/2026,,Completed,,Completed,Completed,Regular
+1134,HERPM46174PM1038,FNRC,Multinational Collaboration,5/30/2023,Site Visit,,Nurgaram,Nuristan,Health Facility,5/30/2026,6/3/2026,,Completed,7/14/2023,Completed,Completed,Regular
+942,HERPM46175PM1039,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Bamyan,Panjab,Bamyan,Health Facility,5/31/2026,6/4/2026,,Completed,7/5/2023,Completed,Completed,Regular
+934,HERPM46176PM1040,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Balkh,Dawlat Abad,Balkh,Health Facility,6/1/2026,6/5/2026,,Completed,7/6/2023,Completed,Completed,Regular
+909,HERPM46177PM1041,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Badakhshan,Teshkan,Badakhshan,Health Facility,6/2/2026,6/6/2026,,Completed,6/25/2023,Completed,Completed,Regular
+1203,HERPM46178PM1042,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Takhar,Farkhar,Takhar,Health Facility,6/3/2026,6/7/2026,,Completed,7/6/2023,Completed,Completed,Regular
+8060,HERPM46179PM1043,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Maidan Wardak,Markaz-e-Behsud,Maidan Wardak,HF,6/4/2026,6/8/2026,,Completed,,Completed,Completed,Regular
+7817,HERPM46180PM1044,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Baghlan,Pul-e-Khumri,Baghlan,HF,6/5/2026,6/9/2026,,Completed,,Completed,Completed,Regular
+1128,HERPM46181PM1045,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Nimroz,Zaranj,Nimroz,Health Facility,6/6/2026,6/10/2026,,Completed,7/2/2023,Completed,Completed,Regular
+907,HERPM46182PM1046,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Badakhshan,Raghestan,Badakhshan,Health Facility,6/7/2026,6/11/2026,,Completed,7/11/2023,Completed,Completed,Regular
+1192,HERPM46183PM1047,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Sar-e-Pul,Kohestanat,Sar-e-Pul,Health Facility,6/8/2026,6/12/2026,,Completed,7/13/2023,Completed,Completed,Regular
+2839,HERPM46184PM1048,FNRC,Multinational Collaboration,5/30/2023,Site Visit,Hirat,Shindand,Hirat,Health Facility,6/9/2026,6/13/2026,,Completed,10/30/2023,Completed,Completed,Regular
+2865,HERPM46185PM1049,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Ghor,Tolak,Ghor,Health Facility,6/10/2026,6/14/2026,,Completed,10/16/2023,Completed,Completed,Regular
+933,HERPM46186PM1050,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Balkh,Char Bolak,Balkh,Health Facility,6/11/2026,6/15/2026,,Completed,7/2/2023,Completed,Completed,Regular
+7936,HERPM46187PM1051,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Balkh,Char Bolak,Balkh,HF,6/12/2026,6/16/2026,,Completed,,Completed,Completed,Regular
+1188,HERPM46188PM1052,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Samangan,Ruy-e-Duab,Samangan,Health Facility,6/13/2026,6/17/2026,,Completed,7/6/2023,Completed,Completed,Regular
+1123,HERPM46189PM1053,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Nimroz,Kang,Nimroz,Health Facility,6/14/2026,6/18/2026,,Completed,7/4/2023,Completed,Completed,Regular
+2814,HERPM46190PM1054,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Kandahar,Zheray,Kandahar,Health Facility,6/15/2026,6/19/2026,,Completed,10/24/2023,Completed,Completed,Regular
+2953,HERPM46191PM1055,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Kunar,Sar Kani,Kunar,Health Facility,6/16/2026,6/20/2026,,Completed,10/15/2023,Completed,Completed,Regular
+1158,HERPM46192PM1056,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Paktika,Turwo,Paktika,Health Facility,6/17/2026,6/21/2026,,Completed,7/13/2023,Completed,Completed,Regular
+11462,HERPM46193PM1057,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Nangarhar,Dur Baba,Nangarhar,School,6/18/2026,6/22/2026,,Planned,,Not applicable,Planned,Regular
+7997,HERPM46194PM1058,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Logar,Mohammad Agha,Logar,HF,6/19/2026,6/23/2026,,Completed,,Completed,Completed,Regular
+2919,HERPM46195PM1059,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Hilmand,Musa Qala,Hilmand,Health Facility,6/20/2026,6/24/2026,,Completed,10/17/2023,Completed,Completed,Regular
+7995,HERPM46196PM1060,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Laghman,Mehtarlam,Laghman,HF,6/21/2026,6/25/2026,,Completed,,Completed,Completed,Regular
+5470,HERPM46197PM1061,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Nimroz,Zaranj,Nimroz,Service Provider,6/22/2026,6/26/2026,,Not applicable,11/13/2023,Completed,Completed,Regular
+8043,HERPM46198PM1062,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Zabul,Kakar,Zabul,HF,6/23/2026,6/27/2026,,Completed,,Completed,Completed,Regular
+2918,HERPM46199PM1063,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Maidan Wardak,Markaz-e-Behsud,Maidan Wardak,Health Facility,6/24/2026,6/28/2026,,Completed,10/23/2023,Completed,Completed,Regular
+11453,HERPM46200PM1064,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Logar,Pul-e-Alam,Logar,School,6/25/2026,6/29/2026,,Planned,,Not applicable,Planned,Regular
+2851,HERPM46201PM1065,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Logar,Baraki Barak,Logar,Health Facility,6/26/2026,6/30/2026,,Completed,10/14/2023,Completed,Completed,Regular
+981,HERPM46202PM1066,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Faryab,Shirin Tagab,Faryab,Health Facility,6/27/2026,7/1/2026,,Completed,7/2/2023,Completed,Completed,Regular
+2812,HERPM46203PM1067,FNRC,Multinational Collaboration,6/12/2023,Site Visit,Paktya,Gardez,Paktya,Health Facility,6/28/2026,7/2/2026,,Completed,10/19/2023,Completed,Completed,Regular
+7882,HERPM46204PM1068,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Nangarhar,Sherzad,Nangarhar,HF,6/29/2026,7/3/2026,,Completed,,Completed,Completed,Regular
+8008,HERPM46205PM1069,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Nuristan,Parun,Nuristan,HF,6/30/2026,7/4/2026,,Completed,,Completed,Completed,Regular
+8061,HERPM46206PM1070,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Balkh,Sholgareh,Balkh,HF,7/1/2026,7/5/2026,,Not applicable,,Completed,Completed,Regular
+1125,HERPM46207PM1071,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Nimroz,Khashrod,Nimroz,Health Facility,7/2/2026,7/6/2026,,Completed,6/26/2023,Completed,Completed,Regular
+939,HERPM46208PM1072,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Balkh,Nahr-e-Shahi,Balkh,Health Facility,7/3/2026,7/7/2026,,Completed,6/25/2023,Completed,Completed,Regular
+1208,HERPM46209PM1073,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Takhar,Warsaj,Takhar,Health Facility,7/4/2026,7/8/2026,,Completed,7/12/2023,Completed,Completed,Regular
+2818,HERPM46210PM1074,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Nimroz,Kang,Nimroz,Health Facility,7/5/2026,7/9/2026,,Completed,10/17/2023,Completed,Completed,Regular
+1061,HERPM46211PM1075,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Kapisa,Tagab,Kapisa,Health Facility,7/6/2026,7/10/2026,,Completed,7/3/2023,Completed,Completed,Regular
+2984,HERPM46212PM1076,FNRC,Multinational Collaboration,7/1/2023,Site Visit,Takhar,Farkhar,Takhar,Health Facility,7/7/2026,7/11/2026,,Completed,10/13/2023,Completed,Completed,Regular
+7848,HERPM46213PM1077,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Hirat,Kushk,Hirat,HF,7/8/2026,7/12/2026,,Completed,,Completed,Completed,Regular
+11459,HERPM46214PM1078,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Nangarhar,Khogyani,Nangarhar,School,7/9/2026,7/13/2026,,Planned,,Not applicable,Planned,Regular
+2901,HERPM46215PM1079,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Baghlan,Andarab,Baghlan,Health Facility,7/10/2026,7/14/2026,,Completed,10/17/2023,Completed,Completed,Regular
+962,HERPM46216PM1080,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Farah,Anar Dara,Farah,Health Facility,7/11/2026,7/15/2026,,Completed,7/8/2023,Completed,Completed,Regular
+2917,HERPM46217PM1081,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Jawzjan,Darzab,Jawzjan,Health Facility,7/12/2026,7/16/2026,,Completed,10/18/2023,Completed,Completed,Regular
+5464,HERPM46218PM1082,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Kunar,Asad Abad,Kunar,Service Provider,7/13/2026,7/17/2026,,Not applicable,11/15/2023,Completed,Completed,Regular
+1184,HERPM46219PM1083,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Samangan,Khuram Wa Sarbagh,Samangan,Health Facility,7/14/2026,7/18/2026,,Completed,7/2/2023,Completed,Completed,Regular
+1212,HERPM46220PM1084,FNRC,Multinational Collaboration,4/10/2024,Site Visit,,Dehrawud,Uruzgan,Health Facility,7/15/2026,7/19/2026,,Completed,7/4/2023,Completed,Completed,Regular
+1039,HERPM46221PM1085,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Kabul,Shakar Dara,Kabul,Health Facility,7/16/2026,7/20/2026,,Completed,7/4/2023,Completed,Completed,Regular
+1150,HERPM46222PM1086,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Paktika,Barmal,Paktika,Health Facility,7/17/2026,7/21/2026,,Completed,7/4/2023,Completed,Completed,Regular
+2773,HERPM46223PM1087,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Laghman,Mehtarlam,Laghman,Health Facility,7/18/2026,7/22/2026,,Completed,10/11/2023,Completed,Completed,Regular
+918,HERPM46224PM1088,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Badghis,Muqur,Badghis,Health Facility,7/19/2026,7/23/2026,,Completed,7/6/2023,Completed,Completed,Regular
+7824,HERPM46225PM1089,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Bamyan,Kahmard,Bamyan,HF,7/20/2026,7/24/2026,,Completed,,Completed,Completed,Regular
+1097,HERPM46226PM1090,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Laghman,Qarghayi,Laghman,Health Facility,7/21/2026,7/25/2026,,Completed,6/26/2023,Completed,Completed,Regular
+1113,HERPM46227PM1091,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Nangarhar,Behsud,Nangarhar,Health Facility,7/22/2026,7/26/2026,,Completed,6/25/2023,Completed,Completed,Regular
+5453,HERPM46228PM1092,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Farah,Farah,Farah,Service Provider,7/23/2026,7/27/2026,,Not applicable,11/21/2023,Completed,Completed,Regular
+2817,HERPM46229PM1093,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Daykundi,Shahrestan,Daykundi,Health Facility,7/24/2026,7/28/2026,,Completed,10/22/2023,Completed,Completed,Regular
+2862,HERPM46230PM1094,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Kunar,Dangam,Kunar,Health Facility,7/25/2026,7/29/2026,,Completed,10/19/2023,Completed,Completed,Regular
+8001,HERPM46231PM1095,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Nangarhar,Pachir Wa Agam,Nangarhar,HF,7/26/2026,7/30/2026,,Completed,,Completed,Completed,Regular
+8041,HERPM46232PM1096,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Zabul,Shinkay,Zabul,HF,7/27/2026,7/31/2026,,Completed,,Completed,Completed,Regular
+2799,HERPM46233PM1097,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Takhar,Eshkmesh,Takhar,Health Facility,7/28/2026,8/1/2026,,Completed,10/15/2023,Completed,Completed,Regular
+8058,HERPM46234PM1098,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Sar-e-Pul,Sancharak,Sar-e-Pul,HF,7/29/2026,8/2/2026,,Completed,,Completed,Completed,Regular
+1056,HERPM46235PM1099,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Kapisa,Nijrab,Kapisa,Health Facility,7/30/2026,8/3/2026,,Completed,7/7/2023,Completed,Completed,Regular
+8052,HERPM46236PM1100,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Kapisa,Hisa-e-Awal-e-Kohistan,Kapisa,HF,7/31/2026,8/4/2026,,Completed,,Completed,Completed,Regular
+1095,HERPM46237PM1101,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Laghman,Baadpukh,Laghman,Health Facility,8/1/2026,8/5/2026,,Completed,7/6/2023,Completed,Completed,Regular
+1116,HERPM46238PM1102,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Nangarhar,Khogyani,Nangarhar,Health Facility,8/2/2026,8/6/2026,,Completed,7/4/2023,Completed,Completed,Regular
+1124,HERPM46239PM1103,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Nimroz,Kang,Nimroz,Health Facility,8/3/2026,8/7/2026,,Completed,7/4/2023,Completed,Completed,Regular
+1032,HERPM46240PM1104,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Kabul,Chahar Asyab,Kabul,Health Facility,8/4/2026,8/8/2026,,Completed,7/5/2023,Completed,Completed,Regular
+7934,HERPM46241PM1105,FNRC,Multinational Collaboration,4/10/2024,Site Visit,Baghlan,Khwaja Hejran,Baghlan,HF,8/5/2026,8/9/2026,,Completed,,Completed,Completed,Regular
+986,HERPM46242PM1106,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Ghazni,Nawur,Ghazni,Health Facility,8/6/2026,8/10/2026,,Completed,7/12/2023,Completed,Completed,Regular
+5463,HERPM46243PM1107,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Khost,Matun,Khost,Service Provider,8/7/2026,8/11/2026,,Not applicable,11/20/2023,Completed,Completed,Regular
+1180,HERPM46244PM1108,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Samangan,Dara-e-Suf-e-Payin,Samangan,Health Facility,8/8/2026,8/12/2026,,Completed,7/11/2023,Completed,Completed,Regular
+2975,HERPM46245PM1109,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Paktika,Omna,Paktika,Health Facility,8/9/2026,8/13/2026,,Completed,10/23/2023,Completed,Completed,Regular
+1140,HERPM46246PM1110,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Paktya,Ahmadaba,Paktya,Health Facility,8/10/2026,8/14/2026,,Completed,7/3/2023,Completed,Completed,Regular
+927,HERPM46247PM1111,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Baghlan,Doshi,Baghlan,Health Facility,8/11/2026,8/15/2026,,Completed,7/4/2023,Completed,Completed,Regular
+1070,HERPM46248PM1112,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Khost,Tani,Khost,Health Facility,8/12/2026,8/16/2026,,Completed,7/6/2023,Completed,Completed,Regular
+1178,HERPM46249PM1113,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Parwan,Ghorband,Parwan,Health Facility,8/13/2026,8/17/2026,,Completed,7/13/2023,Completed,Completed,Regular
+8045,HERPM46250PM1114,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Baghlan,Nahrin,Baghlan,HF,8/14/2026,8/18/2026,,Completed,,Completed,Completed,Regular
+7906,HERPM46251PM1115,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Samangan,Dara-e-Suf-e-Payin,Samangan,HF,8/15/2026,8/19/2026,,Not applicable,,Completed,Completed,Regular
+1066,HERPM46252PM1116,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Khost,Musa Khel,Khost,Health Facility,8/16/2026,8/20/2026,,Completed,7/5/2023,Completed,Completed,Regular
+938,HERPM46253PM1117,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Balkh,Mazar-e-Sharif,Balkh,Health Facility,8/17/2026,8/21/2026,,Completed,6/26/2023,Completed,Completed,Regular
+7853,HERPM46254PM1118,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Jawzjan,Aqcha,Jawzjan,HF,8/18/2026,8/22/2026,,Not applicable,,Completed,Completed,Regular
+969,HERPM46255PM1119,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Farah,Lash-e-Juwayn,Farah,Health Facility,8/19/2026,8/23/2026,,Completed,7/4/2023,Completed,Completed,Regular
+7869,HERPM46256PM1120,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Balkh,Sholgareh,Balkh,HF,8/20/2026,8/24/2026,,Completed,,Completed,Completed,Regular
+1196,HERPM46257PM1121,FNRC,Multinational Collaboration,8/8/2025,Site Visit,Sar-e-Pul,Sancharak,Sar-e-Pul,Health Facility,8/21/2026,8/25/2026,,Completed,7/4/2023,Completed,Completed,Regular
+6597,ARRPPM46258PM1122,ARRP,Infrastructure Development,8/24/2026,Site Visit,Paktya,Gardez,Paktya,NGO,8/22/2026,8/26/2026,,Not applicable,,Completed,Completed,Ad Hoc
+2735,ARRPPM46259PM1123,ARRP,Infrastructure Development,8/25/2026,Site Visit,Kabul,Kabul,Kabul,Training,8/23/2026,8/27/2026,,Not applicable,9/16/2023,Completed,Completed,Ad Hoc
+6645,ARRPPM46260PM1124,ARRP,Infrastructure Development,8/26/2026,Site Visit,Hirat,Hirat,Hirat,NGO,8/24/2026,8/28/2026,,Not applicable,,Completed,Completed,Ad Hoc
+2762,ARRPPM46261PM1125,ARRP,Infrastructure Development,8/27/2026,Site Visit,Hirat,Hirat,Hirat,Training,8/25/2026,8/29/2026,,Not applicable,9/26/2023,Completed,Completed,Ad Hoc
+6547,ARRPPM46262PM1126,ARRP,Infrastructure Development,9/28/2026,Site Visit,Kabul,Kabul,Kabul,NGO,8/26/2026,8/30/2026,,Not applicable,,Completed,Completed,Ad Hoc
+6582,ARRPPM46263PM1127,ARRP,Infrastructure Development,9/28/2026,Site Visit,Nangarhar,Jalalabad,Nangarhar,NGO,8/27/2026,8/31/2026,,Not applicable,,Completed,Completed,Ad Hoc
+6571,ARRPPM46264PM1128,ARRP,Infrastructure Development,9/28/2026,Site Visit,Kabul,Kabul,Kabul,NGO,8/28/2026,9/1/2026,,Not applicable,,Completed,Completed,Ad Hoc
+2719,ARRPPM46265PM1129,ARRP,Infrastructure Development,9/28/2026,Site Visit,Kabul,Kabul,Kabul,Training,8/29/2026,9/2/2026,,Not applicable,9/23/2023,Completed,Completed,Ad Hoc
+6574,ARRPPM46266PM1130,ARRP,Infrastructure Development,9/28/2026,Site Visit,Kabul,Kabul,Kabul,NGO,8/30/2026,9/3/2026,,Not applicable,,Completed,Completed,Ad Hoc
+2717,ARRPPM46267PM1131,ARRP,Infrastructure Development,9/28/2026,Site Visit,Kabul,Kabul,Kabul,Training,8/31/2026,9/4/2026,,Not applicable,9/23/2023,Completed,Completed,Ad Hoc
+6627,ARRPPM46268PM1132,ARRP,Infrastructure Development,10/3/2026,Site Visit,Kabul,Kabul,Kabul,NGO,9/1/2026,9/5/2026,,Not applicable,,Completed,Completed,Ad Hoc
+2747,ARRPPM46269PM1133,ARRP,Infrastructure Development,10/3/2026,Site Visit,Balkh,Mazar-e-Sharif,Balkh,Training,9/2/2026,9/6/2026,,Not applicable,9/16/2023,Completed,Completed,Ad Hoc
+6528,ARRPPM46270PM1134,ARRP,Infrastructure Development,10/3/2026,Site Visit,Kabul,Kabul,Kabul,NGO,9/3/2026,9/7/2026,,Not applicable,,Completed,Completed,Ad Hoc
+6619,ARRPPM46271PM1135,ARRP,Infrastructure Development,10/3/2026,Site Visit,Samangan,Aybak,Samangan,NGO,9/4/2026,9/8/2026,,Not applicable,,Completed,Completed,Ad Hoc
+6545,ARRPPM46272PM1136,ARRP,Infrastructure Development,10/3/2026,Site Visit,Nangarhar,Jalalabad,Nangarhar,NGO,9/5/2026,9/9/2026,,Not applicable,,Completed,Completed,Ad Hoc
+2714,ARRPPM46273PM1137,ARRP,Infrastructure Development,10/3/2026,Site Visit,Kabul,Kabul,Kabul,Training,9/6/2026,9/10/2026,,Not applicable,9/26/2023,Completed,Completed,Ad Hoc
+6536,ARRPPM46274PM1138,ARRP,Infrastructure Development,10/3/2026,Site Visit,Hirat,Hirat,Hirat,NGO,9/7/2026,9/11/2026,,Not applicable,,Completed,Completed,Ad Hoc
+6557,ARRPPM46275PM1139,ARRP,Infrastructure Development,10/3/2026,Site Visit,Kabul,Kabul,Kabul,NGO,9/8/2026,9/12/2026,,Not applicable,,Completed,Completed,Ad Hoc
+6631,ARRPPM46276PM1140,ARRP,Infrastructure Development,10/3/2026,Site Visit,Takhar,Taloqan,Takhar,NGO,9/9/2026,9/13/2026,,Not applicable,,Cancelled,Cancelled,Ad Hoc
+6666,TAP-ETLPM46277PM1141,TAP-ETL,Government Utility,9/12/2024,Site Visit,Bamyan,Shibar,Bamyan,Sub Project,9/10/2026,9/14/2026,,Completed,,,Completed,Ad Hoc
+6713,TAP-ETLPM46278PM1142,TAP-ETL,Government Utility,9/12/2024,Site Visit,Baghlan,Doshi,Baghlan,Sub Project,9/11/2026,9/15/2026,,Completed,,,Completed,Ad Hoc
+6674,TAP-ETLPM46279PM1143,TAP-ETL,Government Utility,9/12/2024,Site Visit,Bamyan,Shibar,Bamyan,Sub Project,9/12/2026,9/16/2026,,Completed,,,Completed,Ad Hoc
+6676,TAP-ETLPM46280PM1144,TAP-ETL,Government Utility,9/12/2024,Site Visit,Bamyan,Shibar,Bamyan,Sub Project,9/13/2026,9/17/2026,,Completed,,,Completed,Ad Hoc
+6669,TAP-ETLPM46281PM1145,TAP-ETL,Government Utility,9/12/2024,Site Visit,Bamyan,Shibar,Bamyan,Sub Project,9/14/2026,9/18/2026,,Completed,,,Completed,Ad Hoc
+6709,TAP-ETLPM46282PM1146,TAP-ETL,Government Utility,9/12/2024,Site Visit,Baghlan,Doshi,Baghlan,Sub Project,9/15/2026,9/19/2026,,Completed,,,Completed,Ad Hoc
+6652,TAP-ETLPM46283PM1147,TAP-ETL,Government Utility,9/12/2024,Site Visit,Bamyan,Shibar,Bamyan,Sub Project,9/16/2026,9/20/2026,,Completed,,,Completed,Ad Hoc
