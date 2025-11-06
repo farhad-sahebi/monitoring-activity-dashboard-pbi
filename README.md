@@ -42,3 +42,39 @@ pbix/ # Power BI files and themes
 docs/ # Documentation + images
 data/ # Sample data + dictionary
 src/ # (Optional) DAX/Power Query exports
+
+
+## How to Use
+1. Open `pbix/Monitoring-Activity-Dashboard.pbix` in Power BI Desktop.
+2. Update data source paths if prompted.
+3. Refresh to load latest data.
+4. Use slicers to filter by geography, project, and status.
+
+## Visual/UX Notes
+- Clean card KPIs, rounded containers, soft shadows
+- Toggle button to switch column/line chart for Monthly by Project
+- Province map color scale: 1–100 / 101–200 / 201–400+
+
+## Data & Ethics
+- No PII is included. Sample data is anonymized.
+- Real datasets should follow your organization’s data governance & consent rules.
+
+## Roadmap
+- [ ] Add automated monthly snapshot images to `/docs/images/`
+- [ ] Publish to Power BI Service & embed read-only link in README
+- [ ] Add unit tests for DAX with Tabular Editor Best Practice Analyzer (optional)
+
+## 📄 License
+MIT – see [`LICENSE`](LICENSE).
+
+## Author
+**Mohammad Farhad Sahebi** – Data Analyst  
+Connect: LinkedIn | GitHub
+Connect: [LinkedIn](https://linkedin.com/in/farhad-sahebi) | [GitHub](https://github.com/farhad-sahebi)
+
+
+
+
+
+
+
