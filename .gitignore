@@ -1,0 +1,36 @@
+# Power BI / Office
+~$*
+*.tmp
+*.lock
+*.bak
+*.log
+*.pbix.tmp
+*.pbit.tmp
+
+# If using Power BI Performance Analyzer exports
+*.json
+
+# If PBIX is large and tracked via Git LFS (uncomment if needed)
+# *.pbix
+
+# Data exports / cache
+*.csv~
+*.xlsx~
+*.cache
+*.zip
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Windows shortcuts
+*.lnk
+
+# Backup folders
+_backup/
+~$*
