@@ -13,6 +13,12 @@ A professional Power BI dashboard to track **site visit monitoring** across proj
 - **Gender disaggregation** for respondents & monitoring staff
 - Professional **slicers** for deep filtering and analysis
 
+<p align="center">
+  <img src="images/page1-filtered_province_wise.png" alt="Monitoring Overview" width="90%">
+</p>
+
+
+
 ## Key Metrics 
 - **Completed Visits:**
 - **Cancelled Visits:**  
@@ -37,12 +43,15 @@ A professional Power BI dashboard to track **site visit monitoring** across proj
 ## Sample Data
 A de-identified sample is included in `data/sample/` for structure reference. Replace with real data as needed.
 
+<p align="center">
+  <img src="images/sample-table.png" alt="Gender Disaggregation" width="90%">
+</p>
+
 ## File Structure
 pbix/ # Power BI files and themes
 docs/ # Documentation + images
 data/ # Sample data + dictionary
 src/ # (Optional) DAX/Power Query exports
-
 
 ## How to Use
 1. Open `pbix/Monitoring-Activity-Dashboard.pbix` in Power BI Desktop.
